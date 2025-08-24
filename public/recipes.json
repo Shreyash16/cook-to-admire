@@ -1,1502 +1,2402 @@
 [
   {
-    "title": "Indian Recipe 1",
-    "description": "Tasty Indian dish number 1. | स्वादिष्ट भारतीय व्यंजन संख्या 1।",
-    "ingredients": [
-      "Ingredient A1",
-      "Ingredient B1",
-      "Ingredient C1"
-    ],
-    "instructions": "Cook all ingredients of recipe 1 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe1_1/1080/1080",
-      "https://picsum.photos/seed/recipe1_2/1080/1080",
-      "https://picsum.photos/seed/recipe1_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 2",
-    "description": "Tasty Indian dish number 2. | स्वादिष्ट भारतीय व्यंजन संख्या 2।",
-    "ingredients": [
-      "Ingredient A2",
-      "Ingredient B2",
-      "Ingredient C2"
-    ],
-    "instructions": "Cook all ingredients of recipe 2 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe2_1/1080/1080",
-      "https://picsum.photos/seed/recipe2_2/1080/1080",
-      "https://picsum.photos/seed/recipe2_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 3",
-    "description": "Tasty Indian dish number 3. | स्वादिष्ट भारतीय व्यंजन संख्या 3।",
-    "ingredients": [
-      "Ingredient A3",
-      "Ingredient B3",
-      "Ingredient C3"
-    ],
-    "instructions": "Cook all ingredients of recipe 3 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe3_1/1080/1080",
-      "https://picsum.photos/seed/recipe3_2/1080/1080",
-      "https://picsum.photos/seed/recipe3_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 4",
-    "description": "Tasty Indian dish number 4. | स्वादिष्ट भारतीय व्यंजन संख्या 4।",
-    "ingredients": [
-      "Ingredient A4",
-      "Ingredient B4",
-      "Ingredient C4"
-    ],
-    "instructions": "Cook all ingredients of recipe 4 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe4_1/1080/1080",
-      "https://picsum.photos/seed/recipe4_2/1080/1080",
-      "https://picsum.photos/seed/recipe4_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 5",
-    "description": "Tasty Indian dish number 5. | स्वादिष्ट भारतीय व्यंजन संख्या 5।",
-    "ingredients": [
-      "Ingredient A5",
-      "Ingredient B5",
-      "Ingredient C5"
-    ],
-    "instructions": "Cook all ingredients of recipe 5 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe5_1/1080/1080",
-      "https://picsum.photos/seed/recipe5_2/1080/1080",
-      "https://picsum.photos/seed/recipe5_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 6",
-    "description": "Tasty Indian dish number 6. | स्वादिष्ट भारतीय व्यंजन संख्या 6।",
-    "ingredients": [
-      "Ingredient A6",
-      "Ingredient B6",
-      "Ingredient C6"
-    ],
-    "instructions": "Cook all ingredients of recipe 6 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe6_1/1080/1080",
-      "https://picsum.photos/seed/recipe6_2/1080/1080",
-      "https://picsum.photos/seed/recipe6_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 7",
-    "description": "Tasty Indian dish number 7. | स्वादिष्ट भारतीय व्यंजन संख्या 7।",
-    "ingredients": [
-      "Ingredient A7",
-      "Ingredient B7",
-      "Ingredient C7"
-    ],
-    "instructions": "Cook all ingredients of recipe 7 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe7_1/1080/1080",
-      "https://picsum.photos/seed/recipe7_2/1080/1080",
-      "https://picsum.photos/seed/recipe7_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 8",
-    "description": "Tasty Indian dish number 8. | स्वादिष्ट भारतीय व्यंजन संख्या 8।",
-    "ingredients": [
-      "Ingredient A8",
-      "Ingredient B8",
-      "Ingredient C8"
-    ],
-    "instructions": "Cook all ingredients of recipe 8 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe8_1/1080/1080",
-      "https://picsum.photos/seed/recipe8_2/1080/1080",
-      "https://picsum.photos/seed/recipe8_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 9",
-    "description": "Tasty Indian dish number 9. | स्वादिष्ट भारतीय व्यंजन संख्या 9।",
-    "ingredients": [
-      "Ingredient A9",
-      "Ingredient B9",
-      "Ingredient C9"
-    ],
-    "instructions": "Cook all ingredients of recipe 9 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe9_1/1080/1080",
-      "https://picsum.photos/seed/recipe9_2/1080/1080",
-      "https://picsum.photos/seed/recipe9_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 10",
-    "description": "Tasty Indian dish number 10. | स्वादिष्ट भारतीय व्यंजन संख्या 10।",
-    "ingredients": [
-      "Ingredient A10",
-      "Ingredient B10",
-      "Ingredient C10"
-    ],
-    "instructions": "Cook all ingredients of recipe 10 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe10_1/1080/1080",
-      "https://picsum.photos/seed/recipe10_2/1080/1080",
-      "https://picsum.photos/seed/recipe10_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 11",
-    "description": "Tasty Indian dish number 11. | स्वादिष्ट भारतीय व्यंजन संख्या 11।",
-    "ingredients": [
-      "Ingredient A11",
-      "Ingredient B11",
-      "Ingredient C11"
-    ],
-    "instructions": "Cook all ingredients of recipe 11 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe11_1/1080/1080",
-      "https://picsum.photos/seed/recipe11_2/1080/1080",
-      "https://picsum.photos/seed/recipe11_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 12",
-    "description": "Tasty Indian dish number 12. | स्वादिष्ट भारतीय व्यंजन संख्या 12।",
-    "ingredients": [
-      "Ingredient A12",
-      "Ingredient B12",
-      "Ingredient C12"
-    ],
-    "instructions": "Cook all ingredients of recipe 12 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe12_1/1080/1080",
-      "https://picsum.photos/seed/recipe12_2/1080/1080",
-      "https://picsum.photos/seed/recipe12_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 13",
-    "description": "Tasty Indian dish number 13. | स्वादिष्ट भारतीय व्यंजन संख्या 13।",
-    "ingredients": [
-      "Ingredient A13",
-      "Ingredient B13",
-      "Ingredient C13"
-    ],
-    "instructions": "Cook all ingredients of recipe 13 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe13_1/1080/1080",
-      "https://picsum.photos/seed/recipe13_2/1080/1080",
-      "https://picsum.photos/seed/recipe13_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 14",
-    "description": "Tasty Indian dish number 14. | स्वादिष्ट भारतीय व्यंजन संख्या 14।",
-    "ingredients": [
-      "Ingredient A14",
-      "Ingredient B14",
-      "Ingredient C14"
-    ],
-    "instructions": "Cook all ingredients of recipe 14 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe14_1/1080/1080",
-      "https://picsum.photos/seed/recipe14_2/1080/1080",
-      "https://picsum.photos/seed/recipe14_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 15",
-    "description": "Tasty Indian dish number 15. | स्वादिष्ट भारतीय व्यंजन संख्या 15।",
-    "ingredients": [
-      "Ingredient A15",
-      "Ingredient B15",
-      "Ingredient C15"
-    ],
-    "instructions": "Cook all ingredients of recipe 15 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe15_1/1080/1080",
-      "https://picsum.photos/seed/recipe15_2/1080/1080",
-      "https://picsum.photos/seed/recipe15_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 16",
-    "description": "Tasty Indian dish number 16. | स्वादिष्ट भारतीय व्यंजन संख्या 16।",
-    "ingredients": [
-      "Ingredient A16",
-      "Ingredient B16",
-      "Ingredient C16"
-    ],
-    "instructions": "Cook all ingredients of recipe 16 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe16_1/1080/1080",
-      "https://picsum.photos/seed/recipe16_2/1080/1080",
-      "https://picsum.photos/seed/recipe16_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 17",
-    "description": "Tasty Indian dish number 17. | स्वादिष्ट भारतीय व्यंजन संख्या 17।",
-    "ingredients": [
-      "Ingredient A17",
-      "Ingredient B17",
-      "Ingredient C17"
-    ],
-    "instructions": "Cook all ingredients of recipe 17 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe17_1/1080/1080",
-      "https://picsum.photos/seed/recipe17_2/1080/1080",
-      "https://picsum.photos/seed/recipe17_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 18",
-    "description": "Tasty Indian dish number 18. | स्वादिष्ट भारतीय व्यंजन संख्या 18।",
-    "ingredients": [
-      "Ingredient A18",
-      "Ingredient B18",
-      "Ingredient C18"
-    ],
-    "instructions": "Cook all ingredients of recipe 18 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe18_1/1080/1080",
-      "https://picsum.photos/seed/recipe18_2/1080/1080",
-      "https://picsum.photos/seed/recipe18_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 19",
-    "description": "Tasty Indian dish number 19. | स्वादिष्ट भारतीय व्यंजन संख्या 19।",
-    "ingredients": [
-      "Ingredient A19",
-      "Ingredient B19",
-      "Ingredient C19"
-    ],
-    "instructions": "Cook all ingredients of recipe 19 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe19_1/1080/1080",
-      "https://picsum.photos/seed/recipe19_2/1080/1080",
-      "https://picsum.photos/seed/recipe19_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 20",
-    "description": "Tasty Indian dish number 20. | स्वादिष्ट भारतीय व्यंजन संख्या 20।",
-    "ingredients": [
-      "Ingredient A20",
-      "Ingredient B20",
-      "Ingredient C20"
-    ],
-    "instructions": "Cook all ingredients of recipe 20 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe20_1/1080/1080",
-      "https://picsum.photos/seed/recipe20_2/1080/1080",
-      "https://picsum.photos/seed/recipe20_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 21",
-    "description": "Tasty Indian dish number 21. | स्वादिष्ट भारतीय व्यंजन संख्या 21।",
-    "ingredients": [
-      "Ingredient A21",
-      "Ingredient B21",
-      "Ingredient C21"
-    ],
-    "instructions": "Cook all ingredients of recipe 21 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe21_1/1080/1080",
-      "https://picsum.photos/seed/recipe21_2/1080/1080",
-      "https://picsum.photos/seed/recipe21_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 22",
-    "description": "Tasty Indian dish number 22. | स्वादिष्ट भारतीय व्यंजन संख्या 22।",
-    "ingredients": [
-      "Ingredient A22",
-      "Ingredient B22",
-      "Ingredient C22"
-    ],
-    "instructions": "Cook all ingredients of recipe 22 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe22_1/1080/1080",
-      "https://picsum.photos/seed/recipe22_2/1080/1080",
-      "https://picsum.photos/seed/recipe22_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 23",
-    "description": "Tasty Indian dish number 23. | स्वादिष्ट भारतीय व्यंजन संख्या 23।",
-    "ingredients": [
-      "Ingredient A23",
-      "Ingredient B23",
-      "Ingredient C23"
-    ],
-    "instructions": "Cook all ingredients of recipe 23 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe23_1/1080/1080",
-      "https://picsum.photos/seed/recipe23_2/1080/1080",
-      "https://picsum.photos/seed/recipe23_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 24",
-    "description": "Tasty Indian dish number 24. | स्वादिष्ट भारतीय व्यंजन संख्या 24।",
-    "ingredients": [
-      "Ingredient A24",
-      "Ingredient B24",
-      "Ingredient C24"
-    ],
-    "instructions": "Cook all ingredients of recipe 24 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe24_1/1080/1080",
-      "https://picsum.photos/seed/recipe24_2/1080/1080",
-      "https://picsum.photos/seed/recipe24_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 25",
-    "description": "Tasty Indian dish number 25. | स्वादिष्ट भारतीय व्यंजन संख्या 25।",
-    "ingredients": [
-      "Ingredient A25",
-      "Ingredient B25",
-      "Ingredient C25"
-    ],
-    "instructions": "Cook all ingredients of recipe 25 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe25_1/1080/1080",
-      "https://picsum.photos/seed/recipe25_2/1080/1080",
-      "https://picsum.photos/seed/recipe25_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 26",
-    "description": "Tasty Indian dish number 26. | स्वादिष्ट भारतीय व्यंजन संख्या 26।",
-    "ingredients": [
-      "Ingredient A26",
-      "Ingredient B26",
-      "Ingredient C26"
-    ],
-    "instructions": "Cook all ingredients of recipe 26 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe26_1/1080/1080",
-      "https://picsum.photos/seed/recipe26_2/1080/1080",
-      "https://picsum.photos/seed/recipe26_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 27",
-    "description": "Tasty Indian dish number 27. | स्वादिष्ट भारतीय व्यंजन संख्या 27।",
-    "ingredients": [
-      "Ingredient A27",
-      "Ingredient B27",
-      "Ingredient C27"
-    ],
-    "instructions": "Cook all ingredients of recipe 27 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe27_1/1080/1080",
-      "https://picsum.photos/seed/recipe27_2/1080/1080",
-      "https://picsum.photos/seed/recipe27_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 28",
-    "description": "Tasty Indian dish number 28. | स्वादिष्ट भारतीय व्यंजन संख्या 28।",
-    "ingredients": [
-      "Ingredient A28",
-      "Ingredient B28",
-      "Ingredient C28"
-    ],
-    "instructions": "Cook all ingredients of recipe 28 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe28_1/1080/1080",
-      "https://picsum.photos/seed/recipe28_2/1080/1080",
-      "https://picsum.photos/seed/recipe28_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 29",
-    "description": "Tasty Indian dish number 29. | स्वादिष्ट भारतीय व्यंजन संख्या 29।",
-    "ingredients": [
-      "Ingredient A29",
-      "Ingredient B29",
-      "Ingredient C29"
-    ],
-    "instructions": "Cook all ingredients of recipe 29 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe29_1/1080/1080",
-      "https://picsum.photos/seed/recipe29_2/1080/1080",
-      "https://picsum.photos/seed/recipe29_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 30",
-    "description": "Tasty Indian dish number 30. | स्वादिष्ट भारतीय व्यंजन संख्या 30।",
-    "ingredients": [
-      "Ingredient A30",
-      "Ingredient B30",
-      "Ingredient C30"
-    ],
-    "instructions": "Cook all ingredients of recipe 30 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe30_1/1080/1080",
-      "https://picsum.photos/seed/recipe30_2/1080/1080",
-      "https://picsum.photos/seed/recipe30_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 31",
-    "description": "Tasty Indian dish number 31. | स्वादिष्ट भारतीय व्यंजन संख्या 31।",
-    "ingredients": [
-      "Ingredient A31",
-      "Ingredient B31",
-      "Ingredient C31"
-    ],
-    "instructions": "Cook all ingredients of recipe 31 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe31_1/1080/1080",
-      "https://picsum.photos/seed/recipe31_2/1080/1080",
-      "https://picsum.photos/seed/recipe31_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 32",
-    "description": "Tasty Indian dish number 32. | स्वादिष्ट भारतीय व्यंजन संख्या 32।",
-    "ingredients": [
-      "Ingredient A32",
-      "Ingredient B32",
-      "Ingredient C32"
-    ],
-    "instructions": "Cook all ingredients of recipe 32 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe32_1/1080/1080",
-      "https://picsum.photos/seed/recipe32_2/1080/1080",
-      "https://picsum.photos/seed/recipe32_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 33",
-    "description": "Tasty Indian dish number 33. | स्वादिष्ट भारतीय व्यंजन संख्या 33।",
-    "ingredients": [
-      "Ingredient A33",
-      "Ingredient B33",
-      "Ingredient C33"
-    ],
-    "instructions": "Cook all ingredients of recipe 33 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe33_1/1080/1080",
-      "https://picsum.photos/seed/recipe33_2/1080/1080",
-      "https://picsum.photos/seed/recipe33_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 34",
-    "description": "Tasty Indian dish number 34. | स्वादिष्ट भारतीय व्यंजन संख्या 34।",
-    "ingredients": [
-      "Ingredient A34",
-      "Ingredient B34",
-      "Ingredient C34"
-    ],
-    "instructions": "Cook all ingredients of recipe 34 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe34_1/1080/1080",
-      "https://picsum.photos/seed/recipe34_2/1080/1080",
-      "https://picsum.photos/seed/recipe34_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 35",
-    "description": "Tasty Indian dish number 35. | स्वादिष्ट भारतीय व्यंजन संख्या 35।",
-    "ingredients": [
-      "Ingredient A35",
-      "Ingredient B35",
-      "Ingredient C35"
-    ],
-    "instructions": "Cook all ingredients of recipe 35 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe35_1/1080/1080",
-      "https://picsum.photos/seed/recipe35_2/1080/1080",
-      "https://picsum.photos/seed/recipe35_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 36",
-    "description": "Tasty Indian dish number 36. | स्वादिष्ट भारतीय व्यंजन संख्या 36।",
-    "ingredients": [
-      "Ingredient A36",
-      "Ingredient B36",
-      "Ingredient C36"
-    ],
-    "instructions": "Cook all ingredients of recipe 36 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe36_1/1080/1080",
-      "https://picsum.photos/seed/recipe36_2/1080/1080",
-      "https://picsum.photos/seed/recipe36_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 37",
-    "description": "Tasty Indian dish number 37. | स्वादिष्ट भारतीय व्यंजन संख्या 37।",
-    "ingredients": [
-      "Ingredient A37",
-      "Ingredient B37",
-      "Ingredient C37"
-    ],
-    "instructions": "Cook all ingredients of recipe 37 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe37_1/1080/1080",
-      "https://picsum.photos/seed/recipe37_2/1080/1080",
-      "https://picsum.photos/seed/recipe37_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 38",
-    "description": "Tasty Indian dish number 38. | स्वादिष्ट भारतीय व्यंजन संख्या 38।",
-    "ingredients": [
-      "Ingredient A38",
-      "Ingredient B38",
-      "Ingredient C38"
-    ],
-    "instructions": "Cook all ingredients of recipe 38 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe38_1/1080/1080",
-      "https://picsum.photos/seed/recipe38_2/1080/1080",
-      "https://picsum.photos/seed/recipe38_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 39",
-    "description": "Tasty Indian dish number 39. | स्वादिष्ट भारतीय व्यंजन संख्या 39।",
-    "ingredients": [
-      "Ingredient A39",
-      "Ingredient B39",
-      "Ingredient C39"
-    ],
-    "instructions": "Cook all ingredients of recipe 39 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe39_1/1080/1080",
-      "https://picsum.photos/seed/recipe39_2/1080/1080",
-      "https://picsum.photos/seed/recipe39_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 40",
-    "description": "Tasty Indian dish number 40. | स्वादिष्ट भारतीय व्यंजन संख्या 40।",
-    "ingredients": [
-      "Ingredient A40",
-      "Ingredient B40",
-      "Ingredient C40"
-    ],
-    "instructions": "Cook all ingredients of recipe 40 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe40_1/1080/1080",
-      "https://picsum.photos/seed/recipe40_2/1080/1080",
-      "https://picsum.photos/seed/recipe40_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 41",
-    "description": "Tasty Indian dish number 41. | स्वादिष्ट भारतीय व्यंजन संख्या 41।",
-    "ingredients": [
-      "Ingredient A41",
-      "Ingredient B41",
-      "Ingredient C41"
-    ],
-    "instructions": "Cook all ingredients of recipe 41 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe41_1/1080/1080",
-      "https://picsum.photos/seed/recipe41_2/1080/1080",
-      "https://picsum.photos/seed/recipe41_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 42",
-    "description": "Tasty Indian dish number 42. | स्वादिष्ट भारतीय व्यंजन संख्या 42।",
-    "ingredients": [
-      "Ingredient A42",
-      "Ingredient B42",
-      "Ingredient C42"
-    ],
-    "instructions": "Cook all ingredients of recipe 42 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe42_1/1080/1080",
-      "https://picsum.photos/seed/recipe42_2/1080/1080",
-      "https://picsum.photos/seed/recipe42_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 43",
-    "description": "Tasty Indian dish number 43. | स्वादिष्ट भारतीय व्यंजन संख्या 43।",
-    "ingredients": [
-      "Ingredient A43",
-      "Ingredient B43",
-      "Ingredient C43"
-    ],
-    "instructions": "Cook all ingredients of recipe 43 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe43_1/1080/1080",
-      "https://picsum.photos/seed/recipe43_2/1080/1080",
-      "https://picsum.photos/seed/recipe43_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 44",
-    "description": "Tasty Indian dish number 44. | स्वादिष्ट भारतीय व्यंजन संख्या 44।",
-    "ingredients": [
-      "Ingredient A44",
-      "Ingredient B44",
-      "Ingredient C44"
-    ],
-    "instructions": "Cook all ingredients of recipe 44 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe44_1/1080/1080",
-      "https://picsum.photos/seed/recipe44_2/1080/1080",
-      "https://picsum.photos/seed/recipe44_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 45",
-    "description": "Tasty Indian dish number 45. | स्वादिष्ट भारतीय व्यंजन संख्या 45।",
-    "ingredients": [
-      "Ingredient A45",
-      "Ingredient B45",
-      "Ingredient C45"
-    ],
-    "instructions": "Cook all ingredients of recipe 45 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe45_1/1080/1080",
-      "https://picsum.photos/seed/recipe45_2/1080/1080",
-      "https://picsum.photos/seed/recipe45_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 46",
-    "description": "Tasty Indian dish number 46. | स्वादिष्ट भारतीय व्यंजन संख्या 46।",
-    "ingredients": [
-      "Ingredient A46",
-      "Ingredient B46",
-      "Ingredient C46"
-    ],
-    "instructions": "Cook all ingredients of recipe 46 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe46_1/1080/1080",
-      "https://picsum.photos/seed/recipe46_2/1080/1080",
-      "https://picsum.photos/seed/recipe46_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 47",
-    "description": "Tasty Indian dish number 47. | स्वादिष्ट भारतीय व्यंजन संख्या 47।",
-    "ingredients": [
-      "Ingredient A47",
-      "Ingredient B47",
-      "Ingredient C47"
-    ],
-    "instructions": "Cook all ingredients of recipe 47 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe47_1/1080/1080",
-      "https://picsum.photos/seed/recipe47_2/1080/1080",
-      "https://picsum.photos/seed/recipe47_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 48",
-    "description": "Tasty Indian dish number 48. | स्वादिष्ट भारतीय व्यंजन संख्या 48।",
-    "ingredients": [
-      "Ingredient A48",
-      "Ingredient B48",
-      "Ingredient C48"
-    ],
-    "instructions": "Cook all ingredients of recipe 48 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe48_1/1080/1080",
-      "https://picsum.photos/seed/recipe48_2/1080/1080",
-      "https://picsum.photos/seed/recipe48_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 49",
-    "description": "Tasty Indian dish number 49. | स्वादिष्ट भारतीय व्यंजन संख्या 49।",
-    "ingredients": [
-      "Ingredient A49",
-      "Ingredient B49",
-      "Ingredient C49"
-    ],
-    "instructions": "Cook all ingredients of recipe 49 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe49_1/1080/1080",
-      "https://picsum.photos/seed/recipe49_2/1080/1080",
-      "https://picsum.photos/seed/recipe49_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 50",
-    "description": "Tasty Indian dish number 50. | स्वादिष्ट भारतीय व्यंजन संख्या 50।",
-    "ingredients": [
-      "Ingredient A50",
-      "Ingredient B50",
-      "Ingredient C50"
-    ],
-    "instructions": "Cook all ingredients of recipe 50 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe50_1/1080/1080",
-      "https://picsum.photos/seed/recipe50_2/1080/1080",
-      "https://picsum.photos/seed/recipe50_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 51",
-    "description": "Tasty Indian dish number 51. | स्वादिष्ट भारतीय व्यंजन संख्या 51।",
-    "ingredients": [
-      "Ingredient A51",
-      "Ingredient B51",
-      "Ingredient C51"
-    ],
-    "instructions": "Cook all ingredients of recipe 51 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe51_1/1080/1080",
-      "https://picsum.photos/seed/recipe51_2/1080/1080",
-      "https://picsum.photos/seed/recipe51_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 52",
-    "description": "Tasty Indian dish number 52. | स्वादिष्ट भारतीय व्यंजन संख्या 52।",
-    "ingredients": [
-      "Ingredient A52",
-      "Ingredient B52",
-      "Ingredient C52"
-    ],
-    "instructions": "Cook all ingredients of recipe 52 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe52_1/1080/1080",
-      "https://picsum.photos/seed/recipe52_2/1080/1080",
-      "https://picsum.photos/seed/recipe52_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 53",
-    "description": "Tasty Indian dish number 53. | स्वादिष्ट भारतीय व्यंजन संख्या 53।",
-    "ingredients": [
-      "Ingredient A53",
-      "Ingredient B53",
-      "Ingredient C53"
-    ],
-    "instructions": "Cook all ingredients of recipe 53 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe53_1/1080/1080",
-      "https://picsum.photos/seed/recipe53_2/1080/1080",
-      "https://picsum.photos/seed/recipe53_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 54",
-    "description": "Tasty Indian dish number 54. | स्वादिष्ट भारतीय व्यंजन संख्या 54।",
-    "ingredients": [
-      "Ingredient A54",
-      "Ingredient B54",
-      "Ingredient C54"
-    ],
-    "instructions": "Cook all ingredients of recipe 54 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe54_1/1080/1080",
-      "https://picsum.photos/seed/recipe54_2/1080/1080",
-      "https://picsum.photos/seed/recipe54_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 55",
-    "description": "Tasty Indian dish number 55. | स्वादिष्ट भारतीय व्यंजन संख्या 55।",
-    "ingredients": [
-      "Ingredient A55",
-      "Ingredient B55",
-      "Ingredient C55"
-    ],
-    "instructions": "Cook all ingredients of recipe 55 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe55_1/1080/1080",
-      "https://picsum.photos/seed/recipe55_2/1080/1080",
-      "https://picsum.photos/seed/recipe55_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 56",
-    "description": "Tasty Indian dish number 56. | स्वादिष्ट भारतीय व्यंजन संख्या 56।",
-    "ingredients": [
-      "Ingredient A56",
-      "Ingredient B56",
-      "Ingredient C56"
-    ],
-    "instructions": "Cook all ingredients of recipe 56 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe56_1/1080/1080",
-      "https://picsum.photos/seed/recipe56_2/1080/1080",
-      "https://picsum.photos/seed/recipe56_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 57",
-    "description": "Tasty Indian dish number 57. | स्वादिष्ट भारतीय व्यंजन संख्या 57।",
-    "ingredients": [
-      "Ingredient A57",
-      "Ingredient B57",
-      "Ingredient C57"
-    ],
-    "instructions": "Cook all ingredients of recipe 57 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe57_1/1080/1080",
-      "https://picsum.photos/seed/recipe57_2/1080/1080",
-      "https://picsum.photos/seed/recipe57_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 58",
-    "description": "Tasty Indian dish number 58. | स्वादिष्ट भारतीय व्यंजन संख्या 58।",
-    "ingredients": [
-      "Ingredient A58",
-      "Ingredient B58",
-      "Ingredient C58"
-    ],
-    "instructions": "Cook all ingredients of recipe 58 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe58_1/1080/1080",
-      "https://picsum.photos/seed/recipe58_2/1080/1080",
-      "https://picsum.photos/seed/recipe58_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 59",
-    "description": "Tasty Indian dish number 59. | स्वादिष्ट भारतीय व्यंजन संख्या 59।",
-    "ingredients": [
-      "Ingredient A59",
-      "Ingredient B59",
-      "Ingredient C59"
-    ],
-    "instructions": "Cook all ingredients of recipe 59 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe59_1/1080/1080",
-      "https://picsum.photos/seed/recipe59_2/1080/1080",
-      "https://picsum.photos/seed/recipe59_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 60",
-    "description": "Tasty Indian dish number 60. | स्वादिष्ट भारतीय व्यंजन संख्या 60।",
-    "ingredients": [
-      "Ingredient A60",
-      "Ingredient B60",
-      "Ingredient C60"
-    ],
-    "instructions": "Cook all ingredients of recipe 60 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe60_1/1080/1080",
-      "https://picsum.photos/seed/recipe60_2/1080/1080",
-      "https://picsum.photos/seed/recipe60_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 61",
-    "description": "Tasty Indian dish number 61. | स्वादिष्ट भारतीय व्यंजन संख्या 61।",
-    "ingredients": [
-      "Ingredient A61",
-      "Ingredient B61",
-      "Ingredient C61"
-    ],
-    "instructions": "Cook all ingredients of recipe 61 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe61_1/1080/1080",
-      "https://picsum.photos/seed/recipe61_2/1080/1080",
-      "https://picsum.photos/seed/recipe61_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 62",
-    "description": "Tasty Indian dish number 62. | स्वादिष्ट भारतीय व्यंजन संख्या 62।",
-    "ingredients": [
-      "Ingredient A62",
-      "Ingredient B62",
-      "Ingredient C62"
-    ],
-    "instructions": "Cook all ingredients of recipe 62 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe62_1/1080/1080",
-      "https://picsum.photos/seed/recipe62_2/1080/1080",
-      "https://picsum.photos/seed/recipe62_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 63",
-    "description": "Tasty Indian dish number 63. | स्वादिष्ट भारतीय व्यंजन संख्या 63।",
-    "ingredients": [
-      "Ingredient A63",
-      "Ingredient B63",
-      "Ingredient C63"
-    ],
-    "instructions": "Cook all ingredients of recipe 63 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe63_1/1080/1080",
-      "https://picsum.photos/seed/recipe63_2/1080/1080",
-      "https://picsum.photos/seed/recipe63_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 64",
-    "description": "Tasty Indian dish number 64. | स्वादिष्ट भारतीय व्यंजन संख्या 64।",
-    "ingredients": [
-      "Ingredient A64",
-      "Ingredient B64",
-      "Ingredient C64"
-    ],
-    "instructions": "Cook all ingredients of recipe 64 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe64_1/1080/1080",
-      "https://picsum.photos/seed/recipe64_2/1080/1080",
-      "https://picsum.photos/seed/recipe64_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 65",
-    "description": "Tasty Indian dish number 65. | स्वादिष्ट भारतीय व्यंजन संख्या 65।",
-    "ingredients": [
-      "Ingredient A65",
-      "Ingredient B65",
-      "Ingredient C65"
-    ],
-    "instructions": "Cook all ingredients of recipe 65 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe65_1/1080/1080",
-      "https://picsum.photos/seed/recipe65_2/1080/1080",
-      "https://picsum.photos/seed/recipe65_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 66",
-    "description": "Tasty Indian dish number 66. | स्वादिष्ट भारतीय व्यंजन संख्या 66।",
-    "ingredients": [
-      "Ingredient A66",
-      "Ingredient B66",
-      "Ingredient C66"
-    ],
-    "instructions": "Cook all ingredients of recipe 66 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe66_1/1080/1080",
-      "https://picsum.photos/seed/recipe66_2/1080/1080",
-      "https://picsum.photos/seed/recipe66_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 67",
-    "description": "Tasty Indian dish number 67. | स्वादिष्ट भारतीय व्यंजन संख्या 67।",
-    "ingredients": [
-      "Ingredient A67",
-      "Ingredient B67",
-      "Ingredient C67"
-    ],
-    "instructions": "Cook all ingredients of recipe 67 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe67_1/1080/1080",
-      "https://picsum.photos/seed/recipe67_2/1080/1080",
-      "https://picsum.photos/seed/recipe67_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 68",
-    "description": "Tasty Indian dish number 68. | स्वादिष्ट भारतीय व्यंजन संख्या 68।",
-    "ingredients": [
-      "Ingredient A68",
-      "Ingredient B68",
-      "Ingredient C68"
-    ],
-    "instructions": "Cook all ingredients of recipe 68 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe68_1/1080/1080",
-      "https://picsum.photos/seed/recipe68_2/1080/1080",
-      "https://picsum.photos/seed/recipe68_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 69",
-    "description": "Tasty Indian dish number 69. | स्वादिष्ट भारतीय व्यंजन संख्या 69।",
-    "ingredients": [
-      "Ingredient A69",
-      "Ingredient B69",
-      "Ingredient C69"
-    ],
-    "instructions": "Cook all ingredients of recipe 69 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe69_1/1080/1080",
-      "https://picsum.photos/seed/recipe69_2/1080/1080",
-      "https://picsum.photos/seed/recipe69_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 70",
-    "description": "Tasty Indian dish number 70. | स्वादिष्ट भारतीय व्यंजन संख्या 70।",
-    "ingredients": [
-      "Ingredient A70",
-      "Ingredient B70",
-      "Ingredient C70"
-    ],
-    "instructions": "Cook all ingredients of recipe 70 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe70_1/1080/1080",
-      "https://picsum.photos/seed/recipe70_2/1080/1080",
-      "https://picsum.photos/seed/recipe70_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 71",
-    "description": "Tasty Indian dish number 71. | स्वादिष्ट भारतीय व्यंजन संख्या 71।",
-    "ingredients": [
-      "Ingredient A71",
-      "Ingredient B71",
-      "Ingredient C71"
-    ],
-    "instructions": "Cook all ingredients of recipe 71 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe71_1/1080/1080",
-      "https://picsum.photos/seed/recipe71_2/1080/1080",
-      "https://picsum.photos/seed/recipe71_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 72",
-    "description": "Tasty Indian dish number 72. | स्वादिष्ट भारतीय व्यंजन संख्या 72।",
-    "ingredients": [
-      "Ingredient A72",
-      "Ingredient B72",
-      "Ingredient C72"
-    ],
-    "instructions": "Cook all ingredients of recipe 72 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe72_1/1080/1080",
-      "https://picsum.photos/seed/recipe72_2/1080/1080",
-      "https://picsum.photos/seed/recipe72_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 73",
-    "description": "Tasty Indian dish number 73. | स्वादिष्ट भारतीय व्यंजन संख्या 73।",
-    "ingredients": [
-      "Ingredient A73",
-      "Ingredient B73",
-      "Ingredient C73"
-    ],
-    "instructions": "Cook all ingredients of recipe 73 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe73_1/1080/1080",
-      "https://picsum.photos/seed/recipe73_2/1080/1080",
-      "https://picsum.photos/seed/recipe73_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 74",
-    "description": "Tasty Indian dish number 74. | स्वादिष्ट भारतीय व्यंजन संख्या 74।",
-    "ingredients": [
-      "Ingredient A74",
-      "Ingredient B74",
-      "Ingredient C74"
-    ],
-    "instructions": "Cook all ingredients of recipe 74 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe74_1/1080/1080",
-      "https://picsum.photos/seed/recipe74_2/1080/1080",
-      "https://picsum.photos/seed/recipe74_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 75",
-    "description": "Tasty Indian dish number 75. | स्वादिष्ट भारतीय व्यंजन संख्या 75।",
-    "ingredients": [
-      "Ingredient A75",
-      "Ingredient B75",
-      "Ingredient C75"
-    ],
-    "instructions": "Cook all ingredients of recipe 75 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe75_1/1080/1080",
-      "https://picsum.photos/seed/recipe75_2/1080/1080",
-      "https://picsum.photos/seed/recipe75_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 76",
-    "description": "Tasty Indian dish number 76. | स्वादिष्ट भारतीय व्यंजन संख्या 76।",
-    "ingredients": [
-      "Ingredient A76",
-      "Ingredient B76",
-      "Ingredient C76"
-    ],
-    "instructions": "Cook all ingredients of recipe 76 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe76_1/1080/1080",
-      "https://picsum.photos/seed/recipe76_2/1080/1080",
-      "https://picsum.photos/seed/recipe76_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 77",
-    "description": "Tasty Indian dish number 77. | स्वादिष्ट भारतीय व्यंजन संख्या 77।",
-    "ingredients": [
-      "Ingredient A77",
-      "Ingredient B77",
-      "Ingredient C77"
-    ],
-    "instructions": "Cook all ingredients of recipe 77 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe77_1/1080/1080",
-      "https://picsum.photos/seed/recipe77_2/1080/1080",
-      "https://picsum.photos/seed/recipe77_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 78",
-    "description": "Tasty Indian dish number 78. | स्वादिष्ट भारतीय व्यंजन संख्या 78।",
-    "ingredients": [
-      "Ingredient A78",
-      "Ingredient B78",
-      "Ingredient C78"
-    ],
-    "instructions": "Cook all ingredients of recipe 78 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe78_1/1080/1080",
-      "https://picsum.photos/seed/recipe78_2/1080/1080",
-      "https://picsum.photos/seed/recipe78_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 79",
-    "description": "Tasty Indian dish number 79. | स्वादिष्ट भारतीय व्यंजन संख्या 79।",
-    "ingredients": [
-      "Ingredient A79",
-      "Ingredient B79",
-      "Ingredient C79"
-    ],
-    "instructions": "Cook all ingredients of recipe 79 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe79_1/1080/1080",
-      "https://picsum.photos/seed/recipe79_2/1080/1080",
-      "https://picsum.photos/seed/recipe79_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 80",
-    "description": "Tasty Indian dish number 80. | स्वादिष्ट भारतीय व्यंजन संख्या 80।",
-    "ingredients": [
-      "Ingredient A80",
-      "Ingredient B80",
-      "Ingredient C80"
-    ],
-    "instructions": "Cook all ingredients of recipe 80 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe80_1/1080/1080",
-      "https://picsum.photos/seed/recipe80_2/1080/1080",
-      "https://picsum.photos/seed/recipe80_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 81",
-    "description": "Tasty Indian dish number 81. | स्वादिष्ट भारतीय व्यंजन संख्या 81।",
-    "ingredients": [
-      "Ingredient A81",
-      "Ingredient B81",
-      "Ingredient C81"
-    ],
-    "instructions": "Cook all ingredients of recipe 81 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe81_1/1080/1080",
-      "https://picsum.photos/seed/recipe81_2/1080/1080",
-      "https://picsum.photos/seed/recipe81_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 82",
-    "description": "Tasty Indian dish number 82. | स्वादिष्ट भारतीय व्यंजन संख्या 82।",
-    "ingredients": [
-      "Ingredient A82",
-      "Ingredient B82",
-      "Ingredient C82"
-    ],
-    "instructions": "Cook all ingredients of recipe 82 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe82_1/1080/1080",
-      "https://picsum.photos/seed/recipe82_2/1080/1080",
-      "https://picsum.photos/seed/recipe82_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 83",
-    "description": "Tasty Indian dish number 83. | स्वादिष्ट भारतीय व्यंजन संख्या 83।",
-    "ingredients": [
-      "Ingredient A83",
-      "Ingredient B83",
-      "Ingredient C83"
-    ],
-    "instructions": "Cook all ingredients of recipe 83 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe83_1/1080/1080",
-      "https://picsum.photos/seed/recipe83_2/1080/1080",
-      "https://picsum.photos/seed/recipe83_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 84",
-    "description": "Tasty Indian dish number 84. | स्वादिष्ट भारतीय व्यंजन संख्या 84।",
-    "ingredients": [
-      "Ingredient A84",
-      "Ingredient B84",
-      "Ingredient C84"
-    ],
-    "instructions": "Cook all ingredients of recipe 84 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe84_1/1080/1080",
-      "https://picsum.photos/seed/recipe84_2/1080/1080",
-      "https://picsum.photos/seed/recipe84_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 85",
-    "description": "Tasty Indian dish number 85. | स्वादिष्ट भारतीय व्यंजन संख्या 85।",
-    "ingredients": [
-      "Ingredient A85",
-      "Ingredient B85",
-      "Ingredient C85"
-    ],
-    "instructions": "Cook all ingredients of recipe 85 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe85_1/1080/1080",
-      "https://picsum.photos/seed/recipe85_2/1080/1080",
-      "https://picsum.photos/seed/recipe85_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 86",
-    "description": "Tasty Indian dish number 86. | स्वादिष्ट भारतीय व्यंजन संख्या 86।",
-    "ingredients": [
-      "Ingredient A86",
-      "Ingredient B86",
-      "Ingredient C86"
-    ],
-    "instructions": "Cook all ingredients of recipe 86 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe86_1/1080/1080",
-      "https://picsum.photos/seed/recipe86_2/1080/1080",
-      "https://picsum.photos/seed/recipe86_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 87",
-    "description": "Tasty Indian dish number 87. | स्वादिष्ट भारतीय व्यंजन संख्या 87।",
-    "ingredients": [
-      "Ingredient A87",
-      "Ingredient B87",
-      "Ingredient C87"
-    ],
-    "instructions": "Cook all ingredients of recipe 87 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe87_1/1080/1080",
-      "https://picsum.photos/seed/recipe87_2/1080/1080",
-      "https://picsum.photos/seed/recipe87_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 88",
-    "description": "Tasty Indian dish number 88. | स्वादिष्ट भारतीय व्यंजन संख्या 88।",
-    "ingredients": [
-      "Ingredient A88",
-      "Ingredient B88",
-      "Ingredient C88"
-    ],
-    "instructions": "Cook all ingredients of recipe 88 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe88_1/1080/1080",
-      "https://picsum.photos/seed/recipe88_2/1080/1080",
-      "https://picsum.photos/seed/recipe88_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 89",
-    "description": "Tasty Indian dish number 89. | स्वादिष्ट भारतीय व्यंजन संख्या 89।",
-    "ingredients": [
-      "Ingredient A89",
-      "Ingredient B89",
-      "Ingredient C89"
-    ],
-    "instructions": "Cook all ingredients of recipe 89 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe89_1/1080/1080",
-      "https://picsum.photos/seed/recipe89_2/1080/1080",
-      "https://picsum.photos/seed/recipe89_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 90",
-    "description": "Tasty Indian dish number 90. | स्वादिष्ट भारतीय व्यंजन संख्या 90।",
-    "ingredients": [
-      "Ingredient A90",
-      "Ingredient B90",
-      "Ingredient C90"
-    ],
-    "instructions": "Cook all ingredients of recipe 90 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe90_1/1080/1080",
-      "https://picsum.photos/seed/recipe90_2/1080/1080",
-      "https://picsum.photos/seed/recipe90_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 91",
-    "description": "Tasty Indian dish number 91. | स्वादिष्ट भारतीय व्यंजन संख्या 91।",
-    "ingredients": [
-      "Ingredient A91",
-      "Ingredient B91",
-      "Ingredient C91"
-    ],
-    "instructions": "Cook all ingredients of recipe 91 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe91_1/1080/1080",
-      "https://picsum.photos/seed/recipe91_2/1080/1080",
-      "https://picsum.photos/seed/recipe91_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 92",
-    "description": "Tasty Indian dish number 92. | स्वादिष्ट भारतीय व्यंजन संख्या 92।",
-    "ingredients": [
-      "Ingredient A92",
-      "Ingredient B92",
-      "Ingredient C92"
-    ],
-    "instructions": "Cook all ingredients of recipe 92 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe92_1/1080/1080",
-      "https://picsum.photos/seed/recipe92_2/1080/1080",
-      "https://picsum.photos/seed/recipe92_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 93",
-    "description": "Tasty Indian dish number 93. | स्वादिष्ट भारतीय व्यंजन संख्या 93।",
-    "ingredients": [
-      "Ingredient A93",
-      "Ingredient B93",
-      "Ingredient C93"
-    ],
-    "instructions": "Cook all ingredients of recipe 93 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe93_1/1080/1080",
-      "https://picsum.photos/seed/recipe93_2/1080/1080",
-      "https://picsum.photos/seed/recipe93_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 94",
-    "description": "Tasty Indian dish number 94. | स्वादिष्ट भारतीय व्यंजन संख्या 94।",
-    "ingredients": [
-      "Ingredient A94",
-      "Ingredient B94",
-      "Ingredient C94"
-    ],
-    "instructions": "Cook all ingredients of recipe 94 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe94_1/1080/1080",
-      "https://picsum.photos/seed/recipe94_2/1080/1080",
-      "https://picsum.photos/seed/recipe94_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 95",
-    "description": "Tasty Indian dish number 95. | स्वादिष्ट भारतीय व्यंजन संख्या 95।",
-    "ingredients": [
-      "Ingredient A95",
-      "Ingredient B95",
-      "Ingredient C95"
-    ],
-    "instructions": "Cook all ingredients of recipe 95 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe95_1/1080/1080",
-      "https://picsum.photos/seed/recipe95_2/1080/1080",
-      "https://picsum.photos/seed/recipe95_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 96",
-    "description": "Tasty Indian dish number 96. | स्वादिष्ट भारतीय व्यंजन संख्या 96।",
-    "ingredients": [
-      "Ingredient A96",
-      "Ingredient B96",
-      "Ingredient C96"
-    ],
-    "instructions": "Cook all ingredients of recipe 96 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe96_1/1080/1080",
-      "https://picsum.photos/seed/recipe96_2/1080/1080",
-      "https://picsum.photos/seed/recipe96_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 97",
-    "description": "Tasty Indian dish number 97. | स्वादिष्ट भारतीय व्यंजन संख्या 97।",
-    "ingredients": [
-      "Ingredient A97",
-      "Ingredient B97",
-      "Ingredient C97"
-    ],
-    "instructions": "Cook all ingredients of recipe 97 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe97_1/1080/1080",
-      "https://picsum.photos/seed/recipe97_2/1080/1080",
-      "https://picsum.photos/seed/recipe97_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 98",
-    "description": "Tasty Indian dish number 98. | स्वादिष्ट भारतीय व्यंजन संख्या 98।",
-    "ingredients": [
-      "Ingredient A98",
-      "Ingredient B98",
-      "Ingredient C98"
-    ],
-    "instructions": "Cook all ingredients of recipe 98 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe98_1/1080/1080",
-      "https://picsum.photos/seed/recipe98_2/1080/1080",
-      "https://picsum.photos/seed/recipe98_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 99",
-    "description": "Tasty Indian dish number 99. | स्वादिष्ट भारतीय व्यंजन संख्या 99।",
-    "ingredients": [
-      "Ingredient A99",
-      "Ingredient B99",
-      "Ingredient C99"
-    ],
-    "instructions": "Cook all ingredients of recipe 99 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe99_1/1080/1080",
-      "https://picsum.photos/seed/recipe99_2/1080/1080",
-      "https://picsum.photos/seed/recipe99_3/1080/1080"
-    ]
-  },
-  {
-    "title": "Indian Recipe 100",
-    "description": "Tasty Indian dish number 100. | स्वादिष्ट भारतीय व्यंजन संख्या 100।",
-    "ingredients": [
-      "Ingredient A100",
-      "Ingredient B100",
-      "Ingredient C100"
-    ],
-    "instructions": "Cook all ingredients of recipe 100 with love.",
-    "images": [
-      "https://picsum.photos/seed/recipe100_1/1080/1080",
-      "https://picsum.photos/seed/recipe100_2/1080/1080",
-      "https://picsum.photos/seed/recipe100_3/1080/1080"
+    "id": 1,
+    "title": "Paneer Butter Masala",
+    "title_hindi": "Paneer Butter Masala",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Paneer Butter Masala — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Paneer Butter Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Paneer-Butter-Masala,indian-food,hd&sig=0",
+      "https://source.unsplash.com/1600x1200/?Paneer-Butter-Masala,indian-food,hd&sig=1",
+      "https://source.unsplash.com/1600x1200/?Paneer-Butter-Masala,indian-food,hd&sig=2"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Butter Chicken",
+    "title_hindi": "Butter Chicken",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Butter Chicken — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Butter Chicken — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Butter-Chicken,indian-food,hd&sig=3",
+      "https://source.unsplash.com/1600x1200/?Butter-Chicken,indian-food,hd&sig=4",
+      "https://source.unsplash.com/1600x1200/?Butter-Chicken,indian-food,hd&sig=5"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Hyderabadi Biryani",
+    "title_hindi": "Hyderabadi Biryani",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Hyderabadi Biryani — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Hyderabadi Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Hyderabadi-Biryani,indian-food,hd&sig=6",
+      "https://source.unsplash.com/1600x1200/?Hyderabadi-Biryani,indian-food,hd&sig=7",
+      "https://source.unsplash.com/1600x1200/?Hyderabadi-Biryani,indian-food,hd&sig=8"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Chicken Tikka",
+    "title_hindi": "Chicken Tikka",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Chicken Tikka — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Chicken Tikka — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Chicken-Tikka,indian-food,hd&sig=9",
+      "https://source.unsplash.com/1600x1200/?Chicken-Tikka,indian-food,hd&sig=10",
+      "https://source.unsplash.com/1600x1200/?Chicken-Tikka,indian-food,hd&sig=11"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Rogan Josh",
+    "title_hindi": "Rogan Josh",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Rogan Josh — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Rogan Josh — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Rogan-Josh,indian-food,hd&sig=12",
+      "https://source.unsplash.com/1600x1200/?Rogan-Josh,indian-food,hd&sig=13",
+      "https://source.unsplash.com/1600x1200/?Rogan-Josh,indian-food,hd&sig=14"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Masala Dosa",
+    "title_hindi": "Masala Dosa",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Masala Dosa — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Masala Dosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Masala-Dosa,indian-food,hd&sig=15",
+      "https://source.unsplash.com/1600x1200/?Masala-Dosa,indian-food,hd&sig=16",
+      "https://source.unsplash.com/1600x1200/?Masala-Dosa,indian-food,hd&sig=17"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Idli Sambar",
+    "title_hindi": "Idli Sambar",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Idli Sambar — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Idli Sambar — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Idli-Sambar,indian-food,hd&sig=18",
+      "https://source.unsplash.com/1600x1200/?Idli-Sambar,indian-food,hd&sig=19",
+      "https://source.unsplash.com/1600x1200/?Idli-Sambar,indian-food,hd&sig=20"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Medu Vada",
+    "title_hindi": "Medu Vada",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Medu Vada — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Medu Vada — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Medu-Vada,indian-food,hd&sig=21",
+      "https://source.unsplash.com/1600x1200/?Medu-Vada,indian-food,hd&sig=22",
+      "https://source.unsplash.com/1600x1200/?Medu-Vada,indian-food,hd&sig=23"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Uttapam",
+    "title_hindi": "Uttapam",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Uttapam — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Uttapam — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Uttapam,indian-food,hd&sig=24",
+      "https://source.unsplash.com/1600x1200/?Uttapam,indian-food,hd&sig=25",
+      "https://source.unsplash.com/1600x1200/?Uttapam,indian-food,hd&sig=26"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Pesarattu",
+    "title_hindi": "Pesarattu",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Pesarattu — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Pesarattu — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Pesarattu,indian-food,hd&sig=27",
+      "https://source.unsplash.com/1600x1200/?Pesarattu,indian-food,hd&sig=28",
+      "https://source.unsplash.com/1600x1200/?Pesarattu,indian-food,hd&sig=29"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Chole Bhature",
+    "title_hindi": "Chole Bhature",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Chole Bhature — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Chole Bhature — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Chole-Bhature,indian-food,hd&sig=30",
+      "https://source.unsplash.com/1600x1200/?Chole-Bhature,indian-food,hd&sig=31",
+      "https://source.unsplash.com/1600x1200/?Chole-Bhature,indian-food,hd&sig=32"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Rajma",
+    "title_hindi": "Rajma",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Rajma — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Rajma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Rajma,indian-food,hd&sig=33",
+      "https://source.unsplash.com/1600x1200/?Rajma,indian-food,hd&sig=34",
+      "https://source.unsplash.com/1600x1200/?Rajma,indian-food,hd&sig=35"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Dal Makhani",
+    "title_hindi": "Dal Makhani",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Dal Makhani — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Dal Makhani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Dal-Makhani,indian-food,hd&sig=36",
+      "https://source.unsplash.com/1600x1200/?Dal-Makhani,indian-food,hd&sig=37",
+      "https://source.unsplash.com/1600x1200/?Dal-Makhani,indian-food,hd&sig=38"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Tadka Dal",
+    "title_hindi": "Tadka Dal",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Tadka Dal — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Tadka Dal — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Tadka-Dal,indian-food,hd&sig=39",
+      "https://source.unsplash.com/1600x1200/?Tadka-Dal,indian-food,hd&sig=40",
+      "https://source.unsplash.com/1600x1200/?Tadka-Dal,indian-food,hd&sig=41"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Kala Chana Curry",
+    "title_hindi": "Kala Chana Curry",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Kala Chana Curry — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Kala Chana Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Kala-Chana-Curry,indian-food,hd&sig=42",
+      "https://source.unsplash.com/1600x1200/?Kala-Chana-Curry,indian-food,hd&sig=43",
+      "https://source.unsplash.com/1600x1200/?Kala-Chana-Curry,indian-food,hd&sig=44"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Pav Bhaji",
+    "title_hindi": "Pav Bhaji",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Pav Bhaji — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Pav Bhaji — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Pav-Bhaji,indian-food,hd&sig=45",
+      "https://source.unsplash.com/1600x1200/?Pav-Bhaji,indian-food,hd&sig=46",
+      "https://source.unsplash.com/1600x1200/?Pav-Bhaji,indian-food,hd&sig=47"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Vada Pav",
+    "title_hindi": "Vada Pav",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Vada Pav — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Vada Pav — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Vada-Pav,indian-food,hd&sig=48",
+      "https://source.unsplash.com/1600x1200/?Vada-Pav,indian-food,hd&sig=49",
+      "https://source.unsplash.com/1600x1200/?Vada-Pav,indian-food,hd&sig=50"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Misal Pav",
+    "title_hindi": "Misal Pav",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Misal Pav — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Misal Pav — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Misal-Pav,indian-food,hd&sig=51",
+      "https://source.unsplash.com/1600x1200/?Misal-Pav,indian-food,hd&sig=52",
+      "https://source.unsplash.com/1600x1200/?Misal-Pav,indian-food,hd&sig=53"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Dabeli",
+    "title_hindi": "Dabeli",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Dabeli — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Dabeli — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Dabeli,indian-food,hd&sig=54",
+      "https://source.unsplash.com/1600x1200/?Dabeli,indian-food,hd&sig=55",
+      "https://source.unsplash.com/1600x1200/?Dabeli,indian-food,hd&sig=56"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Ragda Pattice",
+    "title_hindi": "Ragda Pattice",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Ragda Pattice — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Ragda Pattice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Ragda-Pattice,indian-food,hd&sig=57",
+      "https://source.unsplash.com/1600x1200/?Ragda-Pattice,indian-food,hd&sig=58",
+      "https://source.unsplash.com/1600x1200/?Ragda-Pattice,indian-food,hd&sig=59"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Bhel Puri",
+    "title_hindi": "Bhel Puri",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Bhel Puri — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Bhel Puri — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Bhel-Puri,indian-food,hd&sig=60",
+      "https://source.unsplash.com/1600x1200/?Bhel-Puri,indian-food,hd&sig=61",
+      "https://source.unsplash.com/1600x1200/?Bhel-Puri,indian-food,hd&sig=62"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Pani Puri",
+    "title_hindi": "Pani Puri",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Pani Puri — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Pani Puri — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Pani-Puri,indian-food,hd&sig=63",
+      "https://source.unsplash.com/1600x1200/?Pani-Puri,indian-food,hd&sig=64",
+      "https://source.unsplash.com/1600x1200/?Pani-Puri,indian-food,hd&sig=65"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Dahi Puri",
+    "title_hindi": "Dahi Puri",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Dahi Puri — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Dahi Puri — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Dahi-Puri,indian-food,hd&sig=66",
+      "https://source.unsplash.com/1600x1200/?Dahi-Puri,indian-food,hd&sig=67",
+      "https://source.unsplash.com/1600x1200/?Dahi-Puri,indian-food,hd&sig=68"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Aloo Tikki Chaat",
+    "title_hindi": "Aloo Tikki Chaat",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Aloo Tikki Chaat — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Aloo Tikki Chaat — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Aloo-Tikki-Chaat,indian-food,hd&sig=69",
+      "https://source.unsplash.com/1600x1200/?Aloo-Tikki-Chaat,indian-food,hd&sig=70",
+      "https://source.unsplash.com/1600x1200/?Aloo-Tikki-Chaat,indian-food,hd&sig=71"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Samosa",
+    "title_hindi": "Samosa",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Samosa — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Samosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Samosa,indian-food,hd&sig=72",
+      "https://source.unsplash.com/1600x1200/?Samosa,indian-food,hd&sig=73",
+      "https://source.unsplash.com/1600x1200/?Samosa,indian-food,hd&sig=74"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Kachori",
+    "title_hindi": "Kachori",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Kachori — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Kachori — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Kachori,indian-food,hd&sig=75",
+      "https://source.unsplash.com/1600x1200/?Kachori,indian-food,hd&sig=76",
+      "https://source.unsplash.com/1600x1200/?Kachori,indian-food,hd&sig=77"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Pakora",
+    "title_hindi": "Pakora",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Pakora — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Pakora — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Pakora,indian-food,hd&sig=78",
+      "https://source.unsplash.com/1600x1200/?Pakora,indian-food,hd&sig=79",
+      "https://source.unsplash.com/1600x1200/?Pakora,indian-food,hd&sig=80"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Onion Bhaji",
+    "title_hindi": "Onion Bhaji",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Onion Bhaji — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Onion Bhaji — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Onion-Bhaji,indian-food,hd&sig=81",
+      "https://source.unsplash.com/1600x1200/?Onion-Bhaji,indian-food,hd&sig=82",
+      "https://source.unsplash.com/1600x1200/?Onion-Bhaji,indian-food,hd&sig=83"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Bread Pakora",
+    "title_hindi": "Bread Pakora",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Bread Pakora — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Bread Pakora — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Bread-Pakora,indian-food,hd&sig=84",
+      "https://source.unsplash.com/1600x1200/?Bread-Pakora,indian-food,hd&sig=85",
+      "https://source.unsplash.com/1600x1200/?Bread-Pakora,indian-food,hd&sig=86"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Chicken 65",
+    "title_hindi": "Chicken 65",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Chicken 65 — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Chicken 65 — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Chicken-65,indian-food,hd&sig=87",
+      "https://source.unsplash.com/1600x1200/?Chicken-65,indian-food,hd&sig=88",
+      "https://source.unsplash.com/1600x1200/?Chicken-65,indian-food,hd&sig=89"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Pepper Chicken",
+    "title_hindi": "Pepper Chicken",
+    "region": "West India",
+    "category": "Non-Veg",
+    "caption_en": "Pepper Chicken — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Pepper Chicken — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Pepper-Chicken,indian-food,hd&sig=90",
+      "https://source.unsplash.com/1600x1200/?Pepper-Chicken,indian-food,hd&sig=91",
+      "https://source.unsplash.com/1600x1200/?Pepper-Chicken,indian-food,hd&sig=92"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Goan Fish Curry",
+    "title_hindi": "Goan Fish Curry",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Goan Fish Curry — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Goan Fish Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Goan-Fish-Curry,indian-food,hd&sig=93",
+      "https://source.unsplash.com/1600x1200/?Goan-Fish-Curry,indian-food,hd&sig=94",
+      "https://source.unsplash.com/1600x1200/?Goan-Fish-Curry,indian-food,hd&sig=95"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Prawn Masala",
+    "title_hindi": "Prawn Masala",
+    "region": "North India",
+    "category": "Non-Veg",
+    "caption_en": "Prawn Masala — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Prawn Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Prawn-Masala,indian-food,hd&sig=96",
+      "https://source.unsplash.com/1600x1200/?Prawn-Masala,indian-food,hd&sig=97",
+      "https://source.unsplash.com/1600x1200/?Prawn-Masala,indian-food,hd&sig=98"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Egg Curry",
+    "title_hindi": "Egg Curry",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Egg Curry — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Egg Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Egg-Curry,indian-food,hd&sig=99",
+      "https://source.unsplash.com/1600x1200/?Egg-Curry,indian-food,hd&sig=100",
+      "https://source.unsplash.com/1600x1200/?Egg-Curry,indian-food,hd&sig=101"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Keema Matar",
+    "title_hindi": "Keema Matar",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Keema Matar — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Keema Matar — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Keema-Matar,indian-food,hd&sig=102",
+      "https://source.unsplash.com/1600x1200/?Keema-Matar,indian-food,hd&sig=103",
+      "https://source.unsplash.com/1600x1200/?Keema-Matar,indian-food,hd&sig=104"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Palak Paneer",
+    "title_hindi": "Palak Paneer",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Palak Paneer — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Palak Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Palak-Paneer,indian-food,hd&sig=105",
+      "https://source.unsplash.com/1600x1200/?Palak-Paneer,indian-food,hd&sig=106",
+      "https://source.unsplash.com/1600x1200/?Palak-Paneer,indian-food,hd&sig=107"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Shahi Paneer",
+    "title_hindi": "Shahi Paneer",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Shahi Paneer — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Shahi Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Shahi-Paneer,indian-food,hd&sig=108",
+      "https://source.unsplash.com/1600x1200/?Shahi-Paneer,indian-food,hd&sig=109",
+      "https://source.unsplash.com/1600x1200/?Shahi-Paneer,indian-food,hd&sig=110"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Paneer Tikka",
+    "title_hindi": "Paneer Tikka",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Paneer Tikka — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Paneer Tikka — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Paneer-Tikka,indian-food,hd&sig=111",
+      "https://source.unsplash.com/1600x1200/?Paneer-Tikka,indian-food,hd&sig=112",
+      "https://source.unsplash.com/1600x1200/?Paneer-Tikka,indian-food,hd&sig=113"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Kadai Paneer",
+    "title_hindi": "Kadai Paneer",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Kadai Paneer — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Kadai Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Kadai-Paneer,indian-food,hd&sig=114",
+      "https://source.unsplash.com/1600x1200/?Kadai-Paneer,indian-food,hd&sig=115",
+      "https://source.unsplash.com/1600x1200/?Kadai-Paneer,indian-food,hd&sig=116"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Jeera Rice",
+    "title_hindi": "Jeera Rice",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Jeera Rice — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Jeera Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Jeera-Rice,indian-food,hd&sig=117",
+      "https://source.unsplash.com/1600x1200/?Jeera-Rice,indian-food,hd&sig=118",
+      "https://source.unsplash.com/1600x1200/?Jeera-Rice,indian-food,hd&sig=119"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Veg Pulao",
+    "title_hindi": "Veg Pulao",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Veg Pulao — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Veg Pulao — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Veg-Pulao,indian-food,hd&sig=120",
+      "https://source.unsplash.com/1600x1200/?Veg-Pulao,indian-food,hd&sig=121",
+      "https://source.unsplash.com/1600x1200/?Veg-Pulao,indian-food,hd&sig=122"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Peas Pulao",
+    "title_hindi": "Peas Pulao",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Peas Pulao — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Peas Pulao — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Peas-Pulao,indian-food,hd&sig=123",
+      "https://source.unsplash.com/1600x1200/?Peas-Pulao,indian-food,hd&sig=124",
+      "https://source.unsplash.com/1600x1200/?Peas-Pulao,indian-food,hd&sig=125"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Lemon Rice",
+    "title_hindi": "Lemon Rice",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Lemon Rice — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Lemon Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Lemon-Rice,indian-food,hd&sig=126",
+      "https://source.unsplash.com/1600x1200/?Lemon-Rice,indian-food,hd&sig=127",
+      "https://source.unsplash.com/1600x1200/?Lemon-Rice,indian-food,hd&sig=128"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Curd Rice",
+    "title_hindi": "Curd Rice",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Curd Rice — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Curd Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Curd-Rice,indian-food,hd&sig=129",
+      "https://source.unsplash.com/1600x1200/?Curd-Rice,indian-food,hd&sig=130",
+      "https://source.unsplash.com/1600x1200/?Curd-Rice,indian-food,hd&sig=131"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Khichdi",
+    "title_hindi": "Khichdi",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Khichdi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Khichdi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Khichdi,indian-food,hd&sig=132",
+      "https://source.unsplash.com/1600x1200/?Khichdi,indian-food,hd&sig=133",
+      "https://source.unsplash.com/1600x1200/?Khichdi,indian-food,hd&sig=134"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Vegetable Biryani",
+    "title_hindi": "Vegetable Biryani",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Vegetable Biryani — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Vegetable Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Vegetable-Biryani,indian-food,hd&sig=135",
+      "https://source.unsplash.com/1600x1200/?Vegetable-Biryani,indian-food,hd&sig=136",
+      "https://source.unsplash.com/1600x1200/?Vegetable-Biryani,indian-food,hd&sig=137"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Kashmiri Pulao",
+    "title_hindi": "Kashmiri Pulao",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Kashmiri Pulao — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Kashmiri Pulao — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Kashmiri-Pulao,indian-food,hd&sig=138",
+      "https://source.unsplash.com/1600x1200/?Kashmiri-Pulao,indian-food,hd&sig=139",
+      "https://source.unsplash.com/1600x1200/?Kashmiri-Pulao,indian-food,hd&sig=140"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Tomato Rice",
+    "title_hindi": "Tomato Rice",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Tomato Rice — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Tomato Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Tomato-Rice,indian-food,hd&sig=141",
+      "https://source.unsplash.com/1600x1200/?Tomato-Rice,indian-food,hd&sig=142",
+      "https://source.unsplash.com/1600x1200/?Tomato-Rice,indian-food,hd&sig=143"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Coconut Rice",
+    "title_hindi": "Coconut Rice",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Coconut Rice — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Coconut Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Coconut-Rice,indian-food,hd&sig=144",
+      "https://source.unsplash.com/1600x1200/?Coconut-Rice,indian-food,hd&sig=145",
+      "https://source.unsplash.com/1600x1200/?Coconut-Rice,indian-food,hd&sig=146"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Baingan Bharta",
+    "title_hindi": "Baingan Bharta",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Baingan Bharta — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Baingan Bharta — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Baingan-Bharta,indian-food,hd&sig=147",
+      "https://source.unsplash.com/1600x1200/?Baingan-Bharta,indian-food,hd&sig=148",
+      "https://source.unsplash.com/1600x1200/?Baingan-Bharta,indian-food,hd&sig=149"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Bhindi Masala",
+    "title_hindi": "Bhindi Masala",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Bhindi Masala — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Bhindi Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Bhindi-Masala,indian-food,hd&sig=150",
+      "https://source.unsplash.com/1600x1200/?Bhindi-Masala,indian-food,hd&sig=151",
+      "https://source.unsplash.com/1600x1200/?Bhindi-Masala,indian-food,hd&sig=152"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Aloo Gobi",
+    "title_hindi": "Aloo Gobi",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Aloo Gobi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Aloo Gobi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Aloo-Gobi,indian-food,hd&sig=153",
+      "https://source.unsplash.com/1600x1200/?Aloo-Gobi,indian-food,hd&sig=154",
+      "https://source.unsplash.com/1600x1200/?Aloo-Gobi,indian-food,hd&sig=155"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Aloo Matar",
+    "title_hindi": "Aloo Matar",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Aloo Matar — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Aloo Matar — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Aloo-Matar,indian-food,hd&sig=156",
+      "https://source.unsplash.com/1600x1200/?Aloo-Matar,indian-food,hd&sig=157",
+      "https://source.unsplash.com/1600x1200/?Aloo-Matar,indian-food,hd&sig=158"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Lauki Chana Dal",
+    "title_hindi": "Lauki Chana Dal",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Lauki Chana Dal — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Lauki Chana Dal — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Lauki-Chana-Dal,indian-food,hd&sig=159",
+      "https://source.unsplash.com/1600x1200/?Lauki-Chana-Dal,indian-food,hd&sig=160",
+      "https://source.unsplash.com/1600x1200/?Lauki-Chana-Dal,indian-food,hd&sig=161"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Navratan Korma",
+    "title_hindi": "Navratan Korma",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Navratan Korma — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Navratan Korma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Navratan-Korma,indian-food,hd&sig=162",
+      "https://source.unsplash.com/1600x1200/?Navratan-Korma,indian-food,hd&sig=163",
+      "https://source.unsplash.com/1600x1200/?Navratan-Korma,indian-food,hd&sig=164"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Matar Paneer",
+    "title_hindi": "Matar Paneer",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Matar Paneer — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Matar Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Matar-Paneer,indian-food,hd&sig=165",
+      "https://source.unsplash.com/1600x1200/?Matar-Paneer,indian-food,hd&sig=166",
+      "https://source.unsplash.com/1600x1200/?Matar-Paneer,indian-food,hd&sig=167"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Kaddu ki Sabzi",
+    "title_hindi": "Kaddu ki Sabzi",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Kaddu ki Sabzi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Kaddu ki Sabzi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Kaddu-ki-Sabzi,indian-food,hd&sig=168",
+      "https://source.unsplash.com/1600x1200/?Kaddu-ki-Sabzi,indian-food,hd&sig=169",
+      "https://source.unsplash.com/1600x1200/?Kaddu-ki-Sabzi,indian-food,hd&sig=170"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Tinda Masala",
+    "title_hindi": "Tinda Masala",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Tinda Masala — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Tinda Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Tinda-Masala,indian-food,hd&sig=171",
+      "https://source.unsplash.com/1600x1200/?Tinda-Masala,indian-food,hd&sig=172",
+      "https://source.unsplash.com/1600x1200/?Tinda-Masala,indian-food,hd&sig=173"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Chicken Korma",
+    "title_hindi": "Chicken Korma",
+    "region": "West India",
+    "category": "Non-Veg",
+    "caption_en": "Chicken Korma — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Chicken Korma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Chicken-Korma,indian-food,hd&sig=174",
+      "https://source.unsplash.com/1600x1200/?Chicken-Korma,indian-food,hd&sig=175",
+      "https://source.unsplash.com/1600x1200/?Chicken-Korma,indian-food,hd&sig=176"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Chicken Handi",
+    "title_hindi": "Chicken Handi",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Chicken Handi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Chicken Handi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Chicken-Handi,indian-food,hd&sig=177",
+      "https://source.unsplash.com/1600x1200/?Chicken-Handi,indian-food,hd&sig=178",
+      "https://source.unsplash.com/1600x1200/?Chicken-Handi,indian-food,hd&sig=179"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Malabar Parotta & Curry",
+    "title_hindi": "Malabar Parotta & Curry",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Malabar Parotta & Curry — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Malabar Parotta & Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Malabar-Parotta-&-Curry,indian-food,hd&sig=180",
+      "https://source.unsplash.com/1600x1200/?Malabar-Parotta-&-Curry,indian-food,hd&sig=181",
+      "https://source.unsplash.com/1600x1200/?Malabar-Parotta-&-Curry,indian-food,hd&sig=182"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Laal Maas",
+    "title_hindi": "Laal Maas",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Laal Maas — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Laal Maas — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Laal-Maas,indian-food,hd&sig=183",
+      "https://source.unsplash.com/1600x1200/?Laal-Maas,indian-food,hd&sig=184",
+      "https://source.unsplash.com/1600x1200/?Laal-Maas,indian-food,hd&sig=185"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Nihari",
+    "title_hindi": "Nihari",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Nihari — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Nihari — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Nihari,indian-food,hd&sig=186",
+      "https://source.unsplash.com/1600x1200/?Nihari,indian-food,hd&sig=187",
+      "https://source.unsplash.com/1600x1200/?Nihari,indian-food,hd&sig=188"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Bhuna Gosht",
+    "title_hindi": "Bhuna Gosht",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Bhuna Gosht — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Bhuna Gosht — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Bhuna-Gosht,indian-food,hd&sig=189",
+      "https://source.unsplash.com/1600x1200/?Bhuna-Gosht,indian-food,hd&sig=190",
+      "https://source.unsplash.com/1600x1200/?Bhuna-Gosht,indian-food,hd&sig=191"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Galouti Kebab",
+    "title_hindi": "Galouti Kebab",
+    "region": "North India",
+    "category": "Non-Veg",
+    "caption_en": "Galouti Kebab — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Galouti Kebab — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Galouti-Kebab,indian-food,hd&sig=192",
+      "https://source.unsplash.com/1600x1200/?Galouti-Kebab,indian-food,hd&sig=193",
+      "https://source.unsplash.com/1600x1200/?Galouti-Kebab,indian-food,hd&sig=194"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Amritsari Fish Fry",
+    "title_hindi": "Amritsari Fish Fry",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Amritsari Fish Fry — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Amritsari Fish Fry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Amritsari-Fish-Fry,indian-food,hd&sig=195",
+      "https://source.unsplash.com/1600x1200/?Amritsari-Fish-Fry,indian-food,hd&sig=196",
+      "https://source.unsplash.com/1600x1200/?Amritsari-Fish-Fry,indian-food,hd&sig=197"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Tawa Prawns",
+    "title_hindi": "Tawa Prawns",
+    "region": "West India",
+    "category": "Non-Veg",
+    "caption_en": "Tawa Prawns — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Tawa Prawns — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Tawa-Prawns,indian-food,hd&sig=198",
+      "https://source.unsplash.com/1600x1200/?Tawa-Prawns,indian-food,hd&sig=199",
+      "https://source.unsplash.com/1600x1200/?Tawa-Prawns,indian-food,hd&sig=200"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Crab Masala",
+    "title_hindi": "Crab Masala",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Crab Masala — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Crab Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Crab-Masala,indian-food,hd&sig=201",
+      "https://source.unsplash.com/1600x1200/?Crab-Masala,indian-food,hd&sig=202",
+      "https://source.unsplash.com/1600x1200/?Crab-Masala,indian-food,hd&sig=203"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Fish Tikka",
+    "title_hindi": "Fish Tikka",
+    "region": "North India",
+    "category": "Non-Veg",
+    "caption_en": "Fish Tikka — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Fish Tikka — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Fish-Tikka,indian-food,hd&sig=204",
+      "https://source.unsplash.com/1600x1200/?Fish-Tikka,indian-food,hd&sig=205",
+      "https://source.unsplash.com/1600x1200/?Fish-Tikka,indian-food,hd&sig=206"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Poha",
+    "title_hindi": "Poha",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Poha — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Poha — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Poha,indian-food,hd&sig=207",
+      "https://source.unsplash.com/1600x1200/?Poha,indian-food,hd&sig=208",
+      "https://source.unsplash.com/1600x1200/?Poha,indian-food,hd&sig=209"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Upma",
+    "title_hindi": "Upma",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Upma — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Upma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Upma,indian-food,hd&sig=210",
+      "https://source.unsplash.com/1600x1200/?Upma,indian-food,hd&sig=211",
+      "https://source.unsplash.com/1600x1200/?Upma,indian-food,hd&sig=212"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Aloo Paratha",
+    "title_hindi": "Aloo Paratha",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Aloo Paratha — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Aloo Paratha — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Aloo-Paratha,indian-food,hd&sig=213",
+      "https://source.unsplash.com/1600x1200/?Aloo-Paratha,indian-food,hd&sig=214",
+      "https://source.unsplash.com/1600x1200/?Aloo-Paratha,indian-food,hd&sig=215"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Gobi Paratha",
+    "title_hindi": "Gobi Paratha",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Gobi Paratha — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Gobi Paratha — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Gobi-Paratha,indian-food,hd&sig=216",
+      "https://source.unsplash.com/1600x1200/?Gobi-Paratha,indian-food,hd&sig=217",
+      "https://source.unsplash.com/1600x1200/?Gobi-Paratha,indian-food,hd&sig=218"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Methi Thepla",
+    "title_hindi": "Methi Thepla",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Methi Thepla — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Methi Thepla — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Methi-Thepla,indian-food,hd&sig=219",
+      "https://source.unsplash.com/1600x1200/?Methi-Thepla,indian-food,hd&sig=220",
+      "https://source.unsplash.com/1600x1200/?Methi-Thepla,indian-food,hd&sig=221"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Chaat Papdi",
+    "title_hindi": "Chaat Papdi",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Chaat Papdi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Chaat Papdi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Chaat-Papdi,indian-food,hd&sig=222",
+      "https://source.unsplash.com/1600x1200/?Chaat-Papdi,indian-food,hd&sig=223",
+      "https://source.unsplash.com/1600x1200/?Chaat-Papdi,indian-food,hd&sig=224"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Dosa Mysore Masala",
+    "title_hindi": "Dosa Mysore Masala",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Dosa Mysore Masala — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Dosa Mysore Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Dosa-Mysore-Masala,indian-food,hd&sig=225",
+      "https://source.unsplash.com/1600x1200/?Dosa-Mysore-Masala,indian-food,hd&sig=226",
+      "https://source.unsplash.com/1600x1200/?Dosa-Mysore-Masala,indian-food,hd&sig=227"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Rava Dosa",
+    "title_hindi": "Rava Dosa",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Rava Dosa — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Rava Dosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Rava-Dosa,indian-food,hd&sig=228",
+      "https://source.unsplash.com/1600x1200/?Rava-Dosa,indian-food,hd&sig=229",
+      "https://source.unsplash.com/1600x1200/?Rava-Dosa,indian-food,hd&sig=230"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Set Dosa",
+    "title_hindi": "Set Dosa",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Set Dosa — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Set Dosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Set-Dosa,indian-food,hd&sig=231",
+      "https://source.unsplash.com/1600x1200/?Set-Dosa,indian-food,hd&sig=232",
+      "https://source.unsplash.com/1600x1200/?Set-Dosa,indian-food,hd&sig=233"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Pongal",
+    "title_hindi": "Pongal",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Pongal — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Pongal — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Pongal,indian-food,hd&sig=234",
+      "https://source.unsplash.com/1600x1200/?Pongal,indian-food,hd&sig=235",
+      "https://source.unsplash.com/1600x1200/?Pongal,indian-food,hd&sig=236"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Rava Kesari",
+    "title_hindi": "Rava Kesari",
+    "region": "East India",
+    "category": "Dessert",
+    "caption_en": "Rava Kesari — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Rava Kesari — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Rava-Kesari,indian-food,hd&sig=237",
+      "https://source.unsplash.com/1600x1200/?Rava-Kesari,indian-food,hd&sig=238",
+      "https://source.unsplash.com/1600x1200/?Rava-Kesari,indian-food,hd&sig=239"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Gulab Jamun",
+    "title_hindi": "Gulab Jamun",
+    "region": "North India",
+    "category": "Dessert",
+    "caption_en": "Gulab Jamun — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Gulab Jamun — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Gulab-Jamun,indian-food,hd&sig=240",
+      "https://source.unsplash.com/1600x1200/?Gulab-Jamun,indian-food,hd&sig=241",
+      "https://source.unsplash.com/1600x1200/?Gulab-Jamun,indian-food,hd&sig=242"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Rasgulla",
+    "title_hindi": "Rasgulla",
+    "region": "South India",
+    "category": "Dessert",
+    "caption_en": "Rasgulla — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Rasgulla — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Rasgulla,indian-food,hd&sig=243",
+      "https://source.unsplash.com/1600x1200/?Rasgulla,indian-food,hd&sig=244",
+      "https://source.unsplash.com/1600x1200/?Rasgulla,indian-food,hd&sig=245"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Rasmalai",
+    "title_hindi": "Rasmalai",
+    "region": "West India",
+    "category": "Dessert",
+    "caption_en": "Rasmalai — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Rasmalai — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Rasmalai,indian-food,hd&sig=246",
+      "https://source.unsplash.com/1600x1200/?Rasmalai,indian-food,hd&sig=247",
+      "https://source.unsplash.com/1600x1200/?Rasmalai,indian-food,hd&sig=248"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Jalebi",
+    "title_hindi": "Jalebi",
+    "region": "East India",
+    "category": "Dessert",
+    "caption_en": "Jalebi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Jalebi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Jalebi,indian-food,hd&sig=249",
+      "https://source.unsplash.com/1600x1200/?Jalebi,indian-food,hd&sig=250",
+      "https://source.unsplash.com/1600x1200/?Jalebi,indian-food,hd&sig=251"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Kheer",
+    "title_hindi": "Kheer",
+    "region": "North India",
+    "category": "Dessert",
+    "caption_en": "Kheer — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Kheer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Kheer,indian-food,hd&sig=252",
+      "https://source.unsplash.com/1600x1200/?Kheer,indian-food,hd&sig=253",
+      "https://source.unsplash.com/1600x1200/?Kheer,indian-food,hd&sig=254"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Phirni",
+    "title_hindi": "Phirni",
+    "region": "South India",
+    "category": "Dessert",
+    "caption_en": "Phirni — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Phirni — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Phirni,indian-food,hd&sig=255",
+      "https://source.unsplash.com/1600x1200/?Phirni,indian-food,hd&sig=256",
+      "https://source.unsplash.com/1600x1200/?Phirni,indian-food,hd&sig=257"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Kulfi",
+    "title_hindi": "Kulfi",
+    "region": "West India",
+    "category": "Dessert",
+    "caption_en": "Kulfi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Kulfi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Kulfi,indian-food,hd&sig=258",
+      "https://source.unsplash.com/1600x1200/?Kulfi,indian-food,hd&sig=259",
+      "https://source.unsplash.com/1600x1200/?Kulfi,indian-food,hd&sig=260"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Gajar ka Halwa",
+    "title_hindi": "Gajar ka Halwa",
+    "region": "East India",
+    "category": "Dessert",
+    "caption_en": "Gajar ka Halwa — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Gajar ka Halwa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Gajar-ka-Halwa,indian-food,hd&sig=261",
+      "https://source.unsplash.com/1600x1200/?Gajar-ka-Halwa,indian-food,hd&sig=262",
+      "https://source.unsplash.com/1600x1200/?Gajar-ka-Halwa,indian-food,hd&sig=263"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Moong Dal Halwa",
+    "title_hindi": "Moong Dal Halwa",
+    "region": "North India",
+    "category": "Dessert",
+    "caption_en": "Moong Dal Halwa — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Moong Dal Halwa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Moong-Dal-Halwa,indian-food,hd&sig=264",
+      "https://source.unsplash.com/1600x1200/?Moong-Dal-Halwa,indian-food,hd&sig=265",
+      "https://source.unsplash.com/1600x1200/?Moong-Dal-Halwa,indian-food,hd&sig=266"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Mysore Pak",
+    "title_hindi": "Mysore Pak",
+    "region": "South India",
+    "category": "Dessert",
+    "caption_en": "Mysore Pak — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Mysore Pak — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Mysore-Pak,indian-food,hd&sig=267",
+      "https://source.unsplash.com/1600x1200/?Mysore-Pak,indian-food,hd&sig=268",
+      "https://source.unsplash.com/1600x1200/?Mysore-Pak,indian-food,hd&sig=269"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Sandesh",
+    "title_hindi": "Sandesh",
+    "region": "West India",
+    "category": "Dessert",
+    "caption_en": "Sandesh — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Sandesh — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Sandesh,indian-food,hd&sig=270",
+      "https://source.unsplash.com/1600x1200/?Sandesh,indian-food,hd&sig=271",
+      "https://source.unsplash.com/1600x1200/?Sandesh,indian-food,hd&sig=272"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Malpua",
+    "title_hindi": "Malpua",
+    "region": "East India",
+    "category": "Dessert",
+    "caption_en": "Malpua — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Malpua — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Malpua,indian-food,hd&sig=273",
+      "https://source.unsplash.com/1600x1200/?Malpua,indian-food,hd&sig=274",
+      "https://source.unsplash.com/1600x1200/?Malpua,indian-food,hd&sig=275"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Shrikhand",
+    "title_hindi": "Shrikhand",
+    "region": "North India",
+    "category": "Dessert",
+    "caption_en": "Shrikhand — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Shrikhand — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Shrikhand,indian-food,hd&sig=276",
+      "https://source.unsplash.com/1600x1200/?Shrikhand,indian-food,hd&sig=277",
+      "https://source.unsplash.com/1600x1200/?Shrikhand,indian-food,hd&sig=278"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Basundi",
+    "title_hindi": "Basundi",
+    "region": "South India",
+    "category": "Dessert",
+    "caption_en": "Basundi — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Basundi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Basundi,indian-food,hd&sig=279",
+      "https://source.unsplash.com/1600x1200/?Basundi,indian-food,hd&sig=280",
+      "https://source.unsplash.com/1600x1200/?Basundi,indian-food,hd&sig=281"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Payasam",
+    "title_hindi": "Payasam",
+    "region": "West India",
+    "category": "Dessert",
+    "caption_en": "Payasam — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Payasam — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Payasam,indian-food,hd&sig=282",
+      "https://source.unsplash.com/1600x1200/?Payasam,indian-food,hd&sig=283",
+      "https://source.unsplash.com/1600x1200/?Payasam,indian-food,hd&sig=284"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Chicken Biryani",
+    "title_hindi": "Chicken Biryani",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Chicken Biryani — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Chicken Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Chicken-Biryani,indian-food,hd&sig=285",
+      "https://source.unsplash.com/1600x1200/?Chicken-Biryani,indian-food,hd&sig=286",
+      "https://source.unsplash.com/1600x1200/?Chicken-Biryani,indian-food,hd&sig=287"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Mutton Biryani",
+    "title_hindi": "Mutton Biryani",
+    "region": "North India",
+    "category": "Non-Veg",
+    "caption_en": "Mutton Biryani — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Mutton Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Mutton-Biryani,indian-food,hd&sig=288",
+      "https://source.unsplash.com/1600x1200/?Mutton-Biryani,indian-food,hd&sig=289",
+      "https://source.unsplash.com/1600x1200/?Mutton-Biryani,indian-food,hd&sig=290"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Fish Biryani",
+    "title_hindi": "Fish Biryani",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Fish Biryani — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Fish Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Fish-Biryani,indian-food,hd&sig=291",
+      "https://source.unsplash.com/1600x1200/?Fish-Biryani,indian-food,hd&sig=292",
+      "https://source.unsplash.com/1600x1200/?Fish-Biryani,indian-food,hd&sig=293"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Veg Thali",
+    "title_hindi": "Veg Thali",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Veg Thali — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Veg Thali — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Veg-Thali,indian-food,hd&sig=294",
+      "https://source.unsplash.com/1600x1200/?Veg-Thali,indian-food,hd&sig=295",
+      "https://source.unsplash.com/1600x1200/?Veg-Thali,indian-food,hd&sig=296"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Non-Veg Thali",
+    "title_hindi": "Non-Veg Thali",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Non-Veg Thali — bold flavors, simple steps. Save & try! 🍽️",
+    "caption_hi": "Non-Veg Thali — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodlover",
+      "#yummy",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": [
+      "https://source.unsplash.com/1600x1200/?Non-Veg-Thali,indian-food,hd&sig=297",
+      "https://source.unsplash.com/1600x1200/?Non-Veg-Thali,indian-food,hd&sig=298",
+      "https://source.unsplash.com/1600x1200/?Non-Veg-Thali,indian-food,hd&sig=299"
     ]
   }
 ]
