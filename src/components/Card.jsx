@@ -1,23 +1,33 @@
-import React, { useState } from 'react'
+import React, { useState, useMemo } from 'react'
 
-function Watermark({color='white'}){
-  return <span className="wm" style={{color, filter:'drop-shadow(0 2px 6px #0008)'}}>@cooktoadmire</span>
+const proxy = (url)=> `https://images.weserv.nl/?url=${encodeURIComponent(url)}`
+const buildAuto = (q, sig)=> proxy(`https://source.unsplash.com/1600x1200/?${encodeURIComponent(q)}&sig=${sig}`)
+const buildPicsum = (seed)=> `https://picsum.photos/seed/${encodeURIComponent(seed)}/1080/1080`
+
+function imagesFor(recipe){
+  // Prefer curated CDN links if provided
+  if (Array.isArray(recipe.images) && recipe.images.length) return recipe.images
+  const q = `${recipe.title},indian food`
+  // Fallback: reliable proxied Unsplash Source
+  return [buildAuto(q,1), buildAuto(q,2), buildAuto(q,3)]
 }
 
-export default function Card({ recipe, lang, chefPick, theme }){
+export default function Card({ recipe, lang, chefPick }){
   const [i, setI] = useState(0)
-  const imgs = recipe.images || []
-  const title = lang==='en' ? recipe.title : (recipe.title_hindi || recipe.title)
-  const caption = lang==='en' ? (recipe.caption_en || '') : (recipe.caption_hi || '')
+  const imgs = useMemo(()=> imagesFor(recipe), [recipe])
+  const title = lang==='en'? recipe.title : (recipe.title_hindi || recipe.title)
+  const capEn = recipe.caption_en || ''
+  const capHi = recipe.caption_hi || ''
 
-  const neon = theme==='lux' ? '0 0 24px #f59e0b' : '0 0 24px #a78bfa'
+  const [errMap, setErrMap] = useState({})
+  const shown = (idx)=> errMap[idx] ? buildPicsum(`${recipe.title}-${idx}`) : imgs[idx]
+  const onErr = (idx)=> setErrMap(m=> ({...m, [idx]: true}))
 
   return (
     <div className="card">
       <div className="shot">
-        {!!imgs.length && <img src={imgs[i]} alt={recipe.title} />}
-        <div className="neon" style={{boxShadow:neon}} />
-        <Watermark color="white" />
+        <img src={shown(i)} onError={()=>onErr(i)} alt={recipe.title}/>
+        <span className="wm">@cooktoadmire</span>
         {imgs.length>1 && <>
           <button className="navbtn left" onClick={()=>setI((i-1+imgs.length)%imgs.length)}>‹</button>
           <button className="navbtn right" onClick={()=>setI((i+1)%imgs.length)}>›</button>
@@ -28,8 +38,8 @@ export default function Card({ recipe, lang, chefPick, theme }){
         <h3>{title}</h3>
         <div className="meta">{recipe.region} • {recipe.category}</div>
         <div className="caps">
-          <div className="bubble">{recipe.caption_en}</div>
-          <div className="bubble">{recipe.caption_hi}</div>
+          <div className="bubble">{capEn}</div>
+          <div className="bubble">{capHi}</div>
         </div>
         <div className="tags">
           {(recipe.tags||[]).slice(0,8).map((t,idx)=>(<span key={idx} className="tag">{t}</span>))}

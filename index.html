@@ -6,28 +6,23 @@
     <title>Cook to Admire</title>
     <style>
       :root{
-        --bg1:#ff7a18; --bg2:#af002d; --bg3:#319197; --glass:rgba(255,255,255,.14);
-        --txt:#f8fafc; --muted:#cbd5e1; --card:#0b1220bb; --accent:#ffd166;
+        --bg1:#ff7a18; --bg2:#af002d; --bg3:#319197; --txt:#f8fafc; --muted:#cbd5e1; --card:#0b1220bb;
       }
-      html,body,#root{height:100%} body{margin:0;background: radial-gradient(1200px 800px at 10% 10%, #ffb70322, transparent),
-        conic-gradient(from 120deg at 70% 30%, var(--bg1), var(--bg2), var(--bg3)); 
-        color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, Noto Sans, "Apple Color Emoji", "Segoe UI Emoji";
-        overflow-x:hidden;}
+      html,body,#root{height:100%} body{margin:0;background: linear-gradient(120deg, var(--bg1), var(--bg2) 50%, var(--bg3));
+        color:var(--txt); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;}
       .container{max-width:1200px;margin:0 auto;padding:28px}
-      .title{font-size:42px;letter-spacing:.5px;margin:0 0 6px;background:linear-gradient(90deg,#fff, #ffe08a, #fff);
-        -webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 6px 16px #0004)}
+      .title{font-size:42px;margin:0 0 6px;background:linear-gradient(90deg,#fff,#ffe08a,#fff);
+        -webkit-background-clip:text;background-clip:text;color:transparent}
       .sub{color:var(--muted);margin:0 0 18px}
       .toolbar{display:flex;gap:12px;align-items:center;margin:12px 0 22px}
       .search{flex:1;padding:12px 14px;border-radius:14px;border:1px solid #ffffff33;background:rgba(255,255,255,.08);color:#fff}
       .lang,.theme{padding:10px 12px;border:1px solid #ffffff33;background:rgba(255,255,255,.08);border-radius:12px;color:#fff;cursor:pointer}
       .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px}
       .card{position:relative; backdrop-filter: blur(10px); background:var(--card); border:1px solid #ffffff1f; border-radius:20px;
-        box-shadow: 0 10px 40px #0007, inset 0 1px 0 #ffffff22; overflow:hidden; transform:translateZ(0)}
+        box-shadow: 0 10px 40px #0007, inset 0 1px 0 #ffffff22; overflow:hidden}
       .shot{position:relative;height:240px;overflow:hidden}
-      .shot img{width:100%;height:240px;object-fit:cover;
-        filter: saturate(1.15) contrast(1.05) brightness(1.02); transition: transform .5s ease, box-shadow .4s ease}
+      .shot img{width:100%;height:240px;object-fit:cover;filter: saturate(1.15) contrast(1.05); transition: transform .5s ease}
       .card:hover .shot img{transform: scale(1.04)}
-      .neon{position:absolute;inset:0;box-shadow: 0 0 40px #fffa; pointer-events:none}
       .wm{position:absolute;right:10px;bottom:10px;font: 700 18px "Brush Script MT","Comic Sans MS",cursive;opacity:.7;text-shadow:0 2px 8px #0008}
       .badge{position:absolute;left:12px;top:12px;background:linear-gradient(90deg,#f0abfc,#60a5fa);color:#111;padding:6px 10px;border-radius:999px;font-weight:700}
       .navbtn{position:absolute;top:50%;transform:translateY(-50%);background:rgba(0,0,0,.45);border:0;color:#fff;
@@ -35,7 +30,7 @@
       .navbtn.left{left:8px}.navbtn.right{right:8px}
       .content{padding:14px 16px 16px}
       h3{margin:0 0 6px;font-size:20px}
-      .meta{font-size:12px;color:var(--muted);margin-bottom:10px}
+      .meta{font-size:12px;color:#cbd5e1;margin-bottom:10px}
       .caps{display:flex;gap:8px}
       .bubble{flex:1;background:rgba(255,255,255,.08);border:1px solid #ffffff22;border-radius:14px;padding:10px;font-size:13px}
       .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}

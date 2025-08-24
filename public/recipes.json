@@ -1,51 +1,43 @@
 [
   {
     "id": 1,
-    "title": "Paneer Butter Masala",
-    "title_hindi": "Paneer Butter Masala",
+    "title": "Butter Chicken",
+    "title_hindi": "Butter Chicken",
     "region": "North India",
-    "category": "Veg",
-    "caption_en": "Paneer Butter Masala — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Paneer Butter Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Butter Chicken — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Butter Chicken — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Paneer-Butter-Masala,indian-food,hd&sig=0",
-      "https://source.unsplash.com/1600x1200/?Paneer-Butter-Masala,indian-food,hd&sig=1",
-      "https://source.unsplash.com/1600x1200/?Paneer-Butter-Masala,indian-food,hd&sig=2"
-    ]
+    "images": []
   },
   {
     "id": 2,
-    "title": "Butter Chicken",
-    "title_hindi": "Butter Chicken",
+    "title": "Paneer Butter Masala",
+    "title_hindi": "Paneer Butter Masala",
     "region": "South India",
-    "category": "Non-Veg",
-    "caption_en": "Butter Chicken — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Butter Chicken — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Paneer Butter Masala — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Paneer Butter Masala — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Butter-Chicken,indian-food,hd&sig=3",
-      "https://source.unsplash.com/1600x1200/?Butter-Chicken,indian-food,hd&sig=4",
-      "https://source.unsplash.com/1600x1200/?Butter-Chicken,indian-food,hd&sig=5"
-    ]
+    "images": []
   },
   {
     "id": 3,
@@ -53,71 +45,59 @@
     "title_hindi": "Hyderabadi Biryani",
     "region": "West India",
     "category": "Veg",
-    "caption_en": "Hyderabadi Biryani — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Hyderabadi Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Hyderabadi Biryani — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Hyderabadi Biryani — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Hyderabadi-Biryani,indian-food,hd&sig=6",
-      "https://source.unsplash.com/1600x1200/?Hyderabadi-Biryani,indian-food,hd&sig=7",
-      "https://source.unsplash.com/1600x1200/?Hyderabadi-Biryani,indian-food,hd&sig=8"
-    ]
+    "images": []
   },
   {
     "id": 4,
-    "title": "Chicken Tikka",
-    "title_hindi": "Chicken Tikka",
+    "title": "Chicken Biryani",
+    "title_hindi": "Chicken Biryani",
     "region": "East India",
     "category": "Non-Veg",
-    "caption_en": "Chicken Tikka — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Chicken Tikka — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Chicken Biryani — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Chicken Biryani — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Chicken-Tikka,indian-food,hd&sig=9",
-      "https://source.unsplash.com/1600x1200/?Chicken-Tikka,indian-food,hd&sig=10",
-      "https://source.unsplash.com/1600x1200/?Chicken-Tikka,indian-food,hd&sig=11"
-    ]
+    "images": []
   },
   {
     "id": 5,
-    "title": "Rogan Josh",
-    "title_hindi": "Rogan Josh",
+    "title": "Mutton Biryani",
+    "title_hindi": "Mutton Biryani",
     "region": "North India",
-    "category": "Veg",
-    "caption_en": "Rogan Josh — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Rogan Josh — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Mutton Biryani — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Mutton Biryani — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Rogan-Josh,indian-food,hd&sig=12",
-      "https://source.unsplash.com/1600x1200/?Rogan-Josh,indian-food,hd&sig=13",
-      "https://source.unsplash.com/1600x1200/?Rogan-Josh,indian-food,hd&sig=14"
-    ]
+    "images": []
   },
   {
     "id": 6,
@@ -125,23 +105,19 @@
     "title_hindi": "Masala Dosa",
     "region": "South India",
     "category": "Veg",
-    "caption_en": "Masala Dosa — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Masala Dosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Masala Dosa — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Masala Dosa — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Masala-Dosa,indian-food,hd&sig=15",
-      "https://source.unsplash.com/1600x1200/?Masala-Dosa,indian-food,hd&sig=16",
-      "https://source.unsplash.com/1600x1200/?Masala-Dosa,indian-food,hd&sig=17"
-    ]
+    "images": []
   },
   {
     "id": 7,
@@ -149,2254 +125,1878 @@
     "title_hindi": "Idli Sambar",
     "region": "West India",
     "category": "Veg",
-    "caption_en": "Idli Sambar — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Idli Sambar — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Idli Sambar — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Idli Sambar — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Idli-Sambar,indian-food,hd&sig=18",
-      "https://source.unsplash.com/1600x1200/?Idli-Sambar,indian-food,hd&sig=19",
-      "https://source.unsplash.com/1600x1200/?Idli-Sambar,indian-food,hd&sig=20"
-    ]
+    "images": []
   },
   {
     "id": 8,
-    "title": "Medu Vada",
-    "title_hindi": "Medu Vada",
+    "title": "Vada Pav",
+    "title_hindi": "Vada Pav",
     "region": "East India",
     "category": "Veg",
-    "caption_en": "Medu Vada — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Medu Vada — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Vada Pav — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Vada Pav — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Medu-Vada,indian-food,hd&sig=21",
-      "https://source.unsplash.com/1600x1200/?Medu-Vada,indian-food,hd&sig=22",
-      "https://source.unsplash.com/1600x1200/?Medu-Vada,indian-food,hd&sig=23"
-    ]
+    "images": []
   },
   {
     "id": 9,
-    "title": "Uttapam",
-    "title_hindi": "Uttapam",
+    "title": "Pav Bhaji",
+    "title_hindi": "Pav Bhaji",
     "region": "North India",
     "category": "Veg",
-    "caption_en": "Uttapam — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Uttapam — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Pav Bhaji — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Pav Bhaji — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Uttapam,indian-food,hd&sig=24",
-      "https://source.unsplash.com/1600x1200/?Uttapam,indian-food,hd&sig=25",
-      "https://source.unsplash.com/1600x1200/?Uttapam,indian-food,hd&sig=26"
-    ]
+    "images": []
   },
   {
     "id": 10,
-    "title": "Pesarattu",
-    "title_hindi": "Pesarattu",
+    "title": "Chole Bhature",
+    "title_hindi": "Chole Bhature",
     "region": "South India",
     "category": "Veg",
-    "caption_en": "Pesarattu — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Pesarattu — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Chole Bhature — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Chole Bhature — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Pesarattu,indian-food,hd&sig=27",
-      "https://source.unsplash.com/1600x1200/?Pesarattu,indian-food,hd&sig=28",
-      "https://source.unsplash.com/1600x1200/?Pesarattu,indian-food,hd&sig=29"
-    ]
+    "images": []
   },
   {
     "id": 11,
-    "title": "Chole Bhature",
-    "title_hindi": "Chole Bhature",
+    "title": "Rajma Chawal",
+    "title_hindi": "Rajma Chawal",
     "region": "West India",
     "category": "Veg",
-    "caption_en": "Chole Bhature — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Chole Bhature — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Rajma Chawal — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Rajma Chawal — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Chole-Bhature,indian-food,hd&sig=30",
-      "https://source.unsplash.com/1600x1200/?Chole-Bhature,indian-food,hd&sig=31",
-      "https://source.unsplash.com/1600x1200/?Chole-Bhature,indian-food,hd&sig=32"
-    ]
+    "images": []
   },
   {
     "id": 12,
-    "title": "Rajma",
-    "title_hindi": "Rajma",
+    "title": "Dal Makhani",
+    "title_hindi": "Dal Makhani",
     "region": "East India",
     "category": "Veg",
-    "caption_en": "Rajma — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Rajma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Dal Makhani — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Dal Makhani — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Rajma,indian-food,hd&sig=33",
-      "https://source.unsplash.com/1600x1200/?Rajma,indian-food,hd&sig=34",
-      "https://source.unsplash.com/1600x1200/?Rajma,indian-food,hd&sig=35"
-    ]
+    "images": []
   },
   {
     "id": 13,
-    "title": "Dal Makhani",
-    "title_hindi": "Dal Makhani",
+    "title": "Palak Paneer",
+    "title_hindi": "Palak Paneer",
     "region": "North India",
     "category": "Veg",
-    "caption_en": "Dal Makhani — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Dal Makhani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Palak Paneer — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Palak Paneer — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Dal-Makhani,indian-food,hd&sig=36",
-      "https://source.unsplash.com/1600x1200/?Dal-Makhani,indian-food,hd&sig=37",
-      "https://source.unsplash.com/1600x1200/?Dal-Makhani,indian-food,hd&sig=38"
-    ]
+    "images": []
   },
   {
     "id": 14,
-    "title": "Tadka Dal",
-    "title_hindi": "Tadka Dal",
+    "title": "Kadai Paneer",
+    "title_hindi": "Kadai Paneer",
     "region": "South India",
     "category": "Veg",
-    "caption_en": "Tadka Dal — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Tadka Dal — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Kadai Paneer — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Kadai Paneer — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Tadka-Dal,indian-food,hd&sig=39",
-      "https://source.unsplash.com/1600x1200/?Tadka-Dal,indian-food,hd&sig=40",
-      "https://source.unsplash.com/1600x1200/?Tadka-Dal,indian-food,hd&sig=41"
-    ]
+    "images": []
   },
   {
     "id": 15,
-    "title": "Kala Chana Curry",
-    "title_hindi": "Kala Chana Curry",
+    "title": "Rogan Josh",
+    "title_hindi": "Rogan Josh",
     "region": "West India",
     "category": "Veg",
-    "caption_en": "Kala Chana Curry — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Kala Chana Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Rogan Josh — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Rogan Josh — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Kala-Chana-Curry,indian-food,hd&sig=42",
-      "https://source.unsplash.com/1600x1200/?Kala-Chana-Curry,indian-food,hd&sig=43",
-      "https://source.unsplash.com/1600x1200/?Kala-Chana-Curry,indian-food,hd&sig=44"
-    ]
+    "images": []
   },
   {
     "id": 16,
-    "title": "Pav Bhaji",
-    "title_hindi": "Pav Bhaji",
+    "title": "Tandoori Chicken",
+    "title_hindi": "Tandoori Chicken",
     "region": "East India",
-    "category": "Veg",
-    "caption_en": "Pav Bhaji — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Pav Bhaji — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Tandoori Chicken — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Tandoori Chicken — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Pav-Bhaji,indian-food,hd&sig=45",
-      "https://source.unsplash.com/1600x1200/?Pav-Bhaji,indian-food,hd&sig=46",
-      "https://source.unsplash.com/1600x1200/?Pav-Bhaji,indian-food,hd&sig=47"
-    ]
+    "images": []
   },
   {
     "id": 17,
-    "title": "Vada Pav",
-    "title_hindi": "Vada Pav",
+    "title": "Malai Kofta",
+    "title_hindi": "Malai Kofta",
     "region": "North India",
     "category": "Veg",
-    "caption_en": "Vada Pav — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Vada Pav — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Malai Kofta — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Malai Kofta — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Vada-Pav,indian-food,hd&sig=48",
-      "https://source.unsplash.com/1600x1200/?Vada-Pav,indian-food,hd&sig=49",
-      "https://source.unsplash.com/1600x1200/?Vada-Pav,indian-food,hd&sig=50"
-    ]
+    "images": []
   },
   {
     "id": 18,
-    "title": "Misal Pav",
-    "title_hindi": "Misal Pav",
+    "title": "Aloo Paratha",
+    "title_hindi": "Aloo Paratha",
     "region": "South India",
     "category": "Veg",
-    "caption_en": "Misal Pav — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Misal Pav — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Aloo Paratha — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Aloo Paratha — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Misal-Pav,indian-food,hd&sig=51",
-      "https://source.unsplash.com/1600x1200/?Misal-Pav,indian-food,hd&sig=52",
-      "https://source.unsplash.com/1600x1200/?Misal-Pav,indian-food,hd&sig=53"
-    ]
+    "images": []
   },
   {
     "id": 19,
-    "title": "Dabeli",
-    "title_hindi": "Dabeli",
+    "title": "Gulab Jamun",
+    "title_hindi": "Gulab Jamun",
     "region": "West India",
-    "category": "Veg",
-    "caption_en": "Dabeli — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Dabeli — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Gulab Jamun — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Gulab Jamun — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Dabeli,indian-food,hd&sig=54",
-      "https://source.unsplash.com/1600x1200/?Dabeli,indian-food,hd&sig=55",
-      "https://source.unsplash.com/1600x1200/?Dabeli,indian-food,hd&sig=56"
-    ]
+    "images": []
   },
   {
     "id": 20,
-    "title": "Ragda Pattice",
-    "title_hindi": "Ragda Pattice",
+    "title": "Rasgulla",
+    "title_hindi": "Rasgulla",
     "region": "East India",
-    "category": "Veg",
-    "caption_en": "Ragda Pattice — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Ragda Pattice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Rasgulla — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Rasgulla — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Ragda-Pattice,indian-food,hd&sig=57",
-      "https://source.unsplash.com/1600x1200/?Ragda-Pattice,indian-food,hd&sig=58",
-      "https://source.unsplash.com/1600x1200/?Ragda-Pattice,indian-food,hd&sig=59"
-    ]
+    "images": []
   },
   {
     "id": 21,
-    "title": "Bhel Puri",
-    "title_hindi": "Bhel Puri",
+    "title": "Rasmalai",
+    "title_hindi": "Rasmalai",
     "region": "North India",
-    "category": "Veg",
-    "caption_en": "Bhel Puri — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Bhel Puri — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Rasmalai — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Rasmalai — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Bhel-Puri,indian-food,hd&sig=60",
-      "https://source.unsplash.com/1600x1200/?Bhel-Puri,indian-food,hd&sig=61",
-      "https://source.unsplash.com/1600x1200/?Bhel-Puri,indian-food,hd&sig=62"
-    ]
+    "images": []
   },
   {
     "id": 22,
-    "title": "Pani Puri",
-    "title_hindi": "Pani Puri",
+    "title": "Jalebi",
+    "title_hindi": "Jalebi",
     "region": "South India",
-    "category": "Veg",
-    "caption_en": "Pani Puri — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Pani Puri — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Jalebi — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Jalebi — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Pani-Puri,indian-food,hd&sig=63",
-      "https://source.unsplash.com/1600x1200/?Pani-Puri,indian-food,hd&sig=64",
-      "https://source.unsplash.com/1600x1200/?Pani-Puri,indian-food,hd&sig=65"
-    ]
+    "images": []
   },
   {
     "id": 23,
-    "title": "Dahi Puri",
-    "title_hindi": "Dahi Puri",
+    "title": "Gajar ka Halwa",
+    "title_hindi": "Gajar ka Halwa",
     "region": "West India",
-    "category": "Veg",
-    "caption_en": "Dahi Puri — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Dahi Puri — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Gajar ka Halwa — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Gajar ka Halwa — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Dahi-Puri,indian-food,hd&sig=66",
-      "https://source.unsplash.com/1600x1200/?Dahi-Puri,indian-food,hd&sig=67",
-      "https://source.unsplash.com/1600x1200/?Dahi-Puri,indian-food,hd&sig=68"
-    ]
+    "images": []
   },
   {
     "id": 24,
-    "title": "Aloo Tikki Chaat",
-    "title_hindi": "Aloo Tikki Chaat",
+    "title": "Kheer",
+    "title_hindi": "Kheer",
     "region": "East India",
-    "category": "Veg",
-    "caption_en": "Aloo Tikki Chaat — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Aloo Tikki Chaat — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Kheer — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Kheer — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Aloo-Tikki-Chaat,indian-food,hd&sig=69",
-      "https://source.unsplash.com/1600x1200/?Aloo-Tikki-Chaat,indian-food,hd&sig=70",
-      "https://source.unsplash.com/1600x1200/?Aloo-Tikki-Chaat,indian-food,hd&sig=71"
-    ]
+    "images": []
   },
   {
     "id": 25,
-    "title": "Samosa",
-    "title_hindi": "Samosa",
+    "title": "Phirni",
+    "title_hindi": "Phirni",
     "region": "North India",
-    "category": "Veg",
-    "caption_en": "Samosa — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Samosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Phirni — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Phirni — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Samosa,indian-food,hd&sig=72",
-      "https://source.unsplash.com/1600x1200/?Samosa,indian-food,hd&sig=73",
-      "https://source.unsplash.com/1600x1200/?Samosa,indian-food,hd&sig=74"
-    ]
+    "images": []
   },
   {
     "id": 26,
-    "title": "Kachori",
-    "title_hindi": "Kachori",
+    "title": "Kulfi",
+    "title_hindi": "Kulfi",
     "region": "South India",
-    "category": "Veg",
-    "caption_en": "Kachori — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Kachori — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Kulfi — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Kulfi — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Kachori,indian-food,hd&sig=75",
-      "https://source.unsplash.com/1600x1200/?Kachori,indian-food,hd&sig=76",
-      "https://source.unsplash.com/1600x1200/?Kachori,indian-food,hd&sig=77"
-    ]
+    "images": []
   },
   {
     "id": 27,
-    "title": "Pakora",
-    "title_hindi": "Pakora",
+    "title": "Pani Puri",
+    "title_hindi": "Pani Puri",
     "region": "West India",
     "category": "Veg",
-    "caption_en": "Pakora — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Pakora — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Pani Puri — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Pani Puri — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Pakora,indian-food,hd&sig=78",
-      "https://source.unsplash.com/1600x1200/?Pakora,indian-food,hd&sig=79",
-      "https://source.unsplash.com/1600x1200/?Pakora,indian-food,hd&sig=80"
-    ]
+    "images": []
   },
   {
     "id": 28,
-    "title": "Onion Bhaji",
-    "title_hindi": "Onion Bhaji",
+    "title": "Bhel Puri",
+    "title_hindi": "Bhel Puri",
     "region": "East India",
     "category": "Veg",
-    "caption_en": "Onion Bhaji — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Onion Bhaji — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Bhel Puri — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Bhel Puri — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Onion-Bhaji,indian-food,hd&sig=81",
-      "https://source.unsplash.com/1600x1200/?Onion-Bhaji,indian-food,hd&sig=82",
-      "https://source.unsplash.com/1600x1200/?Onion-Bhaji,indian-food,hd&sig=83"
-    ]
+    "images": []
   },
   {
     "id": 29,
-    "title": "Bread Pakora",
-    "title_hindi": "Bread Pakora",
+    "title": "Sev Puri",
+    "title_hindi": "Sev Puri",
     "region": "North India",
     "category": "Veg",
-    "caption_en": "Bread Pakora — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Bread Pakora — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Sev Puri — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Sev Puri — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Bread-Pakora,indian-food,hd&sig=84",
-      "https://source.unsplash.com/1600x1200/?Bread-Pakora,indian-food,hd&sig=85",
-      "https://source.unsplash.com/1600x1200/?Bread-Pakora,indian-food,hd&sig=86"
-    ]
+    "images": []
   },
   {
     "id": 30,
-    "title": "Chicken 65",
-    "title_hindi": "Chicken 65",
+    "title": "Dahi Puri",
+    "title_hindi": "Dahi Puri",
     "region": "South India",
-    "category": "Non-Veg",
-    "caption_en": "Chicken 65 — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Chicken 65 — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Dahi Puri — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Dahi Puri — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Chicken-65,indian-food,hd&sig=87",
-      "https://source.unsplash.com/1600x1200/?Chicken-65,indian-food,hd&sig=88",
-      "https://source.unsplash.com/1600x1200/?Chicken-65,indian-food,hd&sig=89"
-    ]
+    "images": []
   },
   {
     "id": 31,
-    "title": "Pepper Chicken",
-    "title_hindi": "Pepper Chicken",
+    "title": "Aloo Tikki Chaat",
+    "title_hindi": "Aloo Tikki Chaat",
     "region": "West India",
-    "category": "Non-Veg",
-    "caption_en": "Pepper Chicken — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Pepper Chicken — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Aloo Tikki Chaat — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Aloo Tikki Chaat — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Pepper-Chicken,indian-food,hd&sig=90",
-      "https://source.unsplash.com/1600x1200/?Pepper-Chicken,indian-food,hd&sig=91",
-      "https://source.unsplash.com/1600x1200/?Pepper-Chicken,indian-food,hd&sig=92"
-    ]
+    "images": []
   },
   {
     "id": 32,
-    "title": "Goan Fish Curry",
-    "title_hindi": "Goan Fish Curry",
+    "title": "Samosa",
+    "title_hindi": "Samosa",
     "region": "East India",
-    "category": "Non-Veg",
-    "caption_en": "Goan Fish Curry — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Goan Fish Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Samosa — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Samosa — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Goan-Fish-Curry,indian-food,hd&sig=93",
-      "https://source.unsplash.com/1600x1200/?Goan-Fish-Curry,indian-food,hd&sig=94",
-      "https://source.unsplash.com/1600x1200/?Goan-Fish-Curry,indian-food,hd&sig=95"
-    ]
+    "images": []
   },
   {
     "id": 33,
-    "title": "Prawn Masala",
-    "title_hindi": "Prawn Masala",
+    "title": "Kachori",
+    "title_hindi": "Kachori",
     "region": "North India",
-    "category": "Non-Veg",
-    "caption_en": "Prawn Masala — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Prawn Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Kachori — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Kachori — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Prawn-Masala,indian-food,hd&sig=96",
-      "https://source.unsplash.com/1600x1200/?Prawn-Masala,indian-food,hd&sig=97",
-      "https://source.unsplash.com/1600x1200/?Prawn-Masala,indian-food,hd&sig=98"
-    ]
+    "images": []
   },
   {
     "id": 34,
-    "title": "Egg Curry",
-    "title_hindi": "Egg Curry",
-    "region": "South India",
-    "category": "Non-Veg",
-    "caption_en": "Egg Curry — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Egg Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Egg-Curry,indian-food,hd&sig=99",
-      "https://source.unsplash.com/1600x1200/?Egg-Curry,indian-food,hd&sig=100",
-      "https://source.unsplash.com/1600x1200/?Egg-Curry,indian-food,hd&sig=101"
-    ]
-  },
-  {
-    "id": 35,
-    "title": "Keema Matar",
-    "title_hindi": "Keema Matar",
-    "region": "West India",
-    "category": "Veg",
-    "caption_en": "Keema Matar — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Keema Matar — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Keema-Matar,indian-food,hd&sig=102",
-      "https://source.unsplash.com/1600x1200/?Keema-Matar,indian-food,hd&sig=103",
-      "https://source.unsplash.com/1600x1200/?Keema-Matar,indian-food,hd&sig=104"
-    ]
-  },
-  {
-    "id": 36,
-    "title": "Palak Paneer",
-    "title_hindi": "Palak Paneer",
-    "region": "East India",
-    "category": "Veg",
-    "caption_en": "Palak Paneer — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Palak Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Palak-Paneer,indian-food,hd&sig=105",
-      "https://source.unsplash.com/1600x1200/?Palak-Paneer,indian-food,hd&sig=106",
-      "https://source.unsplash.com/1600x1200/?Palak-Paneer,indian-food,hd&sig=107"
-    ]
-  },
-  {
-    "id": 37,
-    "title": "Shahi Paneer",
-    "title_hindi": "Shahi Paneer",
-    "region": "North India",
-    "category": "Veg",
-    "caption_en": "Shahi Paneer — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Shahi Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Shahi-Paneer,indian-food,hd&sig=108",
-      "https://source.unsplash.com/1600x1200/?Shahi-Paneer,indian-food,hd&sig=109",
-      "https://source.unsplash.com/1600x1200/?Shahi-Paneer,indian-food,hd&sig=110"
-    ]
-  },
-  {
-    "id": 38,
-    "title": "Paneer Tikka",
-    "title_hindi": "Paneer Tikka",
-    "region": "South India",
-    "category": "Veg",
-    "caption_en": "Paneer Tikka — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Paneer Tikka — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Paneer-Tikka,indian-food,hd&sig=111",
-      "https://source.unsplash.com/1600x1200/?Paneer-Tikka,indian-food,hd&sig=112",
-      "https://source.unsplash.com/1600x1200/?Paneer-Tikka,indian-food,hd&sig=113"
-    ]
-  },
-  {
-    "id": 39,
-    "title": "Kadai Paneer",
-    "title_hindi": "Kadai Paneer",
-    "region": "West India",
-    "category": "Veg",
-    "caption_en": "Kadai Paneer — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Kadai Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Kadai-Paneer,indian-food,hd&sig=114",
-      "https://source.unsplash.com/1600x1200/?Kadai-Paneer,indian-food,hd&sig=115",
-      "https://source.unsplash.com/1600x1200/?Kadai-Paneer,indian-food,hd&sig=116"
-    ]
-  },
-  {
-    "id": 40,
-    "title": "Jeera Rice",
-    "title_hindi": "Jeera Rice",
-    "region": "East India",
-    "category": "Veg",
-    "caption_en": "Jeera Rice — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Jeera Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Jeera-Rice,indian-food,hd&sig=117",
-      "https://source.unsplash.com/1600x1200/?Jeera-Rice,indian-food,hd&sig=118",
-      "https://source.unsplash.com/1600x1200/?Jeera-Rice,indian-food,hd&sig=119"
-    ]
-  },
-  {
-    "id": 41,
-    "title": "Veg Pulao",
-    "title_hindi": "Veg Pulao",
-    "region": "North India",
-    "category": "Veg",
-    "caption_en": "Veg Pulao — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Veg Pulao — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Veg-Pulao,indian-food,hd&sig=120",
-      "https://source.unsplash.com/1600x1200/?Veg-Pulao,indian-food,hd&sig=121",
-      "https://source.unsplash.com/1600x1200/?Veg-Pulao,indian-food,hd&sig=122"
-    ]
-  },
-  {
-    "id": 42,
-    "title": "Peas Pulao",
-    "title_hindi": "Peas Pulao",
-    "region": "South India",
-    "category": "Veg",
-    "caption_en": "Peas Pulao — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Peas Pulao — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Peas-Pulao,indian-food,hd&sig=123",
-      "https://source.unsplash.com/1600x1200/?Peas-Pulao,indian-food,hd&sig=124",
-      "https://source.unsplash.com/1600x1200/?Peas-Pulao,indian-food,hd&sig=125"
-    ]
-  },
-  {
-    "id": 43,
-    "title": "Lemon Rice",
-    "title_hindi": "Lemon Rice",
-    "region": "West India",
-    "category": "Veg",
-    "caption_en": "Lemon Rice — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Lemon Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Lemon-Rice,indian-food,hd&sig=126",
-      "https://source.unsplash.com/1600x1200/?Lemon-Rice,indian-food,hd&sig=127",
-      "https://source.unsplash.com/1600x1200/?Lemon-Rice,indian-food,hd&sig=128"
-    ]
-  },
-  {
-    "id": 44,
-    "title": "Curd Rice",
-    "title_hindi": "Curd Rice",
-    "region": "East India",
-    "category": "Veg",
-    "caption_en": "Curd Rice — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Curd Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Curd-Rice,indian-food,hd&sig=129",
-      "https://source.unsplash.com/1600x1200/?Curd-Rice,indian-food,hd&sig=130",
-      "https://source.unsplash.com/1600x1200/?Curd-Rice,indian-food,hd&sig=131"
-    ]
-  },
-  {
-    "id": 45,
-    "title": "Khichdi",
-    "title_hindi": "Khichdi",
-    "region": "North India",
-    "category": "Veg",
-    "caption_en": "Khichdi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Khichdi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Khichdi,indian-food,hd&sig=132",
-      "https://source.unsplash.com/1600x1200/?Khichdi,indian-food,hd&sig=133",
-      "https://source.unsplash.com/1600x1200/?Khichdi,indian-food,hd&sig=134"
-    ]
-  },
-  {
-    "id": 46,
-    "title": "Vegetable Biryani",
-    "title_hindi": "Vegetable Biryani",
-    "region": "South India",
-    "category": "Veg",
-    "caption_en": "Vegetable Biryani — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Vegetable Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Vegetable-Biryani,indian-food,hd&sig=135",
-      "https://source.unsplash.com/1600x1200/?Vegetable-Biryani,indian-food,hd&sig=136",
-      "https://source.unsplash.com/1600x1200/?Vegetable-Biryani,indian-food,hd&sig=137"
-    ]
-  },
-  {
-    "id": 47,
-    "title": "Kashmiri Pulao",
-    "title_hindi": "Kashmiri Pulao",
-    "region": "West India",
-    "category": "Veg",
-    "caption_en": "Kashmiri Pulao — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Kashmiri Pulao — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Kashmiri-Pulao,indian-food,hd&sig=138",
-      "https://source.unsplash.com/1600x1200/?Kashmiri-Pulao,indian-food,hd&sig=139",
-      "https://source.unsplash.com/1600x1200/?Kashmiri-Pulao,indian-food,hd&sig=140"
-    ]
-  },
-  {
-    "id": 48,
-    "title": "Tomato Rice",
-    "title_hindi": "Tomato Rice",
-    "region": "East India",
-    "category": "Veg",
-    "caption_en": "Tomato Rice — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Tomato Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Tomato-Rice,indian-food,hd&sig=141",
-      "https://source.unsplash.com/1600x1200/?Tomato-Rice,indian-food,hd&sig=142",
-      "https://source.unsplash.com/1600x1200/?Tomato-Rice,indian-food,hd&sig=143"
-    ]
-  },
-  {
-    "id": 49,
-    "title": "Coconut Rice",
-    "title_hindi": "Coconut Rice",
-    "region": "North India",
-    "category": "Veg",
-    "caption_en": "Coconut Rice — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Coconut Rice — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Coconut-Rice,indian-food,hd&sig=144",
-      "https://source.unsplash.com/1600x1200/?Coconut-Rice,indian-food,hd&sig=145",
-      "https://source.unsplash.com/1600x1200/?Coconut-Rice,indian-food,hd&sig=146"
-    ]
-  },
-  {
-    "id": 50,
-    "title": "Baingan Bharta",
-    "title_hindi": "Baingan Bharta",
-    "region": "South India",
-    "category": "Veg",
-    "caption_en": "Baingan Bharta — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Baingan Bharta — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Baingan-Bharta,indian-food,hd&sig=147",
-      "https://source.unsplash.com/1600x1200/?Baingan-Bharta,indian-food,hd&sig=148",
-      "https://source.unsplash.com/1600x1200/?Baingan-Bharta,indian-food,hd&sig=149"
-    ]
-  },
-  {
-    "id": 51,
-    "title": "Bhindi Masala",
-    "title_hindi": "Bhindi Masala",
-    "region": "West India",
-    "category": "Veg",
-    "caption_en": "Bhindi Masala — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Bhindi Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Bhindi-Masala,indian-food,hd&sig=150",
-      "https://source.unsplash.com/1600x1200/?Bhindi-Masala,indian-food,hd&sig=151",
-      "https://source.unsplash.com/1600x1200/?Bhindi-Masala,indian-food,hd&sig=152"
-    ]
-  },
-  {
-    "id": 52,
-    "title": "Aloo Gobi",
-    "title_hindi": "Aloo Gobi",
-    "region": "East India",
-    "category": "Veg",
-    "caption_en": "Aloo Gobi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Aloo Gobi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Aloo-Gobi,indian-food,hd&sig=153",
-      "https://source.unsplash.com/1600x1200/?Aloo-Gobi,indian-food,hd&sig=154",
-      "https://source.unsplash.com/1600x1200/?Aloo-Gobi,indian-food,hd&sig=155"
-    ]
-  },
-  {
-    "id": 53,
-    "title": "Aloo Matar",
-    "title_hindi": "Aloo Matar",
-    "region": "North India",
-    "category": "Veg",
-    "caption_en": "Aloo Matar — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Aloo Matar — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Aloo-Matar,indian-food,hd&sig=156",
-      "https://source.unsplash.com/1600x1200/?Aloo-Matar,indian-food,hd&sig=157",
-      "https://source.unsplash.com/1600x1200/?Aloo-Matar,indian-food,hd&sig=158"
-    ]
-  },
-  {
-    "id": 54,
-    "title": "Lauki Chana Dal",
-    "title_hindi": "Lauki Chana Dal",
-    "region": "South India",
-    "category": "Veg",
-    "caption_en": "Lauki Chana Dal — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Lauki Chana Dal — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Lauki-Chana-Dal,indian-food,hd&sig=159",
-      "https://source.unsplash.com/1600x1200/?Lauki-Chana-Dal,indian-food,hd&sig=160",
-      "https://source.unsplash.com/1600x1200/?Lauki-Chana-Dal,indian-food,hd&sig=161"
-    ]
-  },
-  {
-    "id": 55,
-    "title": "Navratan Korma",
-    "title_hindi": "Navratan Korma",
-    "region": "West India",
-    "category": "Veg",
-    "caption_en": "Navratan Korma — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Navratan Korma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Navratan-Korma,indian-food,hd&sig=162",
-      "https://source.unsplash.com/1600x1200/?Navratan-Korma,indian-food,hd&sig=163",
-      "https://source.unsplash.com/1600x1200/?Navratan-Korma,indian-food,hd&sig=164"
-    ]
-  },
-  {
-    "id": 56,
-    "title": "Matar Paneer",
-    "title_hindi": "Matar Paneer",
-    "region": "East India",
-    "category": "Veg",
-    "caption_en": "Matar Paneer — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Matar Paneer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Matar-Paneer,indian-food,hd&sig=165",
-      "https://source.unsplash.com/1600x1200/?Matar-Paneer,indian-food,hd&sig=166",
-      "https://source.unsplash.com/1600x1200/?Matar-Paneer,indian-food,hd&sig=167"
-    ]
-  },
-  {
-    "id": 57,
-    "title": "Kaddu ki Sabzi",
-    "title_hindi": "Kaddu ki Sabzi",
-    "region": "North India",
-    "category": "Veg",
-    "caption_en": "Kaddu ki Sabzi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Kaddu ki Sabzi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Kaddu-ki-Sabzi,indian-food,hd&sig=168",
-      "https://source.unsplash.com/1600x1200/?Kaddu-ki-Sabzi,indian-food,hd&sig=169",
-      "https://source.unsplash.com/1600x1200/?Kaddu-ki-Sabzi,indian-food,hd&sig=170"
-    ]
-  },
-  {
-    "id": 58,
-    "title": "Tinda Masala",
-    "title_hindi": "Tinda Masala",
-    "region": "South India",
-    "category": "Veg",
-    "caption_en": "Tinda Masala — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Tinda Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Tinda-Masala,indian-food,hd&sig=171",
-      "https://source.unsplash.com/1600x1200/?Tinda-Masala,indian-food,hd&sig=172",
-      "https://source.unsplash.com/1600x1200/?Tinda-Masala,indian-food,hd&sig=173"
-    ]
-  },
-  {
-    "id": 59,
-    "title": "Chicken Korma",
-    "title_hindi": "Chicken Korma",
-    "region": "West India",
-    "category": "Non-Veg",
-    "caption_en": "Chicken Korma — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Chicken Korma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Chicken-Korma,indian-food,hd&sig=174",
-      "https://source.unsplash.com/1600x1200/?Chicken-Korma,indian-food,hd&sig=175",
-      "https://source.unsplash.com/1600x1200/?Chicken-Korma,indian-food,hd&sig=176"
-    ]
-  },
-  {
-    "id": 60,
-    "title": "Chicken Handi",
-    "title_hindi": "Chicken Handi",
-    "region": "East India",
-    "category": "Non-Veg",
-    "caption_en": "Chicken Handi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Chicken Handi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Chicken-Handi,indian-food,hd&sig=177",
-      "https://source.unsplash.com/1600x1200/?Chicken-Handi,indian-food,hd&sig=178",
-      "https://source.unsplash.com/1600x1200/?Chicken-Handi,indian-food,hd&sig=179"
-    ]
-  },
-  {
-    "id": 61,
-    "title": "Malabar Parotta & Curry",
-    "title_hindi": "Malabar Parotta & Curry",
-    "region": "North India",
-    "category": "Veg",
-    "caption_en": "Malabar Parotta & Curry — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Malabar Parotta & Curry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Malabar-Parotta-&-Curry,indian-food,hd&sig=180",
-      "https://source.unsplash.com/1600x1200/?Malabar-Parotta-&-Curry,indian-food,hd&sig=181",
-      "https://source.unsplash.com/1600x1200/?Malabar-Parotta-&-Curry,indian-food,hd&sig=182"
-    ]
-  },
-  {
-    "id": 62,
-    "title": "Laal Maas",
-    "title_hindi": "Laal Maas",
-    "region": "South India",
-    "category": "Veg",
-    "caption_en": "Laal Maas — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Laal Maas — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Laal-Maas,indian-food,hd&sig=183",
-      "https://source.unsplash.com/1600x1200/?Laal-Maas,indian-food,hd&sig=184",
-      "https://source.unsplash.com/1600x1200/?Laal-Maas,indian-food,hd&sig=185"
-    ]
-  },
-  {
-    "id": 63,
-    "title": "Nihari",
-    "title_hindi": "Nihari",
-    "region": "West India",
-    "category": "Veg",
-    "caption_en": "Nihari — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Nihari — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Nihari,indian-food,hd&sig=186",
-      "https://source.unsplash.com/1600x1200/?Nihari,indian-food,hd&sig=187",
-      "https://source.unsplash.com/1600x1200/?Nihari,indian-food,hd&sig=188"
-    ]
-  },
-  {
-    "id": 64,
-    "title": "Bhuna Gosht",
-    "title_hindi": "Bhuna Gosht",
-    "region": "East India",
-    "category": "Non-Veg",
-    "caption_en": "Bhuna Gosht — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Bhuna Gosht — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Bhuna-Gosht,indian-food,hd&sig=189",
-      "https://source.unsplash.com/1600x1200/?Bhuna-Gosht,indian-food,hd&sig=190",
-      "https://source.unsplash.com/1600x1200/?Bhuna-Gosht,indian-food,hd&sig=191"
-    ]
-  },
-  {
-    "id": 65,
-    "title": "Galouti Kebab",
-    "title_hindi": "Galouti Kebab",
-    "region": "North India",
-    "category": "Non-Veg",
-    "caption_en": "Galouti Kebab — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Galouti Kebab — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Galouti-Kebab,indian-food,hd&sig=192",
-      "https://source.unsplash.com/1600x1200/?Galouti-Kebab,indian-food,hd&sig=193",
-      "https://source.unsplash.com/1600x1200/?Galouti-Kebab,indian-food,hd&sig=194"
-    ]
-  },
-  {
-    "id": 66,
-    "title": "Amritsari Fish Fry",
-    "title_hindi": "Amritsari Fish Fry",
-    "region": "South India",
-    "category": "Non-Veg",
-    "caption_en": "Amritsari Fish Fry — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Amritsari Fish Fry — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Amritsari-Fish-Fry,indian-food,hd&sig=195",
-      "https://source.unsplash.com/1600x1200/?Amritsari-Fish-Fry,indian-food,hd&sig=196",
-      "https://source.unsplash.com/1600x1200/?Amritsari-Fish-Fry,indian-food,hd&sig=197"
-    ]
-  },
-  {
-    "id": 67,
-    "title": "Tawa Prawns",
-    "title_hindi": "Tawa Prawns",
-    "region": "West India",
-    "category": "Non-Veg",
-    "caption_en": "Tawa Prawns — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Tawa Prawns — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Tawa-Prawns,indian-food,hd&sig=198",
-      "https://source.unsplash.com/1600x1200/?Tawa-Prawns,indian-food,hd&sig=199",
-      "https://source.unsplash.com/1600x1200/?Tawa-Prawns,indian-food,hd&sig=200"
-    ]
-  },
-  {
-    "id": 68,
-    "title": "Crab Masala",
-    "title_hindi": "Crab Masala",
-    "region": "East India",
-    "category": "Non-Veg",
-    "caption_en": "Crab Masala — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Crab Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Crab-Masala,indian-food,hd&sig=201",
-      "https://source.unsplash.com/1600x1200/?Crab-Masala,indian-food,hd&sig=202",
-      "https://source.unsplash.com/1600x1200/?Crab-Masala,indian-food,hd&sig=203"
-    ]
-  },
-  {
-    "id": 69,
-    "title": "Fish Tikka",
-    "title_hindi": "Fish Tikka",
-    "region": "North India",
-    "category": "Non-Veg",
-    "caption_en": "Fish Tikka — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Fish Tikka — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
-    "tags": [
-      "#cooktoadmire",
-      "#indianfood",
-      "#desi",
-      "#homemade",
-      "#foodlover",
-      "#yummy",
-      "#tasty",
-      "#spicy"
-    ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Fish-Tikka,indian-food,hd&sig=204",
-      "https://source.unsplash.com/1600x1200/?Fish-Tikka,indian-food,hd&sig=205",
-      "https://source.unsplash.com/1600x1200/?Fish-Tikka,indian-food,hd&sig=206"
-    ]
-  },
-  {
-    "id": 70,
     "title": "Poha",
     "title_hindi": "Poha",
     "region": "South India",
     "category": "Veg",
-    "caption_en": "Poha — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Poha — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Poha — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Poha — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Poha,indian-food,hd&sig=207",
-      "https://source.unsplash.com/1600x1200/?Poha,indian-food,hd&sig=208",
-      "https://source.unsplash.com/1600x1200/?Poha,indian-food,hd&sig=209"
-    ]
+    "images": []
   },
   {
-    "id": 71,
+    "id": 35,
     "title": "Upma",
     "title_hindi": "Upma",
     "region": "West India",
     "category": "Veg",
-    "caption_en": "Upma — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Upma — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "caption_en": "Upma — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Upma — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Upma,indian-food,hd&sig=210",
-      "https://source.unsplash.com/1600x1200/?Upma,indian-food,hd&sig=211",
-      "https://source.unsplash.com/1600x1200/?Upma,indian-food,hd&sig=212"
-    ]
+    "images": []
+  },
+  {
+    "id": 36,
+    "title": "Uttapam",
+    "title_hindi": "Uttapam",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Uttapam — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Uttapam — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 37,
+    "title": "Medu Vada",
+    "title_hindi": "Medu Vada",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Medu Vada — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Medu Vada — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 38,
+    "title": "Pesarattu",
+    "title_hindi": "Pesarattu",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Pesarattu — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Pesarattu — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 39,
+    "title": "Chicken Tikka",
+    "title_hindi": "Chicken Tikka",
+    "region": "West India",
+    "category": "Non-Veg",
+    "caption_en": "Chicken Tikka — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Chicken Tikka — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 40,
+    "title": "Paneer Tikka",
+    "title_hindi": "Paneer Tikka",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Paneer Tikka — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Paneer Tikka — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 41,
+    "title": "Laal Maas",
+    "title_hindi": "Laal Maas",
+    "region": "North India",
+    "category": "Non-Veg",
+    "caption_en": "Laal Maas — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Laal Maas — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 42,
+    "title": "Nihari",
+    "title_hindi": "Nihari",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Nihari — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Nihari — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 43,
+    "title": "Goan Fish Curry",
+    "title_hindi": "Goan Fish Curry",
+    "region": "West India",
+    "category": "Non-Veg",
+    "caption_en": "Goan Fish Curry — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Goan Fish Curry — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 44,
+    "title": "Prawn Masala",
+    "title_hindi": "Prawn Masala",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Prawn Masala — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Prawn Masala — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 45,
+    "title": "Egg Curry",
+    "title_hindi": "Egg Curry",
+    "region": "North India",
+    "category": "Non-Veg",
+    "caption_en": "Egg Curry — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Egg Curry — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 46,
+    "title": "Keema Matar",
+    "title_hindi": "Keema Matar",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Keema Matar — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Keema Matar — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 47,
+    "title": "Bhindi Masala",
+    "title_hindi": "Bhindi Masala",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Bhindi Masala — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Bhindi Masala — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 48,
+    "title": "Baingan Bharta",
+    "title_hindi": "Baingan Bharta",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Baingan Bharta — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Baingan Bharta — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 49,
+    "title": "Aloo Gobi",
+    "title_hindi": "Aloo Gobi",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Aloo Gobi — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Aloo Gobi — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 50,
+    "title": "Aloo Matar",
+    "title_hindi": "Aloo Matar",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Aloo Matar — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Aloo Matar — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 51,
+    "title": "Jeera Rice",
+    "title_hindi": "Jeera Rice",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Jeera Rice — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Jeera Rice — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 52,
+    "title": "Veg Pulao",
+    "title_hindi": "Veg Pulao",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Veg Pulao — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Veg Pulao — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 53,
+    "title": "Peas Pulao",
+    "title_hindi": "Peas Pulao",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Peas Pulao — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Peas Pulao — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 54,
+    "title": "Lemon Rice",
+    "title_hindi": "Lemon Rice",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Lemon Rice — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Lemon Rice — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 55,
+    "title": "Curd Rice",
+    "title_hindi": "Curd Rice",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Curd Rice — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Curd Rice — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 56,
+    "title": "Khichdi",
+    "title_hindi": "Khichdi",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Khichdi — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Khichdi — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 57,
+    "title": "Veg Biryani",
+    "title_hindi": "Veg Biryani",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Veg Biryani — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Veg Biryani — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 58,
+    "title": "Fish Fry",
+    "title_hindi": "Fish Fry",
+    "region": "South India",
+    "category": "Non-Veg",
+    "caption_en": "Fish Fry — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Fish Fry — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 59,
+    "title": "Amritsari Fish",
+    "title_hindi": "Amritsari Fish",
+    "region": "West India",
+    "category": "Non-Veg",
+    "caption_en": "Amritsari Fish — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Amritsari Fish — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 60,
+    "title": "Galouti Kebab",
+    "title_hindi": "Galouti Kebab",
+    "region": "East India",
+    "category": "Non-Veg",
+    "caption_en": "Galouti Kebab — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Galouti Kebab — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 61,
+    "title": "Seekh Kebab",
+    "title_hindi": "Seekh Kebab",
+    "region": "North India",
+    "category": "Non-Veg",
+    "caption_en": "Seekh Kebab — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Seekh Kebab — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 62,
+    "title": "Haleem",
+    "title_hindi": "Haleem",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Haleem — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Haleem — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 63,
+    "title": "Misal Pav",
+    "title_hindi": "Misal Pav",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Misal Pav — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Misal Pav — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 64,
+    "title": "Dabeli",
+    "title_hindi": "Dabeli",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Dabeli — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Dabeli — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 65,
+    "title": "Ragda Pattice",
+    "title_hindi": "Ragda Pattice",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Ragda Pattice — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Ragda Pattice — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 66,
+    "title": "Papdi Chaat",
+    "title_hindi": "Papdi Chaat",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Papdi Chaat — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Papdi Chaat — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 67,
+    "title": "Mysore Masala Dosa",
+    "title_hindi": "Mysore Masala Dosa",
+    "region": "West India",
+    "category": "Veg",
+    "caption_en": "Mysore Masala Dosa — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Mysore Masala Dosa — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 68,
+    "title": "Rava Dosa",
+    "title_hindi": "Rava Dosa",
+    "region": "East India",
+    "category": "Veg",
+    "caption_en": "Rava Dosa — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Rava Dosa — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 69,
+    "title": "Set Dosa",
+    "title_hindi": "Set Dosa",
+    "region": "North India",
+    "category": "Veg",
+    "caption_en": "Set Dosa — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Set Dosa — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 70,
+    "title": "Pongal",
+    "title_hindi": "Pongal",
+    "region": "South India",
+    "category": "Veg",
+    "caption_en": "Pongal — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Pongal — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
+  },
+  {
+    "id": 71,
+    "title": "Rava Kesari",
+    "title_hindi": "Rava Kesari",
+    "region": "West India",
+    "category": "Dessert",
+    "caption_en": "Rava Kesari — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Rava Kesari — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
+    "tags": [
+      "#cooktoadmire",
+      "#indianfood",
+      "#desi",
+      "#homemade",
+      "#foodie",
+      "#yum",
+      "#tasty",
+      "#spicy"
+    ],
+    "images": []
   },
   {
     "id": 72,
-    "title": "Aloo Paratha",
-    "title_hindi": "Aloo Paratha",
+    "title": "Mysore Pak",
+    "title_hindi": "Mysore Pak",
     "region": "East India",
-    "category": "Veg",
-    "caption_en": "Aloo Paratha — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Aloo Paratha — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Mysore Pak — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Mysore Pak — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Aloo-Paratha,indian-food,hd&sig=213",
-      "https://source.unsplash.com/1600x1200/?Aloo-Paratha,indian-food,hd&sig=214",
-      "https://source.unsplash.com/1600x1200/?Aloo-Paratha,indian-food,hd&sig=215"
-    ]
+    "images": []
   },
   {
     "id": 73,
-    "title": "Gobi Paratha",
-    "title_hindi": "Gobi Paratha",
+    "title": "Sandesh",
+    "title_hindi": "Sandesh",
     "region": "North India",
-    "category": "Veg",
-    "caption_en": "Gobi Paratha — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Gobi Paratha — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Sandesh — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Sandesh — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Gobi-Paratha,indian-food,hd&sig=216",
-      "https://source.unsplash.com/1600x1200/?Gobi-Paratha,indian-food,hd&sig=217",
-      "https://source.unsplash.com/1600x1200/?Gobi-Paratha,indian-food,hd&sig=218"
-    ]
+    "images": []
   },
   {
     "id": 74,
-    "title": "Methi Thepla",
-    "title_hindi": "Methi Thepla",
+    "title": "Malpua",
+    "title_hindi": "Malpua",
     "region": "South India",
-    "category": "Veg",
-    "caption_en": "Methi Thepla — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Methi Thepla — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Malpua — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Malpua — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Methi-Thepla,indian-food,hd&sig=219",
-      "https://source.unsplash.com/1600x1200/?Methi-Thepla,indian-food,hd&sig=220",
-      "https://source.unsplash.com/1600x1200/?Methi-Thepla,indian-food,hd&sig=221"
-    ]
+    "images": []
   },
   {
     "id": 75,
-    "title": "Chaat Papdi",
-    "title_hindi": "Chaat Papdi",
+    "title": "Shrikhand",
+    "title_hindi": "Shrikhand",
     "region": "West India",
-    "category": "Veg",
-    "caption_en": "Chaat Papdi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Chaat Papdi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Shrikhand — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Shrikhand — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Chaat-Papdi,indian-food,hd&sig=222",
-      "https://source.unsplash.com/1600x1200/?Chaat-Papdi,indian-food,hd&sig=223",
-      "https://source.unsplash.com/1600x1200/?Chaat-Papdi,indian-food,hd&sig=224"
-    ]
+    "images": []
   },
   {
     "id": 76,
-    "title": "Dosa Mysore Masala",
-    "title_hindi": "Dosa Mysore Masala",
+    "title": "Basundi",
+    "title_hindi": "Basundi",
     "region": "East India",
-    "category": "Veg",
-    "caption_en": "Dosa Mysore Masala — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Dosa Mysore Masala — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Basundi — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Basundi — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Dosa-Mysore-Masala,indian-food,hd&sig=225",
-      "https://source.unsplash.com/1600x1200/?Dosa-Mysore-Masala,indian-food,hd&sig=226",
-      "https://source.unsplash.com/1600x1200/?Dosa-Mysore-Masala,indian-food,hd&sig=227"
-    ]
+    "images": []
   },
   {
     "id": 77,
-    "title": "Rava Dosa",
-    "title_hindi": "Rava Dosa",
+    "title": "Payasam",
+    "title_hindi": "Payasam",
     "region": "North India",
-    "category": "Veg",
-    "caption_en": "Rava Dosa — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Rava Dosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Dessert",
+    "caption_en": "Payasam — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Payasam — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Rava-Dosa,indian-food,hd&sig=228",
-      "https://source.unsplash.com/1600x1200/?Rava-Dosa,indian-food,hd&sig=229",
-      "https://source.unsplash.com/1600x1200/?Rava-Dosa,indian-food,hd&sig=230"
-    ]
+    "images": []
   },
   {
     "id": 78,
-    "title": "Set Dosa",
-    "title_hindi": "Set Dosa",
+    "title": "Chicken 65",
+    "title_hindi": "Chicken 65",
     "region": "South India",
-    "category": "Veg",
-    "caption_en": "Set Dosa — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Set Dosa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Chicken 65 — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Chicken 65 — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Set-Dosa,indian-food,hd&sig=231",
-      "https://source.unsplash.com/1600x1200/?Set-Dosa,indian-food,hd&sig=232",
-      "https://source.unsplash.com/1600x1200/?Set-Dosa,indian-food,hd&sig=233"
-    ]
+    "images": []
   },
   {
     "id": 79,
-    "title": "Pongal",
-    "title_hindi": "Pongal",
+    "title": "Pepper Chicken",
+    "title_hindi": "Pepper Chicken",
     "region": "West India",
-    "category": "Veg",
-    "caption_en": "Pongal — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Pongal — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Pepper Chicken — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Pepper Chicken — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Pongal,indian-food,hd&sig=234",
-      "https://source.unsplash.com/1600x1200/?Pongal,indian-food,hd&sig=235",
-      "https://source.unsplash.com/1600x1200/?Pongal,indian-food,hd&sig=236"
-    ]
+    "images": []
   },
   {
     "id": 80,
-    "title": "Rava Kesari",
-    "title_hindi": "Rava Kesari",
+    "title": "Chicken Korma",
+    "title_hindi": "Chicken Korma",
     "region": "East India",
-    "category": "Dessert",
-    "caption_en": "Rava Kesari — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Rava Kesari — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Chicken Korma — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Chicken Korma — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Rava-Kesari,indian-food,hd&sig=237",
-      "https://source.unsplash.com/1600x1200/?Rava-Kesari,indian-food,hd&sig=238",
-      "https://source.unsplash.com/1600x1200/?Rava-Kesari,indian-food,hd&sig=239"
-    ]
+    "images": []
   },
   {
     "id": 81,
-    "title": "Gulab Jamun",
-    "title_hindi": "Gulab Jamun",
+    "title": "Chicken Handi",
+    "title_hindi": "Chicken Handi",
     "region": "North India",
-    "category": "Dessert",
-    "caption_en": "Gulab Jamun — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Gulab Jamun — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Chicken Handi — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Chicken Handi — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Gulab-Jamun,indian-food,hd&sig=240",
-      "https://source.unsplash.com/1600x1200/?Gulab-Jamun,indian-food,hd&sig=241",
-      "https://source.unsplash.com/1600x1200/?Gulab-Jamun,indian-food,hd&sig=242"
-    ]
+    "images": []
   },
   {
     "id": 82,
-    "title": "Rasgulla",
-    "title_hindi": "Rasgulla",
+    "title": "Veg Korma",
+    "title_hindi": "Veg Korma",
     "region": "South India",
-    "category": "Dessert",
-    "caption_en": "Rasgulla — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Rasgulla — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Veg Korma — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Veg Korma — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Rasgulla,indian-food,hd&sig=243",
-      "https://source.unsplash.com/1600x1200/?Rasgulla,indian-food,hd&sig=244",
-      "https://source.unsplash.com/1600x1200/?Rasgulla,indian-food,hd&sig=245"
-    ]
+    "images": []
   },
   {
     "id": 83,
-    "title": "Rasmalai",
-    "title_hindi": "Rasmalai",
+    "title": "Navratan Korma",
+    "title_hindi": "Navratan Korma",
     "region": "West India",
-    "category": "Dessert",
-    "caption_en": "Rasmalai — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Rasmalai — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Navratan Korma — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Navratan Korma — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Rasmalai,indian-food,hd&sig=246",
-      "https://source.unsplash.com/1600x1200/?Rasmalai,indian-food,hd&sig=247",
-      "https://source.unsplash.com/1600x1200/?Rasmalai,indian-food,hd&sig=248"
-    ]
+    "images": []
   },
   {
     "id": 84,
-    "title": "Jalebi",
-    "title_hindi": "Jalebi",
+    "title": "Kashmiri Pulao",
+    "title_hindi": "Kashmiri Pulao",
     "region": "East India",
-    "category": "Dessert",
-    "caption_en": "Jalebi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Jalebi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Kashmiri Pulao — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Kashmiri Pulao — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Jalebi,indian-food,hd&sig=249",
-      "https://source.unsplash.com/1600x1200/?Jalebi,indian-food,hd&sig=250",
-      "https://source.unsplash.com/1600x1200/?Jalebi,indian-food,hd&sig=251"
-    ]
+    "images": []
   },
   {
     "id": 85,
-    "title": "Kheer",
-    "title_hindi": "Kheer",
+    "title": "Tomato Rice",
+    "title_hindi": "Tomato Rice",
     "region": "North India",
-    "category": "Dessert",
-    "caption_en": "Kheer — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Kheer — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Tomato Rice — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Tomato Rice — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Kheer,indian-food,hd&sig=252",
-      "https://source.unsplash.com/1600x1200/?Kheer,indian-food,hd&sig=253",
-      "https://source.unsplash.com/1600x1200/?Kheer,indian-food,hd&sig=254"
-    ]
+    "images": []
   },
   {
     "id": 86,
-    "title": "Phirni",
-    "title_hindi": "Phirni",
+    "title": "Coconut Rice",
+    "title_hindi": "Coconut Rice",
     "region": "South India",
-    "category": "Dessert",
-    "caption_en": "Phirni — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Phirni — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Coconut Rice — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Coconut Rice — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Phirni,indian-food,hd&sig=255",
-      "https://source.unsplash.com/1600x1200/?Phirni,indian-food,hd&sig=256",
-      "https://source.unsplash.com/1600x1200/?Phirni,indian-food,hd&sig=257"
-    ]
+    "images": []
   },
   {
     "id": 87,
-    "title": "Kulfi",
-    "title_hindi": "Kulfi",
+    "title": "Lauki Chana Dal",
+    "title_hindi": "Lauki Chana Dal",
     "region": "West India",
-    "category": "Dessert",
-    "caption_en": "Kulfi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Kulfi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Lauki Chana Dal — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Lauki Chana Dal — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Kulfi,indian-food,hd&sig=258",
-      "https://source.unsplash.com/1600x1200/?Kulfi,indian-food,hd&sig=259",
-      "https://source.unsplash.com/1600x1200/?Kulfi,indian-food,hd&sig=260"
-    ]
+    "images": []
   },
   {
     "id": 88,
-    "title": "Gajar ka Halwa",
-    "title_hindi": "Gajar ka Halwa",
+    "title": "Kaddu ki Sabzi",
+    "title_hindi": "Kaddu ki Sabzi",
     "region": "East India",
-    "category": "Dessert",
-    "caption_en": "Gajar ka Halwa — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Gajar ka Halwa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Kaddu ki Sabzi — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Kaddu ki Sabzi — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Gajar-ka-Halwa,indian-food,hd&sig=261",
-      "https://source.unsplash.com/1600x1200/?Gajar-ka-Halwa,indian-food,hd&sig=262",
-      "https://source.unsplash.com/1600x1200/?Gajar-ka-Halwa,indian-food,hd&sig=263"
-    ]
+    "images": []
   },
   {
     "id": 89,
-    "title": "Moong Dal Halwa",
-    "title_hindi": "Moong Dal Halwa",
+    "title": "Tinda Masala",
+    "title_hindi": "Tinda Masala",
     "region": "North India",
-    "category": "Dessert",
-    "caption_en": "Moong Dal Halwa — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Moong Dal Halwa — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Tinda Masala — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Tinda Masala — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Moong-Dal-Halwa,indian-food,hd&sig=264",
-      "https://source.unsplash.com/1600x1200/?Moong-Dal-Halwa,indian-food,hd&sig=265",
-      "https://source.unsplash.com/1600x1200/?Moong-Dal-Halwa,indian-food,hd&sig=266"
-    ]
+    "images": []
   },
   {
     "id": 90,
-    "title": "Mysore Pak",
-    "title_hindi": "Mysore Pak",
+    "title": "Matar Paneer",
+    "title_hindi": "Matar Paneer",
     "region": "South India",
-    "category": "Dessert",
-    "caption_en": "Mysore Pak — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Mysore Pak — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Matar Paneer — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Matar Paneer — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Mysore-Pak,indian-food,hd&sig=267",
-      "https://source.unsplash.com/1600x1200/?Mysore-Pak,indian-food,hd&sig=268",
-      "https://source.unsplash.com/1600x1200/?Mysore-Pak,indian-food,hd&sig=269"
-    ]
+    "images": []
   },
   {
     "id": 91,
-    "title": "Sandesh",
-    "title_hindi": "Sandesh",
+    "title": "Shahi Paneer",
+    "title_hindi": "Shahi Paneer",
     "region": "West India",
-    "category": "Dessert",
-    "caption_en": "Sandesh — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Sandesh — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Shahi Paneer — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Shahi Paneer — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Sandesh,indian-food,hd&sig=270",
-      "https://source.unsplash.com/1600x1200/?Sandesh,indian-food,hd&sig=271",
-      "https://source.unsplash.com/1600x1200/?Sandesh,indian-food,hd&sig=272"
-    ]
+    "images": []
   },
   {
     "id": 92,
-    "title": "Malpua",
-    "title_hindi": "Malpua",
+    "title": "Butter Naan",
+    "title_hindi": "Butter Naan",
     "region": "East India",
-    "category": "Dessert",
-    "caption_en": "Malpua — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Malpua — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Butter Naan — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Butter Naan — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Malpua,indian-food,hd&sig=273",
-      "https://source.unsplash.com/1600x1200/?Malpua,indian-food,hd&sig=274",
-      "https://source.unsplash.com/1600x1200/?Malpua,indian-food,hd&sig=275"
-    ]
+    "images": []
   },
   {
     "id": 93,
-    "title": "Shrikhand",
-    "title_hindi": "Shrikhand",
+    "title": "Garlic Naan",
+    "title_hindi": "Garlic Naan",
     "region": "North India",
-    "category": "Dessert",
-    "caption_en": "Shrikhand — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Shrikhand — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Garlic Naan — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Garlic Naan — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Shrikhand,indian-food,hd&sig=276",
-      "https://source.unsplash.com/1600x1200/?Shrikhand,indian-food,hd&sig=277",
-      "https://source.unsplash.com/1600x1200/?Shrikhand,indian-food,hd&sig=278"
-    ]
+    "images": []
   },
   {
     "id": 94,
-    "title": "Basundi",
-    "title_hindi": "Basundi",
+    "title": "Lachha Paratha",
+    "title_hindi": "Lachha Paratha",
     "region": "South India",
-    "category": "Dessert",
-    "caption_en": "Basundi — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Basundi — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Lachha Paratha — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Lachha Paratha — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Basundi,indian-food,hd&sig=279",
-      "https://source.unsplash.com/1600x1200/?Basundi,indian-food,hd&sig=280",
-      "https://source.unsplash.com/1600x1200/?Basundi,indian-food,hd&sig=281"
-    ]
+    "images": []
   },
   {
     "id": 95,
-    "title": "Payasam",
-    "title_hindi": "Payasam",
+    "title": "Naan & Curry",
+    "title_hindi": "Naan & Curry",
     "region": "West India",
-    "category": "Dessert",
-    "caption_en": "Payasam — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Payasam — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Veg",
+    "caption_en": "Naan & Curry — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Naan & Curry — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Payasam,indian-food,hd&sig=282",
-      "https://source.unsplash.com/1600x1200/?Payasam,indian-food,hd&sig=283",
-      "https://source.unsplash.com/1600x1200/?Payasam,indian-food,hd&sig=284"
-    ]
+    "images": []
   },
   {
     "id": 96,
-    "title": "Chicken Biryani",
-    "title_hindi": "Chicken Biryani",
+    "title": "Veg Thali",
+    "title_hindi": "Veg Thali",
     "region": "East India",
-    "category": "Non-Veg",
-    "caption_en": "Chicken Biryani — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Chicken Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Thali",
+    "caption_en": "Veg Thali — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Veg Thali — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Chicken-Biryani,indian-food,hd&sig=285",
-      "https://source.unsplash.com/1600x1200/?Chicken-Biryani,indian-food,hd&sig=286",
-      "https://source.unsplash.com/1600x1200/?Chicken-Biryani,indian-food,hd&sig=287"
-    ]
+    "images": []
   },
   {
     "id": 97,
-    "title": "Mutton Biryani",
-    "title_hindi": "Mutton Biryani",
+    "title": "Non-Veg Thali",
+    "title_hindi": "Non-Veg Thali",
     "region": "North India",
-    "category": "Non-Veg",
-    "caption_en": "Mutton Biryani — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Mutton Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Thali",
+    "caption_en": "Non-Veg Thali — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Non-Veg Thali — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Mutton-Biryani,indian-food,hd&sig=288",
-      "https://source.unsplash.com/1600x1200/?Mutton-Biryani,indian-food,hd&sig=289",
-      "https://source.unsplash.com/1600x1200/?Mutton-Biryani,indian-food,hd&sig=290"
-    ]
+    "images": []
   },
   {
     "id": 98,
-    "title": "Fish Biryani",
-    "title_hindi": "Fish Biryani",
+    "title": "Seafood Thali",
+    "title_hindi": "Seafood Thali",
     "region": "South India",
-    "category": "Non-Veg",
-    "caption_en": "Fish Biryani — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Fish Biryani — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Thali",
+    "caption_en": "Seafood Thali — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Seafood Thali — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Fish-Biryani,indian-food,hd&sig=291",
-      "https://source.unsplash.com/1600x1200/?Fish-Biryani,indian-food,hd&sig=292",
-      "https://source.unsplash.com/1600x1200/?Fish-Biryani,indian-food,hd&sig=293"
-    ]
+    "images": []
   },
   {
     "id": 99,
-    "title": "Veg Thali",
-    "title_hindi": "Veg Thali",
+    "title": "Fish Biryani",
+    "title_hindi": "Fish Biryani",
     "region": "West India",
-    "category": "Veg",
-    "caption_en": "Veg Thali — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Veg Thali — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Fish Biryani — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Fish Biryani — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Veg-Thali,indian-food,hd&sig=294",
-      "https://source.unsplash.com/1600x1200/?Veg-Thali,indian-food,hd&sig=295",
-      "https://source.unsplash.com/1600x1200/?Veg-Thali,indian-food,hd&sig=296"
-    ]
+    "images": []
   },
   {
     "id": 100,
-    "title": "Non-Veg Thali",
-    "title_hindi": "Non-Veg Thali",
+    "title": "Tawa Prawns",
+    "title_hindi": "Tawa Prawns",
     "region": "East India",
-    "category": "Veg",
-    "caption_en": "Non-Veg Thali — bold flavors, simple steps. Save & try! 🍽️",
-    "caption_hi": "Non-Veg Thali — कम मेहनत, कमाल का स्वाद! सेव करें और आज बनाएं। 🍽️",
+    "category": "Non-Veg",
+    "caption_en": "Tawa Prawns — iconic Indian favorite. Save & try tonight! 🍽️",
+    "caption_hi": "Tawa Prawns — भारत की पसंदीदा डिश। सेव करें और आज बनाएं! 🍽️",
     "tags": [
       "#cooktoadmire",
       "#indianfood",
       "#desi",
       "#homemade",
-      "#foodlover",
-      "#yummy",
+      "#foodie",
+      "#yum",
       "#tasty",
       "#spicy"
     ],
-    "images": [
-      "https://source.unsplash.com/1600x1200/?Non-Veg-Thali,indian-food,hd&sig=297",
-      "https://source.unsplash.com/1600x1200/?Non-Veg-Thali,indian-food,hd&sig=298",
-      "https://source.unsplash.com/1600x1200/?Non-Veg-Thali,indian-food,hd&sig=299"
-    ]
+    "images": []
   }
 ]
