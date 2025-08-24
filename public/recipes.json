@@ -1,0 +1,1502 @@
+[
+  {
+    "title": "Indian Recipe 1",
+    "description": "Tasty Indian dish number 1. | स्वादिष्ट भारतीय व्यंजन संख्या 1।",
+    "ingredients": [
+      "Ingredient A1",
+      "Ingredient B1",
+      "Ingredient C1"
+    ],
+    "instructions": "Cook all ingredients of recipe 1 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe1_1/1080/1080",
+      "https://picsum.photos/seed/recipe1_2/1080/1080",
+      "https://picsum.photos/seed/recipe1_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 2",
+    "description": "Tasty Indian dish number 2. | स्वादिष्ट भारतीय व्यंजन संख्या 2।",
+    "ingredients": [
+      "Ingredient A2",
+      "Ingredient B2",
+      "Ingredient C2"
+    ],
+    "instructions": "Cook all ingredients of recipe 2 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe2_1/1080/1080",
+      "https://picsum.photos/seed/recipe2_2/1080/1080",
+      "https://picsum.photos/seed/recipe2_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 3",
+    "description": "Tasty Indian dish number 3. | स्वादिष्ट भारतीय व्यंजन संख्या 3।",
+    "ingredients": [
+      "Ingredient A3",
+      "Ingredient B3",
+      "Ingredient C3"
+    ],
+    "instructions": "Cook all ingredients of recipe 3 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe3_1/1080/1080",
+      "https://picsum.photos/seed/recipe3_2/1080/1080",
+      "https://picsum.photos/seed/recipe3_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 4",
+    "description": "Tasty Indian dish number 4. | स्वादिष्ट भारतीय व्यंजन संख्या 4।",
+    "ingredients": [
+      "Ingredient A4",
+      "Ingredient B4",
+      "Ingredient C4"
+    ],
+    "instructions": "Cook all ingredients of recipe 4 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe4_1/1080/1080",
+      "https://picsum.photos/seed/recipe4_2/1080/1080",
+      "https://picsum.photos/seed/recipe4_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 5",
+    "description": "Tasty Indian dish number 5. | स्वादिष्ट भारतीय व्यंजन संख्या 5।",
+    "ingredients": [
+      "Ingredient A5",
+      "Ingredient B5",
+      "Ingredient C5"
+    ],
+    "instructions": "Cook all ingredients of recipe 5 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe5_1/1080/1080",
+      "https://picsum.photos/seed/recipe5_2/1080/1080",
+      "https://picsum.photos/seed/recipe5_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 6",
+    "description": "Tasty Indian dish number 6. | स्वादिष्ट भारतीय व्यंजन संख्या 6।",
+    "ingredients": [
+      "Ingredient A6",
+      "Ingredient B6",
+      "Ingredient C6"
+    ],
+    "instructions": "Cook all ingredients of recipe 6 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe6_1/1080/1080",
+      "https://picsum.photos/seed/recipe6_2/1080/1080",
+      "https://picsum.photos/seed/recipe6_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 7",
+    "description": "Tasty Indian dish number 7. | स्वादिष्ट भारतीय व्यंजन संख्या 7।",
+    "ingredients": [
+      "Ingredient A7",
+      "Ingredient B7",
+      "Ingredient C7"
+    ],
+    "instructions": "Cook all ingredients of recipe 7 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe7_1/1080/1080",
+      "https://picsum.photos/seed/recipe7_2/1080/1080",
+      "https://picsum.photos/seed/recipe7_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 8",
+    "description": "Tasty Indian dish number 8. | स्वादिष्ट भारतीय व्यंजन संख्या 8।",
+    "ingredients": [
+      "Ingredient A8",
+      "Ingredient B8",
+      "Ingredient C8"
+    ],
+    "instructions": "Cook all ingredients of recipe 8 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe8_1/1080/1080",
+      "https://picsum.photos/seed/recipe8_2/1080/1080",
+      "https://picsum.photos/seed/recipe8_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 9",
+    "description": "Tasty Indian dish number 9. | स्वादिष्ट भारतीय व्यंजन संख्या 9।",
+    "ingredients": [
+      "Ingredient A9",
+      "Ingredient B9",
+      "Ingredient C9"
+    ],
+    "instructions": "Cook all ingredients of recipe 9 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe9_1/1080/1080",
+      "https://picsum.photos/seed/recipe9_2/1080/1080",
+      "https://picsum.photos/seed/recipe9_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 10",
+    "description": "Tasty Indian dish number 10. | स्वादिष्ट भारतीय व्यंजन संख्या 10।",
+    "ingredients": [
+      "Ingredient A10",
+      "Ingredient B10",
+      "Ingredient C10"
+    ],
+    "instructions": "Cook all ingredients of recipe 10 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe10_1/1080/1080",
+      "https://picsum.photos/seed/recipe10_2/1080/1080",
+      "https://picsum.photos/seed/recipe10_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 11",
+    "description": "Tasty Indian dish number 11. | स्वादिष्ट भारतीय व्यंजन संख्या 11।",
+    "ingredients": [
+      "Ingredient A11",
+      "Ingredient B11",
+      "Ingredient C11"
+    ],
+    "instructions": "Cook all ingredients of recipe 11 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe11_1/1080/1080",
+      "https://picsum.photos/seed/recipe11_2/1080/1080",
+      "https://picsum.photos/seed/recipe11_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 12",
+    "description": "Tasty Indian dish number 12. | स्वादिष्ट भारतीय व्यंजन संख्या 12।",
+    "ingredients": [
+      "Ingredient A12",
+      "Ingredient B12",
+      "Ingredient C12"
+    ],
+    "instructions": "Cook all ingredients of recipe 12 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe12_1/1080/1080",
+      "https://picsum.photos/seed/recipe12_2/1080/1080",
+      "https://picsum.photos/seed/recipe12_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 13",
+    "description": "Tasty Indian dish number 13. | स्वादिष्ट भारतीय व्यंजन संख्या 13।",
+    "ingredients": [
+      "Ingredient A13",
+      "Ingredient B13",
+      "Ingredient C13"
+    ],
+    "instructions": "Cook all ingredients of recipe 13 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe13_1/1080/1080",
+      "https://picsum.photos/seed/recipe13_2/1080/1080",
+      "https://picsum.photos/seed/recipe13_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 14",
+    "description": "Tasty Indian dish number 14. | स्वादिष्ट भारतीय व्यंजन संख्या 14।",
+    "ingredients": [
+      "Ingredient A14",
+      "Ingredient B14",
+      "Ingredient C14"
+    ],
+    "instructions": "Cook all ingredients of recipe 14 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe14_1/1080/1080",
+      "https://picsum.photos/seed/recipe14_2/1080/1080",
+      "https://picsum.photos/seed/recipe14_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 15",
+    "description": "Tasty Indian dish number 15. | स्वादिष्ट भारतीय व्यंजन संख्या 15।",
+    "ingredients": [
+      "Ingredient A15",
+      "Ingredient B15",
+      "Ingredient C15"
+    ],
+    "instructions": "Cook all ingredients of recipe 15 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe15_1/1080/1080",
+      "https://picsum.photos/seed/recipe15_2/1080/1080",
+      "https://picsum.photos/seed/recipe15_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 16",
+    "description": "Tasty Indian dish number 16. | स्वादिष्ट भारतीय व्यंजन संख्या 16।",
+    "ingredients": [
+      "Ingredient A16",
+      "Ingredient B16",
+      "Ingredient C16"
+    ],
+    "instructions": "Cook all ingredients of recipe 16 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe16_1/1080/1080",
+      "https://picsum.photos/seed/recipe16_2/1080/1080",
+      "https://picsum.photos/seed/recipe16_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 17",
+    "description": "Tasty Indian dish number 17. | स्वादिष्ट भारतीय व्यंजन संख्या 17।",
+    "ingredients": [
+      "Ingredient A17",
+      "Ingredient B17",
+      "Ingredient C17"
+    ],
+    "instructions": "Cook all ingredients of recipe 17 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe17_1/1080/1080",
+      "https://picsum.photos/seed/recipe17_2/1080/1080",
+      "https://picsum.photos/seed/recipe17_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 18",
+    "description": "Tasty Indian dish number 18. | स्वादिष्ट भारतीय व्यंजन संख्या 18।",
+    "ingredients": [
+      "Ingredient A18",
+      "Ingredient B18",
+      "Ingredient C18"
+    ],
+    "instructions": "Cook all ingredients of recipe 18 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe18_1/1080/1080",
+      "https://picsum.photos/seed/recipe18_2/1080/1080",
+      "https://picsum.photos/seed/recipe18_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 19",
+    "description": "Tasty Indian dish number 19. | स्वादिष्ट भारतीय व्यंजन संख्या 19।",
+    "ingredients": [
+      "Ingredient A19",
+      "Ingredient B19",
+      "Ingredient C19"
+    ],
+    "instructions": "Cook all ingredients of recipe 19 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe19_1/1080/1080",
+      "https://picsum.photos/seed/recipe19_2/1080/1080",
+      "https://picsum.photos/seed/recipe19_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 20",
+    "description": "Tasty Indian dish number 20. | स्वादिष्ट भारतीय व्यंजन संख्या 20।",
+    "ingredients": [
+      "Ingredient A20",
+      "Ingredient B20",
+      "Ingredient C20"
+    ],
+    "instructions": "Cook all ingredients of recipe 20 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe20_1/1080/1080",
+      "https://picsum.photos/seed/recipe20_2/1080/1080",
+      "https://picsum.photos/seed/recipe20_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 21",
+    "description": "Tasty Indian dish number 21. | स्वादिष्ट भारतीय व्यंजन संख्या 21।",
+    "ingredients": [
+      "Ingredient A21",
+      "Ingredient B21",
+      "Ingredient C21"
+    ],
+    "instructions": "Cook all ingredients of recipe 21 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe21_1/1080/1080",
+      "https://picsum.photos/seed/recipe21_2/1080/1080",
+      "https://picsum.photos/seed/recipe21_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 22",
+    "description": "Tasty Indian dish number 22. | स्वादिष्ट भारतीय व्यंजन संख्या 22।",
+    "ingredients": [
+      "Ingredient A22",
+      "Ingredient B22",
+      "Ingredient C22"
+    ],
+    "instructions": "Cook all ingredients of recipe 22 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe22_1/1080/1080",
+      "https://picsum.photos/seed/recipe22_2/1080/1080",
+      "https://picsum.photos/seed/recipe22_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 23",
+    "description": "Tasty Indian dish number 23. | स्वादिष्ट भारतीय व्यंजन संख्या 23।",
+    "ingredients": [
+      "Ingredient A23",
+      "Ingredient B23",
+      "Ingredient C23"
+    ],
+    "instructions": "Cook all ingredients of recipe 23 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe23_1/1080/1080",
+      "https://picsum.photos/seed/recipe23_2/1080/1080",
+      "https://picsum.photos/seed/recipe23_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 24",
+    "description": "Tasty Indian dish number 24. | स्वादिष्ट भारतीय व्यंजन संख्या 24।",
+    "ingredients": [
+      "Ingredient A24",
+      "Ingredient B24",
+      "Ingredient C24"
+    ],
+    "instructions": "Cook all ingredients of recipe 24 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe24_1/1080/1080",
+      "https://picsum.photos/seed/recipe24_2/1080/1080",
+      "https://picsum.photos/seed/recipe24_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 25",
+    "description": "Tasty Indian dish number 25. | स्वादिष्ट भारतीय व्यंजन संख्या 25।",
+    "ingredients": [
+      "Ingredient A25",
+      "Ingredient B25",
+      "Ingredient C25"
+    ],
+    "instructions": "Cook all ingredients of recipe 25 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe25_1/1080/1080",
+      "https://picsum.photos/seed/recipe25_2/1080/1080",
+      "https://picsum.photos/seed/recipe25_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 26",
+    "description": "Tasty Indian dish number 26. | स्वादिष्ट भारतीय व्यंजन संख्या 26।",
+    "ingredients": [
+      "Ingredient A26",
+      "Ingredient B26",
+      "Ingredient C26"
+    ],
+    "instructions": "Cook all ingredients of recipe 26 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe26_1/1080/1080",
+      "https://picsum.photos/seed/recipe26_2/1080/1080",
+      "https://picsum.photos/seed/recipe26_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 27",
+    "description": "Tasty Indian dish number 27. | स्वादिष्ट भारतीय व्यंजन संख्या 27।",
+    "ingredients": [
+      "Ingredient A27",
+      "Ingredient B27",
+      "Ingredient C27"
+    ],
+    "instructions": "Cook all ingredients of recipe 27 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe27_1/1080/1080",
+      "https://picsum.photos/seed/recipe27_2/1080/1080",
+      "https://picsum.photos/seed/recipe27_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 28",
+    "description": "Tasty Indian dish number 28. | स्वादिष्ट भारतीय व्यंजन संख्या 28।",
+    "ingredients": [
+      "Ingredient A28",
+      "Ingredient B28",
+      "Ingredient C28"
+    ],
+    "instructions": "Cook all ingredients of recipe 28 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe28_1/1080/1080",
+      "https://picsum.photos/seed/recipe28_2/1080/1080",
+      "https://picsum.photos/seed/recipe28_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 29",
+    "description": "Tasty Indian dish number 29. | स्वादिष्ट भारतीय व्यंजन संख्या 29।",
+    "ingredients": [
+      "Ingredient A29",
+      "Ingredient B29",
+      "Ingredient C29"
+    ],
+    "instructions": "Cook all ingredients of recipe 29 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe29_1/1080/1080",
+      "https://picsum.photos/seed/recipe29_2/1080/1080",
+      "https://picsum.photos/seed/recipe29_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 30",
+    "description": "Tasty Indian dish number 30. | स्वादिष्ट भारतीय व्यंजन संख्या 30।",
+    "ingredients": [
+      "Ingredient A30",
+      "Ingredient B30",
+      "Ingredient C30"
+    ],
+    "instructions": "Cook all ingredients of recipe 30 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe30_1/1080/1080",
+      "https://picsum.photos/seed/recipe30_2/1080/1080",
+      "https://picsum.photos/seed/recipe30_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 31",
+    "description": "Tasty Indian dish number 31. | स्वादिष्ट भारतीय व्यंजन संख्या 31।",
+    "ingredients": [
+      "Ingredient A31",
+      "Ingredient B31",
+      "Ingredient C31"
+    ],
+    "instructions": "Cook all ingredients of recipe 31 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe31_1/1080/1080",
+      "https://picsum.photos/seed/recipe31_2/1080/1080",
+      "https://picsum.photos/seed/recipe31_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 32",
+    "description": "Tasty Indian dish number 32. | स्वादिष्ट भारतीय व्यंजन संख्या 32।",
+    "ingredients": [
+      "Ingredient A32",
+      "Ingredient B32",
+      "Ingredient C32"
+    ],
+    "instructions": "Cook all ingredients of recipe 32 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe32_1/1080/1080",
+      "https://picsum.photos/seed/recipe32_2/1080/1080",
+      "https://picsum.photos/seed/recipe32_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 33",
+    "description": "Tasty Indian dish number 33. | स्वादिष्ट भारतीय व्यंजन संख्या 33।",
+    "ingredients": [
+      "Ingredient A33",
+      "Ingredient B33",
+      "Ingredient C33"
+    ],
+    "instructions": "Cook all ingredients of recipe 33 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe33_1/1080/1080",
+      "https://picsum.photos/seed/recipe33_2/1080/1080",
+      "https://picsum.photos/seed/recipe33_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 34",
+    "description": "Tasty Indian dish number 34. | स्वादिष्ट भारतीय व्यंजन संख्या 34।",
+    "ingredients": [
+      "Ingredient A34",
+      "Ingredient B34",
+      "Ingredient C34"
+    ],
+    "instructions": "Cook all ingredients of recipe 34 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe34_1/1080/1080",
+      "https://picsum.photos/seed/recipe34_2/1080/1080",
+      "https://picsum.photos/seed/recipe34_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 35",
+    "description": "Tasty Indian dish number 35. | स्वादिष्ट भारतीय व्यंजन संख्या 35।",
+    "ingredients": [
+      "Ingredient A35",
+      "Ingredient B35",
+      "Ingredient C35"
+    ],
+    "instructions": "Cook all ingredients of recipe 35 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe35_1/1080/1080",
+      "https://picsum.photos/seed/recipe35_2/1080/1080",
+      "https://picsum.photos/seed/recipe35_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 36",
+    "description": "Tasty Indian dish number 36. | स्वादिष्ट भारतीय व्यंजन संख्या 36।",
+    "ingredients": [
+      "Ingredient A36",
+      "Ingredient B36",
+      "Ingredient C36"
+    ],
+    "instructions": "Cook all ingredients of recipe 36 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe36_1/1080/1080",
+      "https://picsum.photos/seed/recipe36_2/1080/1080",
+      "https://picsum.photos/seed/recipe36_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 37",
+    "description": "Tasty Indian dish number 37. | स्वादिष्ट भारतीय व्यंजन संख्या 37।",
+    "ingredients": [
+      "Ingredient A37",
+      "Ingredient B37",
+      "Ingredient C37"
+    ],
+    "instructions": "Cook all ingredients of recipe 37 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe37_1/1080/1080",
+      "https://picsum.photos/seed/recipe37_2/1080/1080",
+      "https://picsum.photos/seed/recipe37_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 38",
+    "description": "Tasty Indian dish number 38. | स्वादिष्ट भारतीय व्यंजन संख्या 38।",
+    "ingredients": [
+      "Ingredient A38",
+      "Ingredient B38",
+      "Ingredient C38"
+    ],
+    "instructions": "Cook all ingredients of recipe 38 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe38_1/1080/1080",
+      "https://picsum.photos/seed/recipe38_2/1080/1080",
+      "https://picsum.photos/seed/recipe38_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 39",
+    "description": "Tasty Indian dish number 39. | स्वादिष्ट भारतीय व्यंजन संख्या 39।",
+    "ingredients": [
+      "Ingredient A39",
+      "Ingredient B39",
+      "Ingredient C39"
+    ],
+    "instructions": "Cook all ingredients of recipe 39 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe39_1/1080/1080",
+      "https://picsum.photos/seed/recipe39_2/1080/1080",
+      "https://picsum.photos/seed/recipe39_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 40",
+    "description": "Tasty Indian dish number 40. | स्वादिष्ट भारतीय व्यंजन संख्या 40।",
+    "ingredients": [
+      "Ingredient A40",
+      "Ingredient B40",
+      "Ingredient C40"
+    ],
+    "instructions": "Cook all ingredients of recipe 40 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe40_1/1080/1080",
+      "https://picsum.photos/seed/recipe40_2/1080/1080",
+      "https://picsum.photos/seed/recipe40_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 41",
+    "description": "Tasty Indian dish number 41. | स्वादिष्ट भारतीय व्यंजन संख्या 41।",
+    "ingredients": [
+      "Ingredient A41",
+      "Ingredient B41",
+      "Ingredient C41"
+    ],
+    "instructions": "Cook all ingredients of recipe 41 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe41_1/1080/1080",
+      "https://picsum.photos/seed/recipe41_2/1080/1080",
+      "https://picsum.photos/seed/recipe41_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 42",
+    "description": "Tasty Indian dish number 42. | स्वादिष्ट भारतीय व्यंजन संख्या 42।",
+    "ingredients": [
+      "Ingredient A42",
+      "Ingredient B42",
+      "Ingredient C42"
+    ],
+    "instructions": "Cook all ingredients of recipe 42 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe42_1/1080/1080",
+      "https://picsum.photos/seed/recipe42_2/1080/1080",
+      "https://picsum.photos/seed/recipe42_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 43",
+    "description": "Tasty Indian dish number 43. | स्वादिष्ट भारतीय व्यंजन संख्या 43।",
+    "ingredients": [
+      "Ingredient A43",
+      "Ingredient B43",
+      "Ingredient C43"
+    ],
+    "instructions": "Cook all ingredients of recipe 43 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe43_1/1080/1080",
+      "https://picsum.photos/seed/recipe43_2/1080/1080",
+      "https://picsum.photos/seed/recipe43_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 44",
+    "description": "Tasty Indian dish number 44. | स्वादिष्ट भारतीय व्यंजन संख्या 44।",
+    "ingredients": [
+      "Ingredient A44",
+      "Ingredient B44",
+      "Ingredient C44"
+    ],
+    "instructions": "Cook all ingredients of recipe 44 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe44_1/1080/1080",
+      "https://picsum.photos/seed/recipe44_2/1080/1080",
+      "https://picsum.photos/seed/recipe44_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 45",
+    "description": "Tasty Indian dish number 45. | स्वादिष्ट भारतीय व्यंजन संख्या 45।",
+    "ingredients": [
+      "Ingredient A45",
+      "Ingredient B45",
+      "Ingredient C45"
+    ],
+    "instructions": "Cook all ingredients of recipe 45 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe45_1/1080/1080",
+      "https://picsum.photos/seed/recipe45_2/1080/1080",
+      "https://picsum.photos/seed/recipe45_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 46",
+    "description": "Tasty Indian dish number 46. | स्वादिष्ट भारतीय व्यंजन संख्या 46।",
+    "ingredients": [
+      "Ingredient A46",
+      "Ingredient B46",
+      "Ingredient C46"
+    ],
+    "instructions": "Cook all ingredients of recipe 46 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe46_1/1080/1080",
+      "https://picsum.photos/seed/recipe46_2/1080/1080",
+      "https://picsum.photos/seed/recipe46_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 47",
+    "description": "Tasty Indian dish number 47. | स्वादिष्ट भारतीय व्यंजन संख्या 47।",
+    "ingredients": [
+      "Ingredient A47",
+      "Ingredient B47",
+      "Ingredient C47"
+    ],
+    "instructions": "Cook all ingredients of recipe 47 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe47_1/1080/1080",
+      "https://picsum.photos/seed/recipe47_2/1080/1080",
+      "https://picsum.photos/seed/recipe47_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 48",
+    "description": "Tasty Indian dish number 48. | स्वादिष्ट भारतीय व्यंजन संख्या 48।",
+    "ingredients": [
+      "Ingredient A48",
+      "Ingredient B48",
+      "Ingredient C48"
+    ],
+    "instructions": "Cook all ingredients of recipe 48 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe48_1/1080/1080",
+      "https://picsum.photos/seed/recipe48_2/1080/1080",
+      "https://picsum.photos/seed/recipe48_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 49",
+    "description": "Tasty Indian dish number 49. | स्वादिष्ट भारतीय व्यंजन संख्या 49।",
+    "ingredients": [
+      "Ingredient A49",
+      "Ingredient B49",
+      "Ingredient C49"
+    ],
+    "instructions": "Cook all ingredients of recipe 49 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe49_1/1080/1080",
+      "https://picsum.photos/seed/recipe49_2/1080/1080",
+      "https://picsum.photos/seed/recipe49_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 50",
+    "description": "Tasty Indian dish number 50. | स्वादिष्ट भारतीय व्यंजन संख्या 50।",
+    "ingredients": [
+      "Ingredient A50",
+      "Ingredient B50",
+      "Ingredient C50"
+    ],
+    "instructions": "Cook all ingredients of recipe 50 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe50_1/1080/1080",
+      "https://picsum.photos/seed/recipe50_2/1080/1080",
+      "https://picsum.photos/seed/recipe50_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 51",
+    "description": "Tasty Indian dish number 51. | स्वादिष्ट भारतीय व्यंजन संख्या 51।",
+    "ingredients": [
+      "Ingredient A51",
+      "Ingredient B51",
+      "Ingredient C51"
+    ],
+    "instructions": "Cook all ingredients of recipe 51 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe51_1/1080/1080",
+      "https://picsum.photos/seed/recipe51_2/1080/1080",
+      "https://picsum.photos/seed/recipe51_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 52",
+    "description": "Tasty Indian dish number 52. | स्वादिष्ट भारतीय व्यंजन संख्या 52।",
+    "ingredients": [
+      "Ingredient A52",
+      "Ingredient B52",
+      "Ingredient C52"
+    ],
+    "instructions": "Cook all ingredients of recipe 52 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe52_1/1080/1080",
+      "https://picsum.photos/seed/recipe52_2/1080/1080",
+      "https://picsum.photos/seed/recipe52_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 53",
+    "description": "Tasty Indian dish number 53. | स्वादिष्ट भारतीय व्यंजन संख्या 53।",
+    "ingredients": [
+      "Ingredient A53",
+      "Ingredient B53",
+      "Ingredient C53"
+    ],
+    "instructions": "Cook all ingredients of recipe 53 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe53_1/1080/1080",
+      "https://picsum.photos/seed/recipe53_2/1080/1080",
+      "https://picsum.photos/seed/recipe53_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 54",
+    "description": "Tasty Indian dish number 54. | स्वादिष्ट भारतीय व्यंजन संख्या 54।",
+    "ingredients": [
+      "Ingredient A54",
+      "Ingredient B54",
+      "Ingredient C54"
+    ],
+    "instructions": "Cook all ingredients of recipe 54 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe54_1/1080/1080",
+      "https://picsum.photos/seed/recipe54_2/1080/1080",
+      "https://picsum.photos/seed/recipe54_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 55",
+    "description": "Tasty Indian dish number 55. | स्वादिष्ट भारतीय व्यंजन संख्या 55।",
+    "ingredients": [
+      "Ingredient A55",
+      "Ingredient B55",
+      "Ingredient C55"
+    ],
+    "instructions": "Cook all ingredients of recipe 55 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe55_1/1080/1080",
+      "https://picsum.photos/seed/recipe55_2/1080/1080",
+      "https://picsum.photos/seed/recipe55_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 56",
+    "description": "Tasty Indian dish number 56. | स्वादिष्ट भारतीय व्यंजन संख्या 56।",
+    "ingredients": [
+      "Ingredient A56",
+      "Ingredient B56",
+      "Ingredient C56"
+    ],
+    "instructions": "Cook all ingredients of recipe 56 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe56_1/1080/1080",
+      "https://picsum.photos/seed/recipe56_2/1080/1080",
+      "https://picsum.photos/seed/recipe56_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 57",
+    "description": "Tasty Indian dish number 57. | स्वादिष्ट भारतीय व्यंजन संख्या 57।",
+    "ingredients": [
+      "Ingredient A57",
+      "Ingredient B57",
+      "Ingredient C57"
+    ],
+    "instructions": "Cook all ingredients of recipe 57 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe57_1/1080/1080",
+      "https://picsum.photos/seed/recipe57_2/1080/1080",
+      "https://picsum.photos/seed/recipe57_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 58",
+    "description": "Tasty Indian dish number 58. | स्वादिष्ट भारतीय व्यंजन संख्या 58।",
+    "ingredients": [
+      "Ingredient A58",
+      "Ingredient B58",
+      "Ingredient C58"
+    ],
+    "instructions": "Cook all ingredients of recipe 58 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe58_1/1080/1080",
+      "https://picsum.photos/seed/recipe58_2/1080/1080",
+      "https://picsum.photos/seed/recipe58_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 59",
+    "description": "Tasty Indian dish number 59. | स्वादिष्ट भारतीय व्यंजन संख्या 59।",
+    "ingredients": [
+      "Ingredient A59",
+      "Ingredient B59",
+      "Ingredient C59"
+    ],
+    "instructions": "Cook all ingredients of recipe 59 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe59_1/1080/1080",
+      "https://picsum.photos/seed/recipe59_2/1080/1080",
+      "https://picsum.photos/seed/recipe59_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 60",
+    "description": "Tasty Indian dish number 60. | स्वादिष्ट भारतीय व्यंजन संख्या 60।",
+    "ingredients": [
+      "Ingredient A60",
+      "Ingredient B60",
+      "Ingredient C60"
+    ],
+    "instructions": "Cook all ingredients of recipe 60 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe60_1/1080/1080",
+      "https://picsum.photos/seed/recipe60_2/1080/1080",
+      "https://picsum.photos/seed/recipe60_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 61",
+    "description": "Tasty Indian dish number 61. | स्वादिष्ट भारतीय व्यंजन संख्या 61।",
+    "ingredients": [
+      "Ingredient A61",
+      "Ingredient B61",
+      "Ingredient C61"
+    ],
+    "instructions": "Cook all ingredients of recipe 61 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe61_1/1080/1080",
+      "https://picsum.photos/seed/recipe61_2/1080/1080",
+      "https://picsum.photos/seed/recipe61_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 62",
+    "description": "Tasty Indian dish number 62. | स्वादिष्ट भारतीय व्यंजन संख्या 62।",
+    "ingredients": [
+      "Ingredient A62",
+      "Ingredient B62",
+      "Ingredient C62"
+    ],
+    "instructions": "Cook all ingredients of recipe 62 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe62_1/1080/1080",
+      "https://picsum.photos/seed/recipe62_2/1080/1080",
+      "https://picsum.photos/seed/recipe62_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 63",
+    "description": "Tasty Indian dish number 63. | स्वादिष्ट भारतीय व्यंजन संख्या 63।",
+    "ingredients": [
+      "Ingredient A63",
+      "Ingredient B63",
+      "Ingredient C63"
+    ],
+    "instructions": "Cook all ingredients of recipe 63 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe63_1/1080/1080",
+      "https://picsum.photos/seed/recipe63_2/1080/1080",
+      "https://picsum.photos/seed/recipe63_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 64",
+    "description": "Tasty Indian dish number 64. | स्वादिष्ट भारतीय व्यंजन संख्या 64।",
+    "ingredients": [
+      "Ingredient A64",
+      "Ingredient B64",
+      "Ingredient C64"
+    ],
+    "instructions": "Cook all ingredients of recipe 64 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe64_1/1080/1080",
+      "https://picsum.photos/seed/recipe64_2/1080/1080",
+      "https://picsum.photos/seed/recipe64_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 65",
+    "description": "Tasty Indian dish number 65. | स्वादिष्ट भारतीय व्यंजन संख्या 65।",
+    "ingredients": [
+      "Ingredient A65",
+      "Ingredient B65",
+      "Ingredient C65"
+    ],
+    "instructions": "Cook all ingredients of recipe 65 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe65_1/1080/1080",
+      "https://picsum.photos/seed/recipe65_2/1080/1080",
+      "https://picsum.photos/seed/recipe65_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 66",
+    "description": "Tasty Indian dish number 66. | स्वादिष्ट भारतीय व्यंजन संख्या 66।",
+    "ingredients": [
+      "Ingredient A66",
+      "Ingredient B66",
+      "Ingredient C66"
+    ],
+    "instructions": "Cook all ingredients of recipe 66 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe66_1/1080/1080",
+      "https://picsum.photos/seed/recipe66_2/1080/1080",
+      "https://picsum.photos/seed/recipe66_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 67",
+    "description": "Tasty Indian dish number 67. | स्वादिष्ट भारतीय व्यंजन संख्या 67।",
+    "ingredients": [
+      "Ingredient A67",
+      "Ingredient B67",
+      "Ingredient C67"
+    ],
+    "instructions": "Cook all ingredients of recipe 67 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe67_1/1080/1080",
+      "https://picsum.photos/seed/recipe67_2/1080/1080",
+      "https://picsum.photos/seed/recipe67_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 68",
+    "description": "Tasty Indian dish number 68. | स्वादिष्ट भारतीय व्यंजन संख्या 68।",
+    "ingredients": [
+      "Ingredient A68",
+      "Ingredient B68",
+      "Ingredient C68"
+    ],
+    "instructions": "Cook all ingredients of recipe 68 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe68_1/1080/1080",
+      "https://picsum.photos/seed/recipe68_2/1080/1080",
+      "https://picsum.photos/seed/recipe68_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 69",
+    "description": "Tasty Indian dish number 69. | स्वादिष्ट भारतीय व्यंजन संख्या 69।",
+    "ingredients": [
+      "Ingredient A69",
+      "Ingredient B69",
+      "Ingredient C69"
+    ],
+    "instructions": "Cook all ingredients of recipe 69 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe69_1/1080/1080",
+      "https://picsum.photos/seed/recipe69_2/1080/1080",
+      "https://picsum.photos/seed/recipe69_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 70",
+    "description": "Tasty Indian dish number 70. | स्वादिष्ट भारतीय व्यंजन संख्या 70।",
+    "ingredients": [
+      "Ingredient A70",
+      "Ingredient B70",
+      "Ingredient C70"
+    ],
+    "instructions": "Cook all ingredients of recipe 70 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe70_1/1080/1080",
+      "https://picsum.photos/seed/recipe70_2/1080/1080",
+      "https://picsum.photos/seed/recipe70_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 71",
+    "description": "Tasty Indian dish number 71. | स्वादिष्ट भारतीय व्यंजन संख्या 71।",
+    "ingredients": [
+      "Ingredient A71",
+      "Ingredient B71",
+      "Ingredient C71"
+    ],
+    "instructions": "Cook all ingredients of recipe 71 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe71_1/1080/1080",
+      "https://picsum.photos/seed/recipe71_2/1080/1080",
+      "https://picsum.photos/seed/recipe71_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 72",
+    "description": "Tasty Indian dish number 72. | स्वादिष्ट भारतीय व्यंजन संख्या 72।",
+    "ingredients": [
+      "Ingredient A72",
+      "Ingredient B72",
+      "Ingredient C72"
+    ],
+    "instructions": "Cook all ingredients of recipe 72 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe72_1/1080/1080",
+      "https://picsum.photos/seed/recipe72_2/1080/1080",
+      "https://picsum.photos/seed/recipe72_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 73",
+    "description": "Tasty Indian dish number 73. | स्वादिष्ट भारतीय व्यंजन संख्या 73।",
+    "ingredients": [
+      "Ingredient A73",
+      "Ingredient B73",
+      "Ingredient C73"
+    ],
+    "instructions": "Cook all ingredients of recipe 73 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe73_1/1080/1080",
+      "https://picsum.photos/seed/recipe73_2/1080/1080",
+      "https://picsum.photos/seed/recipe73_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 74",
+    "description": "Tasty Indian dish number 74. | स्वादिष्ट भारतीय व्यंजन संख्या 74।",
+    "ingredients": [
+      "Ingredient A74",
+      "Ingredient B74",
+      "Ingredient C74"
+    ],
+    "instructions": "Cook all ingredients of recipe 74 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe74_1/1080/1080",
+      "https://picsum.photos/seed/recipe74_2/1080/1080",
+      "https://picsum.photos/seed/recipe74_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 75",
+    "description": "Tasty Indian dish number 75. | स्वादिष्ट भारतीय व्यंजन संख्या 75।",
+    "ingredients": [
+      "Ingredient A75",
+      "Ingredient B75",
+      "Ingredient C75"
+    ],
+    "instructions": "Cook all ingredients of recipe 75 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe75_1/1080/1080",
+      "https://picsum.photos/seed/recipe75_2/1080/1080",
+      "https://picsum.photos/seed/recipe75_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 76",
+    "description": "Tasty Indian dish number 76. | स्वादिष्ट भारतीय व्यंजन संख्या 76।",
+    "ingredients": [
+      "Ingredient A76",
+      "Ingredient B76",
+      "Ingredient C76"
+    ],
+    "instructions": "Cook all ingredients of recipe 76 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe76_1/1080/1080",
+      "https://picsum.photos/seed/recipe76_2/1080/1080",
+      "https://picsum.photos/seed/recipe76_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 77",
+    "description": "Tasty Indian dish number 77. | स्वादिष्ट भारतीय व्यंजन संख्या 77।",
+    "ingredients": [
+      "Ingredient A77",
+      "Ingredient B77",
+      "Ingredient C77"
+    ],
+    "instructions": "Cook all ingredients of recipe 77 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe77_1/1080/1080",
+      "https://picsum.photos/seed/recipe77_2/1080/1080",
+      "https://picsum.photos/seed/recipe77_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 78",
+    "description": "Tasty Indian dish number 78. | स्वादिष्ट भारतीय व्यंजन संख्या 78।",
+    "ingredients": [
+      "Ingredient A78",
+      "Ingredient B78",
+      "Ingredient C78"
+    ],
+    "instructions": "Cook all ingredients of recipe 78 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe78_1/1080/1080",
+      "https://picsum.photos/seed/recipe78_2/1080/1080",
+      "https://picsum.photos/seed/recipe78_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 79",
+    "description": "Tasty Indian dish number 79. | स्वादिष्ट भारतीय व्यंजन संख्या 79।",
+    "ingredients": [
+      "Ingredient A79",
+      "Ingredient B79",
+      "Ingredient C79"
+    ],
+    "instructions": "Cook all ingredients of recipe 79 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe79_1/1080/1080",
+      "https://picsum.photos/seed/recipe79_2/1080/1080",
+      "https://picsum.photos/seed/recipe79_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 80",
+    "description": "Tasty Indian dish number 80. | स्वादिष्ट भारतीय व्यंजन संख्या 80।",
+    "ingredients": [
+      "Ingredient A80",
+      "Ingredient B80",
+      "Ingredient C80"
+    ],
+    "instructions": "Cook all ingredients of recipe 80 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe80_1/1080/1080",
+      "https://picsum.photos/seed/recipe80_2/1080/1080",
+      "https://picsum.photos/seed/recipe80_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 81",
+    "description": "Tasty Indian dish number 81. | स्वादिष्ट भारतीय व्यंजन संख्या 81।",
+    "ingredients": [
+      "Ingredient A81",
+      "Ingredient B81",
+      "Ingredient C81"
+    ],
+    "instructions": "Cook all ingredients of recipe 81 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe81_1/1080/1080",
+      "https://picsum.photos/seed/recipe81_2/1080/1080",
+      "https://picsum.photos/seed/recipe81_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 82",
+    "description": "Tasty Indian dish number 82. | स्वादिष्ट भारतीय व्यंजन संख्या 82।",
+    "ingredients": [
+      "Ingredient A82",
+      "Ingredient B82",
+      "Ingredient C82"
+    ],
+    "instructions": "Cook all ingredients of recipe 82 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe82_1/1080/1080",
+      "https://picsum.photos/seed/recipe82_2/1080/1080",
+      "https://picsum.photos/seed/recipe82_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 83",
+    "description": "Tasty Indian dish number 83. | स्वादिष्ट भारतीय व्यंजन संख्या 83।",
+    "ingredients": [
+      "Ingredient A83",
+      "Ingredient B83",
+      "Ingredient C83"
+    ],
+    "instructions": "Cook all ingredients of recipe 83 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe83_1/1080/1080",
+      "https://picsum.photos/seed/recipe83_2/1080/1080",
+      "https://picsum.photos/seed/recipe83_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 84",
+    "description": "Tasty Indian dish number 84. | स्वादिष्ट भारतीय व्यंजन संख्या 84।",
+    "ingredients": [
+      "Ingredient A84",
+      "Ingredient B84",
+      "Ingredient C84"
+    ],
+    "instructions": "Cook all ingredients of recipe 84 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe84_1/1080/1080",
+      "https://picsum.photos/seed/recipe84_2/1080/1080",
+      "https://picsum.photos/seed/recipe84_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 85",
+    "description": "Tasty Indian dish number 85. | स्वादिष्ट भारतीय व्यंजन संख्या 85।",
+    "ingredients": [
+      "Ingredient A85",
+      "Ingredient B85",
+      "Ingredient C85"
+    ],
+    "instructions": "Cook all ingredients of recipe 85 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe85_1/1080/1080",
+      "https://picsum.photos/seed/recipe85_2/1080/1080",
+      "https://picsum.photos/seed/recipe85_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 86",
+    "description": "Tasty Indian dish number 86. | स्वादिष्ट भारतीय व्यंजन संख्या 86।",
+    "ingredients": [
+      "Ingredient A86",
+      "Ingredient B86",
+      "Ingredient C86"
+    ],
+    "instructions": "Cook all ingredients of recipe 86 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe86_1/1080/1080",
+      "https://picsum.photos/seed/recipe86_2/1080/1080",
+      "https://picsum.photos/seed/recipe86_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 87",
+    "description": "Tasty Indian dish number 87. | स्वादिष्ट भारतीय व्यंजन संख्या 87।",
+    "ingredients": [
+      "Ingredient A87",
+      "Ingredient B87",
+      "Ingredient C87"
+    ],
+    "instructions": "Cook all ingredients of recipe 87 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe87_1/1080/1080",
+      "https://picsum.photos/seed/recipe87_2/1080/1080",
+      "https://picsum.photos/seed/recipe87_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 88",
+    "description": "Tasty Indian dish number 88. | स्वादिष्ट भारतीय व्यंजन संख्या 88।",
+    "ingredients": [
+      "Ingredient A88",
+      "Ingredient B88",
+      "Ingredient C88"
+    ],
+    "instructions": "Cook all ingredients of recipe 88 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe88_1/1080/1080",
+      "https://picsum.photos/seed/recipe88_2/1080/1080",
+      "https://picsum.photos/seed/recipe88_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 89",
+    "description": "Tasty Indian dish number 89. | स्वादिष्ट भारतीय व्यंजन संख्या 89।",
+    "ingredients": [
+      "Ingredient A89",
+      "Ingredient B89",
+      "Ingredient C89"
+    ],
+    "instructions": "Cook all ingredients of recipe 89 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe89_1/1080/1080",
+      "https://picsum.photos/seed/recipe89_2/1080/1080",
+      "https://picsum.photos/seed/recipe89_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 90",
+    "description": "Tasty Indian dish number 90. | स्वादिष्ट भारतीय व्यंजन संख्या 90।",
+    "ingredients": [
+      "Ingredient A90",
+      "Ingredient B90",
+      "Ingredient C90"
+    ],
+    "instructions": "Cook all ingredients of recipe 90 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe90_1/1080/1080",
+      "https://picsum.photos/seed/recipe90_2/1080/1080",
+      "https://picsum.photos/seed/recipe90_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 91",
+    "description": "Tasty Indian dish number 91. | स्वादिष्ट भारतीय व्यंजन संख्या 91।",
+    "ingredients": [
+      "Ingredient A91",
+      "Ingredient B91",
+      "Ingredient C91"
+    ],
+    "instructions": "Cook all ingredients of recipe 91 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe91_1/1080/1080",
+      "https://picsum.photos/seed/recipe91_2/1080/1080",
+      "https://picsum.photos/seed/recipe91_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 92",
+    "description": "Tasty Indian dish number 92. | स्वादिष्ट भारतीय व्यंजन संख्या 92।",
+    "ingredients": [
+      "Ingredient A92",
+      "Ingredient B92",
+      "Ingredient C92"
+    ],
+    "instructions": "Cook all ingredients of recipe 92 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe92_1/1080/1080",
+      "https://picsum.photos/seed/recipe92_2/1080/1080",
+      "https://picsum.photos/seed/recipe92_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 93",
+    "description": "Tasty Indian dish number 93. | स्वादिष्ट भारतीय व्यंजन संख्या 93।",
+    "ingredients": [
+      "Ingredient A93",
+      "Ingredient B93",
+      "Ingredient C93"
+    ],
+    "instructions": "Cook all ingredients of recipe 93 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe93_1/1080/1080",
+      "https://picsum.photos/seed/recipe93_2/1080/1080",
+      "https://picsum.photos/seed/recipe93_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 94",
+    "description": "Tasty Indian dish number 94. | स्वादिष्ट भारतीय व्यंजन संख्या 94।",
+    "ingredients": [
+      "Ingredient A94",
+      "Ingredient B94",
+      "Ingredient C94"
+    ],
+    "instructions": "Cook all ingredients of recipe 94 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe94_1/1080/1080",
+      "https://picsum.photos/seed/recipe94_2/1080/1080",
+      "https://picsum.photos/seed/recipe94_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 95",
+    "description": "Tasty Indian dish number 95. | स्वादिष्ट भारतीय व्यंजन संख्या 95।",
+    "ingredients": [
+      "Ingredient A95",
+      "Ingredient B95",
+      "Ingredient C95"
+    ],
+    "instructions": "Cook all ingredients of recipe 95 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe95_1/1080/1080",
+      "https://picsum.photos/seed/recipe95_2/1080/1080",
+      "https://picsum.photos/seed/recipe95_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 96",
+    "description": "Tasty Indian dish number 96. | स्वादिष्ट भारतीय व्यंजन संख्या 96।",
+    "ingredients": [
+      "Ingredient A96",
+      "Ingredient B96",
+      "Ingredient C96"
+    ],
+    "instructions": "Cook all ingredients of recipe 96 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe96_1/1080/1080",
+      "https://picsum.photos/seed/recipe96_2/1080/1080",
+      "https://picsum.photos/seed/recipe96_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 97",
+    "description": "Tasty Indian dish number 97. | स्वादिष्ट भारतीय व्यंजन संख्या 97।",
+    "ingredients": [
+      "Ingredient A97",
+      "Ingredient B97",
+      "Ingredient C97"
+    ],
+    "instructions": "Cook all ingredients of recipe 97 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe97_1/1080/1080",
+      "https://picsum.photos/seed/recipe97_2/1080/1080",
+      "https://picsum.photos/seed/recipe97_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 98",
+    "description": "Tasty Indian dish number 98. | स्वादिष्ट भारतीय व्यंजन संख्या 98।",
+    "ingredients": [
+      "Ingredient A98",
+      "Ingredient B98",
+      "Ingredient C98"
+    ],
+    "instructions": "Cook all ingredients of recipe 98 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe98_1/1080/1080",
+      "https://picsum.photos/seed/recipe98_2/1080/1080",
+      "https://picsum.photos/seed/recipe98_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 99",
+    "description": "Tasty Indian dish number 99. | स्वादिष्ट भारतीय व्यंजन संख्या 99।",
+    "ingredients": [
+      "Ingredient A99",
+      "Ingredient B99",
+      "Ingredient C99"
+    ],
+    "instructions": "Cook all ingredients of recipe 99 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe99_1/1080/1080",
+      "https://picsum.photos/seed/recipe99_2/1080/1080",
+      "https://picsum.photos/seed/recipe99_3/1080/1080"
+    ]
+  },
+  {
+    "title": "Indian Recipe 100",
+    "description": "Tasty Indian dish number 100. | स्वादिष्ट भारतीय व्यंजन संख्या 100।",
+    "ingredients": [
+      "Ingredient A100",
+      "Ingredient B100",
+      "Ingredient C100"
+    ],
+    "instructions": "Cook all ingredients of recipe 100 with love.",
+    "images": [
+      "https://picsum.photos/seed/recipe100_1/1080/1080",
+      "https://picsum.photos/seed/recipe100_2/1080/1080",
+      "https://picsum.photos/seed/recipe100_3/1080/1080"
+    ]
+  }
+]
